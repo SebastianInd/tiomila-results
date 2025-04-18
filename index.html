@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tiomila Results Search</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        input {
+            width: 100%;
+            padding: 0.5rem;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .result-year {
+            margin-left: 1rem;
+        }
+
+        .result-team {
+            margin-left: 2rem;
+        }
+
+        .club-header {
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-top: 1rem;
+        }
+
+        .relay-header {
+            font-style: italic;
+            margin-left: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .status-message {
+            font-size: 0.9rem;
+            color: gray;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>🔍 Tiomila Results Search</h1>
+    <div id="statusMessage" class="status-message">Loading data...</div>
+    <input type="text" id="searchBox" placeholder="Type a club name..." />
+    <div id="results"></div>
+
+    <script>
+        let data = {};
+
+        async function loadData() {
+            const statusMessage = document.getElementById('statusMessage');
+            statusMessage.textContent = 'Loading data...';
+
+            try {
+                const resultsRes = await fetch('gathered_results.json');
+                data = await resultsRes.json();
+
+                // Update status message with the number of club IDs
+                const clubCount = Object.keys(data).length;
+                statusMessage.textContent = `Data loaded successfully. ${clubCount} clubs available.`;
+            } catch (error) {
+                statusMessage.textContent = 'Error loading data. Please try again.';
+                console.error('Error loading data:', error);
+            }
+        }
+
+        function displayResults(clubName) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            const clubData = Object.values(data).find(club => club.names.includes(clubName));
+            if (!clubData) {
+                resultsDiv.textContent = `No results found for "${clubName}".`;
+                return;
+            }
+
+            const clubHeader = document.createElement('div');
+            clubHeader.className = 'club-header';
+            clubHeader.textContent = `📊 Results for ${clubName}`;
+            resultsDiv.appendChild(clubHeader);
+
+            for (const [relay, years] of Object.entries(clubData.results)) {
+                const relayHeader = document.createElement('div');
+                relayHeader.className = 'relay-header';
+                relayHeader.innerHTML = `🔁 <strong>${relay}</strong>`;
+                resultsDiv.appendChild(relayHeader);
+
+                for (const year of Object.keys(years).sort()) {
+                    const yearDiv = document.createElement('div');
+                    yearDiv.className = 'result-year';
+                    yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
+
+                    for (const [teamName, result] of Object.entries(years[year])) {
+                        const teamDiv = document.createElement('div');
+                        teamDiv.className = 'result-team';
+                        teamDiv.textContent = `🏃 #${result.result_position ?? 'N/A'}: ${teamName}, ${result.total_time ?? 'N/A'}, ${result.status ?? 'N/A'}`;
+                        yearDiv.appendChild(teamDiv);
+                    }
+
+                    resultsDiv.appendChild(yearDiv);
+                }
+            }
+        }
+
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            const club = e.target.value.trim();
+            if (club.length > 2) {
+                displayResults(club);
+            } else {
+                document.getElementById('results').innerHTML = '';
+            }
+        });
+
+        loadData();
+    </script>
+</body>
+
+</html>
