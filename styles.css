@@ -65,3 +65,27 @@ input {
 .suggestion-item:hover {
     background-color: #e0e0e0;
 }
+
+.donation-button {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.donation-button button {
+    background-color: #ffdd57;
+    color: #000;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.donation-button button:hover {
+    background-color: #ffc107;
+}
+
+.donation-button img {
+    display: block;
+    margin: 0.5rem auto;
+}

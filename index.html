@@ -15,6 +15,14 @@
     <input type="text" id="searchBox" placeholder="Type a club name..." />
     <div id="results"></div>
 
+    <div class="donation-button">
+        <a href="https://www.paypal.com/paypalme/SebastianInderst" target="_blank" rel="noopener noreferrer">
+            <button>🍫 Paypal me a carbogel</button>
+        </a>
+        <p>or support via Swish:</p>
+        <img src="swish-qr.png" alt="Swish QR Code" style="width: 150px; height: auto;">
+    </div>
+
     <script>
         let data = {};
 
@@ -35,7 +43,7 @@
         }
 
         function fuzzySearch(input, clubNames) {
-            const normalizedInput = input.toLowerCase().replace(/\s+/g, '');
+            const normalizedInput = input.toLowerCase().replace(/[-\s]+/g, '');
             return clubNames.filter(name =>
                 name.toLowerCase().replace(/[-\s]+/g, '').includes(normalizedInput)
             );
