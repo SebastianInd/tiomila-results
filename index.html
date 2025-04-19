@@ -26,8 +26,9 @@
         <a href="https://www.paypal.com/paypalme/SebastianInderst" target="_blank" rel="noopener noreferrer">
             <button>🍫 Paypal me a carbogel</button>
         </a>
-        <p>or support via Swish:</p>
-        <img src="assets/swish-qr.png" alt="Swish QR Code" style="width: 150px; height: auto;">
+        <p id="swishText">or support via Swish:</p>
+        <img id="swishQr" src="assets/swish-qr.png" alt="Swish QR Code" style="width: 150px; height: auto;">
+        <button id="swishButton" style="display: none;">📱 Support with Swish</button>
     </div>
 
     <script>
@@ -162,6 +163,25 @@
         });
 
         loadData();
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            const swishQr = document.getElementById('swishQr');
+            const swishButton = document.getElementById('swishButton');
+            const swishText = document.getElementById('swishText');
+
+            if (isMobile) {
+                // Hide the QR code and show the Swish button
+                swishQr.style.display = 'none';
+                swishText.textContent = '';
+                swishButton.style.display = 'inline-block';
+
+                // Add Swish payment URL to the button
+                swishButton.addEventListener('click', () => {
+                    window.location.href = 'swish://payment?data=0731523231&message=Support%20Tiomila%20Results%20Search';
+                });
+            }
+        });
     </script>
 </body>
 
