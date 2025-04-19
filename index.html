@@ -45,6 +45,24 @@
             color: gray;
             margin-bottom: 1rem;
         }
+
+        .suggestion-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .suggestion-item {
+            cursor: pointer;
+            padding: 0.5rem;
+            border: 1px solid #ccc;
+            margin-bottom: 0.5rem;
+            background-color: #f9f9f9;
+        }
+
+        .suggestion-item:hover {
+            background-color: #e0e0e0;
+        }
     </style>
 </head>
 
@@ -65,7 +83,6 @@
                 const resultsRes = await fetch('gathered_results.json');
                 data = await resultsRes.json();
 
-                // Update status message with the number of club IDs
                 const clubCount = Object.keys(data).length;
                 statusMessage.textContent = `Data loaded successfully. ${clubCount} clubs available.`;
             } catch (error) {
@@ -74,13 +91,45 @@
             }
         }
 
+        function fuzzySearch(input, clubNames) {
+            const normalizedInput = input.toLowerCase().replace(/\s+/g, '');
+            return clubNames.filter(name =>
+                name.toLowerCase().replace(/[-\s]+/g, '').includes(normalizedInput)
+            );
+        }
+
         function displayResults(clubName) {
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
 
             const clubData = Object.values(data).find(club => club.names.includes(clubName));
             if (!clubData) {
-                resultsDiv.textContent = `No results found for "${clubName}".`;
+                // Perform fuzzy search for suggestions
+                const allClubNames = Object.values(data).flatMap(club => club.names);
+                const suggestions = fuzzySearch(clubName, allClubNames);
+
+                if (suggestions.length > 0) {
+                    const suggestionList = document.createElement('ul');
+                    suggestionList.className = 'suggestion-list';
+
+                    suggestions.forEach(suggestion => {
+                        const suggestionItem = document.createElement('li');
+                        suggestionItem.className = 'suggestion-item';
+                        suggestionItem.textContent = suggestion;
+
+                        suggestionItem.addEventListener('click', () => {
+                            document.getElementById('searchBox').value = suggestion;
+                            displayResults(suggestion);
+                        });
+
+                        suggestionList.appendChild(suggestionItem);
+                    });
+
+                    resultsDiv.appendChild(suggestionList);
+                } else {
+                    resultsDiv.textContent = `No results found for "${clubName}".`;
+                }
+
                 return;
             }
 
