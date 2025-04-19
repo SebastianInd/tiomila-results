@@ -12,14 +12,6 @@ input {
     margin-bottom: 1rem;
 }
 
-.result-year {
-    margin-left: 1rem;
-}
-
-.result-team {
-    margin-left: 2rem;
-}
-
 .club-header {
     font-weight: bold;
     font-size: 1.2rem;
@@ -27,9 +19,27 @@ input {
 }
 
 .relay-header {
-    font-style: italic;
+    font-weight: bold;
     margin-left: 0.5rem;
     margin-top: 0.5rem;
+}
+
+.best-result {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.best-result-item {
+    margin-left: 2rem;
+}
+
+.result-year {
+    margin-left: 1rem;
+}
+
+.result-team {
+    margin-left: 2rem;
 }
 
 .status-message {
