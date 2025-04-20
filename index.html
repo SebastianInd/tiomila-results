@@ -136,9 +136,29 @@
 
                 // Display results for each year
                 for (const year of Object.keys(years).sort()) {
+                    const eventIds = {
+                        2013: 2287,
+                        2014: 7526,
+                        2015: 9208,
+                        2016: 8003,
+                        2017: 14802,
+                        2018: 17220,
+                        2019: 20090,
+                        2022: 33643,
+                        2023: 43111,
+                        2024: 47276
+                    };
+
                     const yearDiv = document.createElement('div');
                     yearDiv.className = 'result-year';
-                    yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
+
+                    // Add a clickable link for the year
+                    const eventId = eventIds[year];
+                    if (eventId) {
+                        yearDiv.innerHTML = `🗓️ <strong><a href="https://eventor.orientering.se/Events/ResultList?eventId=${eventId}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
+                    } else {
+                        yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
+                    }
 
                     for (const [teamName, result] of Object.entries(years[year])) {
                         const teamDiv = document.createElement('div');
