@@ -26,8 +26,12 @@
         <a href="https://www.paypal.com/paypalme/SebastianInderst" target="_blank" rel="noopener noreferrer">
             <button>🍫 Paypal me a carbogel</button>
         </a>
-        <p>or support via Swish:</p>
-        <img src="assets/swish-qr.png" alt="Swish QR Code" style="width: 150px; height: auto;">
+    </div>
+
+    <div>
+        <p class="contact-section">If you encounter any issues or have feedback, feel
+            free to <a href="mailto:sebastian.inderst@gmail.com">reach out</a>
+        </p>
     </div>
 
     <script>
@@ -60,7 +64,7 @@
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
 
-            const clubData = Object.values(data).find(club => club.names.includes(clubName));
+            const [clubKey, clubData] = Object.entries(data).find(([key, club]) => club.names.includes(clubName)) || [];
             if (!clubData) {
                 // Perform fuzzy search for suggestions
                 const allClubNames = Object.values(data).flatMap(club => club.names);
@@ -155,7 +159,7 @@
                     // Add a clickable link for the year
                     const eventId = eventIds[year];
                     if (eventId) {
-                        yearDiv.innerHTML = `🗓️ <strong><a href="https://eventor.orientering.se/Events/ResultList?eventId=${eventId}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
+                        yearDiv.innerHTML = `🗓️ <strong><a href="https://eventor.orientering.se/Events/ResultList?eventId=${eventId}&organisationId=${clubKey}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
                     } else {
                         yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
                     }

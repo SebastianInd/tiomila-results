@@ -89,3 +89,9 @@ input {
     display: block;
     margin: 0.5rem auto;
 }
+
+.contact-section {
+    color: grey;
+    font-size: 0.9em;
+    text-align: center;
+}
