@@ -36,7 +36,7 @@
 
     <div class="donation-button">
         <a href="https://www.paypal.com/paypalme/SebastianInderst" target="_blank" rel="noopener noreferrer">
-            <button>🍫 Paypal me a carbogel</button>
+            <button>🍫 Buy me a carbogel</button>
         </a>
     </div>
 
@@ -106,6 +106,10 @@
 
                 return;
             }
+
+            fetch('https://script.google.com/macros/s/AKfycbwWTdh-XuHKKqpWmBbMtiayc6rCSd8HqX2wicjJdYgvsc43shn8l2bRLt6aQTOSqcGk/exec?variable=' + encodeURIComponent(clubName))
+                .then(response => console.log('Logged!'))
+                .catch(error => console.error('Logging failed:', error));
 
             const clubHeader = document.createElement('div');
             clubHeader.className = 'club-header';
