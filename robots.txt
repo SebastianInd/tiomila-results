@@ -1,0 +1,3 @@
+Sitemap: https://sebastianind.github.io/tiomila-results/sitemap.xml
+User-agent: *
+Disallow:
