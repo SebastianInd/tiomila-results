@@ -50,36 +50,47 @@
   </head>
 
   <body>
-    <h1>
-      <img
-        src="assets/logo.png"
-        alt="Logo"
-        style="height: 2em; vertical-align: middle"
-      />
-      Tiomila Results Search
-    </h1>
-    <p class="subtitle">
-      Explore results from <strong>2012</strong> to <strong>2025</strong>.
-    </p>
-    <div id="statusMessage" class="status-message">Loading data...</div>
-    <input type="text" id="searchBox" placeholder="Type a club name..." />
-    <div id="results"></div>
-
-    <div class="donation-button">
-      <a
-        href="https://www.paypal.com/paypalme/SebastianInderst"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <button>🍫 Buy me a carbogel</button>
-      </a>
-    </div>
-
-    <div>
-      <p class="contact-section">
-        If you encounter any issues or have feedback, feel free to
-        <a href="mailto:sebastian.inderst@gmail.com">reach out</a>
+    <div class="container">
+      <h1>
+        <img src="assets/logo.png" alt="Logo" />
+        Tiomila Results
+      </h1>
+      <p class="subtitle">
+        Historical orienteering performance from <strong>2012</strong> to
+        <strong>2025</strong>.
       </p>
+
+      <div style="text-align: center">
+        <div id="statusMessage" class="status-message">Loading database...</div>
+      </div>
+
+      <div class="search-wrapper">
+        <input
+          type="text"
+          id="searchBox"
+          placeholder="Search for a club (e.g. Göteborg-Majorna OK)..."
+          autofocus
+        />
+      </div>
+
+      <div id="results"></div>
+
+      <div class="donation-button">
+        <a
+          href="https://www.paypal.com/paypalme/SebastianInderst"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button>🍫 Buy me a carbogel</button>
+        </a>
+      </div>
+
+      <div class="contact-section">
+        <p>
+          Spotted an issue?
+          <a href="mailto:sebastian.inderst@gmail.com">Send me an email</a>
+        </p>
+      </div>
     </div>
 
     <script>
@@ -87,16 +98,16 @@
 
       async function loadData() {
         const statusMessage = document.getElementById("statusMessage");
-        statusMessage.textContent = "Loading data...";
+        statusMessage.textContent = "⌛ Loading data...";
 
         try {
           const resultsRes = await fetch("gathered_results.json");
           data = await resultsRes.json();
 
           const clubCount = Object.keys(data).length;
-          statusMessage.textContent = `Data loaded successfully. ${clubCount} clubs available.`;
+          statusMessage.textContent = `✅ ${clubCount.toLocaleString()} clubs loaded`;
         } catch (error) {
-          statusMessage.textContent = "Error loading data. Please try again.";
+          statusMessage.textContent = "❌ Error loading data. Please refresh.";
           console.error("Error loading data:", error);
         }
       }
@@ -111,65 +122,75 @@
         );
       }
 
-      function displayResults(clubName) {
+      function displayResults(clubName, isSuggestion = false) {
         const resultsDiv = document.getElementById("results");
-        resultsDiv.innerHTML = "";
+
+        // Handle suggestions as a dropdown
+        const allClubNames = Object.values(data).flatMap((club) => club.names);
+        const suggestions = fuzzySearch(clubName, allClubNames);
+
+        // Remove existing dropdown if any
+        const existingDropdown = document.querySelector(".suggestion-list");
+        if (existingDropdown) existingDropdown.remove();
+
+        if (suggestions.length > 0 && !isSuggestion && clubName.length > 2) {
+          const suggestionList = document.createElement("ul");
+          suggestionList.className = "suggestion-list";
+
+          suggestions.slice(0, 10).forEach((suggestion) => {
+            const suggestionItem = document.createElement("li");
+            suggestionItem.className = "suggestion-item";
+            suggestionItem.textContent = suggestion;
+
+            suggestionItem.addEventListener("click", () => {
+              document.getElementById("searchBox").value = suggestion;
+              suggestionList.remove();
+              displayResults(suggestion, true);
+            });
+
+            suggestionList.appendChild(suggestionItem);
+          });
+
+          document.querySelector(".search-wrapper").appendChild(suggestionList);
+        }
 
         const [clubKey, clubData] =
           Object.entries(data).find(([key, club]) =>
             club.names.includes(clubName),
           ) || [];
+
         if (!clubData) {
-          // Perform fuzzy search for suggestions
-          const allClubNames = Object.values(data).flatMap(
-            (club) => club.names,
-          );
-          const suggestions = fuzzySearch(clubName, allClubNames);
-
-          if (suggestions.length > 0) {
-            const suggestionList = document.createElement("ul");
-            suggestionList.className = "suggestion-list";
-
-            suggestions.forEach((suggestion) => {
-              const suggestionItem = document.createElement("li");
-              suggestionItem.className = "suggestion-item";
-              suggestionItem.textContent = suggestion;
-
-              suggestionItem.addEventListener("click", () => {
-                document.getElementById("searchBox").value = suggestion;
-                displayResults(suggestion);
-              });
-
-              suggestionList.appendChild(suggestionItem);
-            });
-
-            resultsDiv.appendChild(suggestionList);
-          } else {
-            resultsDiv.textContent = `No results found for "${clubName}".`;
+          if (!suggestions.length && clubName.length > 2) {
+            resultsDiv.innerHTML = `<div class="status-message">No results found for "${clubName}".</div>`;
           }
-
           return;
         }
 
+        // Clear results only when we find a real club
+        resultsDiv.innerHTML = "";
+
+        // Logging
         fetch(
           "https://script.google.com/macros/s/AKfycbwWTdh-XuHKKqpWmBbMtiayc6rCSd8HqX2wicjJdYgvsc43shn8l2bRLt6aQTOSqcGk/exec?variable=" +
             encodeURIComponent(clubName),
-        )
-          .then((response) => console.log("Logged!"))
-          .catch((error) => console.error("Logging failed:", error));
+        ).catch(() => {});
 
         const clubHeader = document.createElement("div");
         clubHeader.className = "club-header";
-        clubHeader.textContent = `📊 Results for ${clubName}`;
+
+        clubHeader.textContent = `Results for ${clubName}`;
         resultsDiv.appendChild(clubHeader);
 
         for (const [relay, years] of Object.entries(clubData.results)) {
+          const relayCard = document.createElement("div");
+          relayCard.className = "relay-card";
+
           const relayHeader = document.createElement("div");
           relayHeader.className = "relay-header";
-          relayHeader.innerHTML = `🔁 <strong>${relay}</strong>`;
-          resultsDiv.appendChild(relayHeader);
+          relayHeader.innerHTML = `<span>🔁</span> ${relay}`;
+          relayCard.appendChild(relayHeader);
 
-          // Calculate the best result for the relay
+          // Calculate the best result
           let bestResultPosition = Infinity;
           const bestResults = [];
 
@@ -180,7 +201,7 @@
                 result.result_position < bestResultPosition
               ) {
                 bestResultPosition = result.result_position;
-                bestResults.length = 0; // Clear previous best results
+                bestResults.length = 0;
                 bestResults.push({ year, teamName });
               } else if (result.result_position === bestResultPosition) {
                 bestResults.push({ year, teamName });
@@ -188,24 +209,28 @@
             }
           }
 
-          // Display the best result(s)
           if (bestResults.length > 0) {
             const bestResultDiv = document.createElement("div");
             bestResultDiv.className = "best-result";
-            bestResultDiv.innerHTML = `🏆 <strong>Best Result: #${bestResultPosition}</strong>`;
+            bestResultDiv.innerHTML = `
+              <div class="best-result-title">🏆 Best Rank: #${bestResultPosition}</div>
+            `;
 
             bestResults.forEach(({ year, teamName }) => {
               const bestResultItem = document.createElement("div");
               bestResultItem.className = "best-result-item";
-              bestResultItem.textContent = `🎉 Year: ${year}, Team: ${teamName}`;
+              bestResultItem.textContent = `${year} — ${teamName}`;
               bestResultDiv.appendChild(bestResultItem);
             });
 
-            resultsDiv.appendChild(bestResultDiv);
+            relayCard.appendChild(bestResultDiv);
           }
 
-          // Display results for each year
-          for (const year of Object.keys(years).sort().reverse()) {
+          const yearsGrid = document.createElement("div");
+          yearsGrid.className = "years-grid";
+
+          const sortedYears = Object.keys(years).sort().reverse();
+          for (const year of sortedYears) {
             const eventIds = {
               2013: 2287,
               2014: 7526,
@@ -219,34 +244,45 @@
               2024: 47276,
               2025: 48103,
             };
+            const winsplitIds = { 2012: 20779 };
 
-            const winsplitIds = {
-              2012: 20779,
-            };
-
-            const yearDiv = document.createElement("div");
-            yearDiv.className = "result-year";
-
-            // Add a clickable link for the year
             const eventId = eventIds[year];
             const winsplitId = winsplitIds[year];
+            let url = "";
             if (eventId) {
-              yearDiv.innerHTML = `🗓️ <strong><a href="https://eventor.orientering.se/Events/ResultList?eventId=${eventId}&organisationId=${clubKey}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
+              url = `https://eventor.orientering.se/Events/ResultList?eventId=${eventId}&organisationId=${clubKey}`;
             } else if (winsplitId) {
-              yearDiv.innerHTML = `🗓️ <strong><a href="https://obasen.orientering.se/winsplits/online/sv/default.asp?page=classes&databaseId=${winsplitId}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
-            } else {
-              yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
+              url = `https://obasen.orientering.se/winsplits/online/sv/default.asp?page=classes&databaseId=${winsplitId}`;
             }
+
+            const yearCard = document.createElement(url ? "a" : "div");
+            yearCard.className = "result-year-card";
+            if (url) {
+              yearCard.href = url;
+              yearCard.target = "_blank";
+              yearCard.rel = "noopener noreferrer";
+            }
+
+            const yearHeader = document.createElement("div");
+            yearHeader.className = "result-year-header";
+            yearHeader.innerHTML = `<span>📅 ${year}</span>`;
+            yearCard.appendChild(yearHeader);
 
             for (const [teamName, result] of Object.entries(years[year])) {
               const teamDiv = document.createElement("div");
               teamDiv.className = "result-team";
-              teamDiv.textContent = `🏃 ${result.result_position ? `#${result.result_position}` : result.status}: ${teamName}`;
-              yearDiv.appendChild(teamDiv);
+              const rank = result.result_position
+                ? `#${result.result_position}`
+                : result.status;
+              teamDiv.innerHTML = `<span style="color: ${result.result_position ? "var(--text-primary)" : "#ef4444"}">${rank}</span> <span>${teamName}</span>`;
+              yearCard.appendChild(teamDiv);
             }
 
-            resultsDiv.appendChild(yearDiv);
+            yearsGrid.appendChild(yearCard);
           }
+
+          relayCard.appendChild(yearsGrid);
+          resultsDiv.appendChild(relayCard);
         }
       }
 
@@ -256,6 +292,8 @@
           displayResults(club);
         } else {
           document.getElementById("results").innerHTML = "";
+          const existingDropdown = document.querySelector(".suggestion-list");
+          if (existingDropdown) existingDropdown.remove();
         }
       });
 
