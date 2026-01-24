@@ -1,209 +1,265 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tiomila Results Search</title>
-    <meta name="description"
-        content="Search and explore historical Tiomila orienteering results from 2013 to 2025. Discover team performances, best relay results, and original event links.">
-    <meta name="keywords"
-        content="Tiomila, orienteering results, 10mila results, team results, Tiomila 2025, orienteering Sweden, historical results">
-    <meta property="og:title" content="Tiomila Results Search">
-    <meta property="og:description"
-        content="Explore historical Tiomila orienteering results from 2013 to 2025. Search for team performances and view original event links.">
-    <meta property="og:image" content="https://sebastianind.github.io/tiomila-results/assets/logo.png">
-    <meta property="og:url" content="https://sebastianind.github.io/tiomila-results">
-    <meta property="og:type" content="website">
-    <meta name="robots" content="index, follow">
+    <meta
+      name="description"
+      content="Search and explore historical Tiomila orienteering results from 2012 to 2025. Discover team performances, best relay results, and original event links."
+    />
+    <meta
+      name="keywords"
+      content="Tiomila, orienteering results, 10mila results, team results, Tiomila 2025, orienteering Sweden, historical results"
+    />
+    <meta property="og:title" content="Tiomila Results Search" />
+    <meta
+      property="og:description"
+      content="Explore historical Tiomila orienteering results from 2012 to 2025. Search for team performances and view original event links."
+    />
+    <meta
+      property="og:image"
+      content="https://sebastianind.github.io/tiomila-results/assets/logo.png"
+    />
+    <meta
+      property="og:url"
+      content="https://sebastianind.github.io/tiomila-results"
+    />
+    <meta property="og:type" content="website" />
+    <meta name="robots" content="index, follow" />
 
-    <link rel="stylesheet" href="styles.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
-    <link rel="manifest" href="assets/site.webmanifest">
-</head>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/favicon-16x16.png"
+    />
+    <link rel="manifest" href="assets/site.webmanifest" />
+  </head>
 
-<body>
+  <body>
     <h1>
-        <img src="assets/logo.png" alt="Logo" style="height: 2em; vertical-align: middle;">
-        Tiomila Results Search
+      <img
+        src="assets/logo.png"
+        alt="Logo"
+        style="height: 2em; vertical-align: middle"
+      />
+      Tiomila Results Search
     </h1>
-    <p class="subtitle">Explore results from <strong>2013</strong> to <strong>2025</strong>.</p>
+    <p class="subtitle">
+      Explore results from <strong>2012</strong> to <strong>2025</strong>.
+    </p>
     <div id="statusMessage" class="status-message">Loading data...</div>
     <input type="text" id="searchBox" placeholder="Type a club name..." />
     <div id="results"></div>
 
     <div class="donation-button">
-        <a href="https://www.paypal.com/paypalme/SebastianInderst" target="_blank" rel="noopener noreferrer">
-            <button>🍫 Buy me a carbogel</button>
-        </a>
+      <a
+        href="https://www.paypal.com/paypalme/SebastianInderst"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button>🍫 Buy me a carbogel</button>
+      </a>
     </div>
 
     <div>
-        <p class="contact-section">If you encounter any issues or have feedback, feel
-            free to <a href="mailto:sebastian.inderst@gmail.com">reach out</a>
-        </p>
+      <p class="contact-section">
+        If you encounter any issues or have feedback, feel free to
+        <a href="mailto:sebastian.inderst@gmail.com">reach out</a>
+      </p>
     </div>
 
     <script>
-        let data = {};
+      let data = {};
 
-        async function loadData() {
-            const statusMessage = document.getElementById('statusMessage');
-            statusMessage.textContent = 'Loading data...';
+      async function loadData() {
+        const statusMessage = document.getElementById("statusMessage");
+        statusMessage.textContent = "Loading data...";
 
-            try {
-                const resultsRes = await fetch('gathered_results.json');
-                data = await resultsRes.json();
+        try {
+          const resultsRes = await fetch("gathered_results.json");
+          data = await resultsRes.json();
 
-                const clubCount = Object.keys(data).length;
-                statusMessage.textContent = `Data loaded successfully. ${clubCount} clubs available.`;
-            } catch (error) {
-                statusMessage.textContent = 'Error loading data. Please try again.';
-                console.error('Error loading data:', error);
-            }
+          const clubCount = Object.keys(data).length;
+          statusMessage.textContent = `Data loaded successfully. ${clubCount} clubs available.`;
+        } catch (error) {
+          statusMessage.textContent = "Error loading data. Please try again.";
+          console.error("Error loading data:", error);
+        }
+      }
+
+      function fuzzySearch(input, clubNames) {
+        const normalizedInput = input.toLowerCase().replace(/[-\s]+/g, "");
+        return clubNames.filter((name) =>
+          name
+            .toLowerCase()
+            .replace(/[-\s]+/g, "")
+            .includes(normalizedInput),
+        );
+      }
+
+      function displayResults(clubName) {
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = "";
+
+        const [clubKey, clubData] =
+          Object.entries(data).find(([key, club]) =>
+            club.names.includes(clubName),
+          ) || [];
+        if (!clubData) {
+          // Perform fuzzy search for suggestions
+          const allClubNames = Object.values(data).flatMap(
+            (club) => club.names,
+          );
+          const suggestions = fuzzySearch(clubName, allClubNames);
+
+          if (suggestions.length > 0) {
+            const suggestionList = document.createElement("ul");
+            suggestionList.className = "suggestion-list";
+
+            suggestions.forEach((suggestion) => {
+              const suggestionItem = document.createElement("li");
+              suggestionItem.className = "suggestion-item";
+              suggestionItem.textContent = suggestion;
+
+              suggestionItem.addEventListener("click", () => {
+                document.getElementById("searchBox").value = suggestion;
+                displayResults(suggestion);
+              });
+
+              suggestionList.appendChild(suggestionItem);
+            });
+
+            resultsDiv.appendChild(suggestionList);
+          } else {
+            resultsDiv.textContent = `No results found for "${clubName}".`;
+          }
+
+          return;
         }
 
-        function fuzzySearch(input, clubNames) {
-            const normalizedInput = input.toLowerCase().replace(/[-\s]+/g, '');
-            return clubNames.filter(name =>
-                name.toLowerCase().replace(/[-\s]+/g, '').includes(normalizedInput)
-            );
-        }
+        fetch(
+          "https://script.google.com/macros/s/AKfycbwWTdh-XuHKKqpWmBbMtiayc6rCSd8HqX2wicjJdYgvsc43shn8l2bRLt6aQTOSqcGk/exec?variable=" +
+            encodeURIComponent(clubName),
+        )
+          .then((response) => console.log("Logged!"))
+          .catch((error) => console.error("Logging failed:", error));
 
-        function displayResults(clubName) {
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = '';
+        const clubHeader = document.createElement("div");
+        clubHeader.className = "club-header";
+        clubHeader.textContent = `📊 Results for ${clubName}`;
+        resultsDiv.appendChild(clubHeader);
 
-            const [clubKey, clubData] = Object.entries(data).find(([key, club]) => club.names.includes(clubName)) || [];
-            if (!clubData) {
-                // Perform fuzzy search for suggestions
-                const allClubNames = Object.values(data).flatMap(club => club.names);
-                const suggestions = fuzzySearch(clubName, allClubNames);
+        for (const [relay, years] of Object.entries(clubData.results)) {
+          const relayHeader = document.createElement("div");
+          relayHeader.className = "relay-header";
+          relayHeader.innerHTML = `🔁 <strong>${relay}</strong>`;
+          resultsDiv.appendChild(relayHeader);
 
-                if (suggestions.length > 0) {
-                    const suggestionList = document.createElement('ul');
-                    suggestionList.className = 'suggestion-list';
+          // Calculate the best result for the relay
+          let bestResultPosition = Infinity;
+          const bestResults = [];
 
-                    suggestions.forEach(suggestion => {
-                        const suggestionItem = document.createElement('li');
-                        suggestionItem.className = 'suggestion-item';
-                        suggestionItem.textContent = suggestion;
-
-                        suggestionItem.addEventListener('click', () => {
-                            document.getElementById('searchBox').value = suggestion;
-                            displayResults(suggestion);
-                        });
-
-                        suggestionList.appendChild(suggestionItem);
-                    });
-
-                    resultsDiv.appendChild(suggestionList);
-                } else {
-                    resultsDiv.textContent = `No results found for "${clubName}".`;
-                }
-
-                return;
+          for (const [year, teams] of Object.entries(years)) {
+            for (const [teamName, result] of Object.entries(teams)) {
+              if (
+                result.result_position &&
+                result.result_position < bestResultPosition
+              ) {
+                bestResultPosition = result.result_position;
+                bestResults.length = 0; // Clear previous best results
+                bestResults.push({ year, teamName });
+              } else if (result.result_position === bestResultPosition) {
+                bestResults.push({ year, teamName });
+              }
             }
+          }
 
-            fetch('https://script.google.com/macros/s/AKfycbwWTdh-XuHKKqpWmBbMtiayc6rCSd8HqX2wicjJdYgvsc43shn8l2bRLt6aQTOSqcGk/exec?variable=' + encodeURIComponent(clubName))
-                .then(response => console.log('Logged!'))
-                .catch(error => console.error('Logging failed:', error));
+          // Display the best result(s)
+          if (bestResults.length > 0) {
+            const bestResultDiv = document.createElement("div");
+            bestResultDiv.className = "best-result";
+            bestResultDiv.innerHTML = `🏆 <strong>Best Result: #${bestResultPosition}</strong>`;
 
-            const clubHeader = document.createElement('div');
-            clubHeader.className = 'club-header';
-            clubHeader.textContent = `📊 Results for ${clubName}`;
-            resultsDiv.appendChild(clubHeader);
+            bestResults.forEach(({ year, teamName }) => {
+              const bestResultItem = document.createElement("div");
+              bestResultItem.className = "best-result-item";
+              bestResultItem.textContent = `🎉 Year: ${year}, Team: ${teamName}`;
+              bestResultDiv.appendChild(bestResultItem);
+            });
 
-            for (const [relay, years] of Object.entries(clubData.results)) {
-                const relayHeader = document.createElement('div');
-                relayHeader.className = 'relay-header';
-                relayHeader.innerHTML = `🔁 <strong>${relay}</strong>`;
-                resultsDiv.appendChild(relayHeader);
+            resultsDiv.appendChild(bestResultDiv);
+          }
 
-                // Calculate the best result for the relay
-                let bestResultPosition = Infinity;
-                const bestResults = [];
+          // Display results for each year
+          for (const year of Object.keys(years).sort().reverse()) {
+            const eventIds = {
+              2013: 2287,
+              2014: 7526,
+              2015: 9208,
+              2016: 8003,
+              2017: 14802,
+              2018: 17220,
+              2019: 20090,
+              2022: 33643,
+              2023: 43111,
+              2024: 47276,
+              2025: 48103,
+            };
 
-                for (const [year, teams] of Object.entries(years)) {
-                    for (const [teamName, result] of Object.entries(teams)) {
-                        if (result.result_position && result.result_position < bestResultPosition) {
-                            bestResultPosition = result.result_position;
-                            bestResults.length = 0; // Clear previous best results
-                            bestResults.push({ year, teamName });
-                        } else if (result.result_position === bestResultPosition) {
-                            bestResults.push({ year, teamName });
-                        }
-                    }
-                }
+            const winsplitIds = {
+              2012: 20779,
+            };
 
-                // Display the best result(s)
-                if (bestResults.length > 0) {
-                    const bestResultDiv = document.createElement('div');
-                    bestResultDiv.className = 'best-result';
-                    bestResultDiv.innerHTML = `🏆 <strong>Best Result: #${bestResultPosition}</strong>`;
+            const yearDiv = document.createElement("div");
+            yearDiv.className = "result-year";
 
-                    bestResults.forEach(({ year, teamName }) => {
-                        const bestResultItem = document.createElement('div');
-                        bestResultItem.className = 'best-result-item';
-                        bestResultItem.textContent = `🎉 Year: ${year}, Team: ${teamName}`;
-                        bestResultDiv.appendChild(bestResultItem);
-                    });
-
-                    resultsDiv.appendChild(bestResultDiv);
-                }
-
-                // Display results for each year
-                for (const year of Object.keys(years).sort().reverse()) {
-                    const eventIds = {
-                        2013: 2287,
-                        2014: 7526,
-                        2015: 9208,
-                        2016: 8003,
-                        2017: 14802,
-                        2018: 17220,
-                        2019: 20090,
-                        2022: 33643,
-                        2023: 43111,
-                        2024: 47276,
-                        2025: 48103,
-                    };
-
-                    const yearDiv = document.createElement('div');
-                    yearDiv.className = 'result-year';
-
-                    // Add a clickable link for the year
-                    const eventId = eventIds[year];
-                    if (eventId) {
-                        yearDiv.innerHTML = `🗓️ <strong><a href="https://eventor.orientering.se/Events/ResultList?eventId=${eventId}&organisationId=${clubKey}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
-                    } else {
-                        yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
-                    }
-
-                    for (const [teamName, result] of Object.entries(years[year])) {
-                        const teamDiv = document.createElement('div');
-                        teamDiv.className = 'result-team';
-                        teamDiv.textContent = `🏃 ${result.result_position ? `#${result.result_position}` : result.status}: ${teamName}`;
-                        yearDiv.appendChild(teamDiv);
-                    }
-
-                    resultsDiv.appendChild(yearDiv);
-                }
-            }
-        }
-
-        document.getElementById('searchBox').addEventListener('input', (e) => {
-            const club = e.target.value.trim();
-            if (club.length > 2) {
-                displayResults(club);
+            // Add a clickable link for the year
+            const eventId = eventIds[year];
+            const winsplitId = winsplitIds[year];
+            if (eventId) {
+              yearDiv.innerHTML = `🗓️ <strong><a href="https://eventor.orientering.se/Events/ResultList?eventId=${eventId}&organisationId=${clubKey}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
+            } else if (winsplitId) {
+              yearDiv.innerHTML = `🗓️ <strong><a href="https://obasen.orientering.se/winsplits/online/sv/default.asp?page=classes&databaseId=${winsplitId}" target="_blank" rel="noopener noreferrer">${year}</a></strong>`;
             } else {
-                document.getElementById('results').innerHTML = '';
+              yearDiv.innerHTML = `🗓️ <strong>${year}</strong>`;
             }
-        });
 
-        loadData();
+            for (const [teamName, result] of Object.entries(years[year])) {
+              const teamDiv = document.createElement("div");
+              teamDiv.className = "result-team";
+              teamDiv.textContent = `🏃 ${result.result_position ? `#${result.result_position}` : result.status}: ${teamName}`;
+              yearDiv.appendChild(teamDiv);
+            }
+
+            resultsDiv.appendChild(yearDiv);
+          }
+        }
+      }
+
+      document.getElementById("searchBox").addEventListener("input", (e) => {
+        const club = e.target.value.trim();
+        if (club.length > 2) {
+          displayResults(club);
+        } else {
+          document.getElementById("results").innerHTML = "";
+        }
+      });
+
+      loadData();
     </script>
-</body>
-
+  </body>
 </html>

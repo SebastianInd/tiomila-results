@@ -323,6 +323,32 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "NTNUI 1": {
+            "result_position": 15,
+            "status": "OK"
+          },
+          "NTNUI 2": {
+            "result_position": 51,
+            "status": "OK"
+          },
+          "NTNUI 4": {
+            "result_position": 171,
+            "status": "OK"
+          },
+          "NTNUI 9": {
+            "result_position": 234,
+            "status": "OK"
+          },
+          "NTNUI 3": {
+            "result_position": null,
+            "status": "MissingPunch"
+          },
+          "NTNUI 5": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -695,6 +721,32 @@
             "result_position": null,
             "status": "Inactive"
           }
+        },
+        "2012": {
+          "NTNUI 1": {
+            "result_position": 16,
+            "status": "OK"
+          },
+          "NTNUI 2": {
+            "result_position": 40,
+            "status": "OK"
+          },
+          "NTNUI 3": {
+            "result_position": 154,
+            "status": "OK"
+          },
+          "NTNUI 4": {
+            "result_position": 212,
+            "status": "OK"
+          },
+          "NTNUI 5": {
+            "result_position": null,
+            "status": "MissingPunch"
+          },
+          "NTNUI 8": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -814,6 +866,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "MS Parma 1": {
+            "result_position": 17,
+            "status": "OK"
+          },
+          "MS Parma 2": {
+            "result_position": 91,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -930,6 +992,16 @@
             "result_position": 84,
             "status": "OK"
           }
+        },
+        "2012": {
+          "MS Parma 1": {
+            "result_position": 26,
+            "status": "OK"
+          },
+          "MS Parma 2": {
+            "result_position": 70,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -1002,6 +1074,16 @@
         "2025": {
           "MS Parma 1": {
             "result_position": 137,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "MS Parma 1": {
+            "result_position": 11,
+            "status": "OK"
+          },
+          "MS Parma 2": {
+            "result_position": 95,
             "status": "OK"
           }
         }
@@ -1608,6 +1690,12 @@
             "result_position": 129,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Bækkelagets SK 1": {
+            "result_position": 76,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -1687,6 +1775,16 @@
           "Bækkelagets SK / Tyrving IL 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Bækkelagets SK 1": {
+            "result_position": 11,
+            "status": "OK"
+          },
+          "Bækkelagets SK 2": {
+            "result_position": 94,
+            "status": "OK"
           }
         }
       },
@@ -1947,6 +2045,20 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "IK Hakarpspojkarna 1": {
+            "result_position": 13,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 2": {
+            "result_position": 63,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 3": {
+            "result_position": 84,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -2105,6 +2217,16 @@
             "result_position": 152,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IK Hakarpspojkarna 1": {
+            "result_position": 27,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 2": {
+            "result_position": 161,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -2257,6 +2379,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "IK Hakarpspojkarna 1": {
+            "result_position": 9,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 2": {
+            "result_position": 109,
+            "status": "OK"
+          }
         }
       }
     },
@@ -2366,6 +2498,16 @@
             "result_position": 123,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kalevan Rasti 1": {
+            "result_position": 3,
+            "status": "OK"
+          },
+          "Kalevan Rasti 2": {
+            "result_position": 39,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -2468,6 +2610,16 @@
           },
           "Kalevan Rasti 2": {
             "result_position": 91,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kalevan Rasti 1": {
+            "result_position": 18,
+            "status": "OK"
+          },
+          "Kalevan Rasti 2": {
+            "result_position": 102,
             "status": "OK"
           }
         }
@@ -2649,6 +2801,16 @@
             "result_position": 155,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Frol IL 1": {
+            "result_position": 28,
+            "status": "OK"
+          },
+          "Frol IL 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -2711,6 +2873,16 @@
             "result_position": 210,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Frol IL 1": {
+            "result_position": 66,
+            "status": "OK"
+          },
+          "Frol IL 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -2758,6 +2930,12 @@
           "Frol IL 1": {
             "result_position": 169,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Frol IL 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -2921,6 +3099,20 @@
           "Tullinge SK 3": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Tullinge SK 1": {
+            "result_position": 53,
+            "status": "OK"
+          },
+          "Tullinge SK 2": {
+            "result_position": 169,
+            "status": "OK"
+          },
+          "Tullinge SK 3": {
+            "result_position": 180,
+            "status": "OK"
           }
         }
       },
@@ -3146,6 +3338,32 @@
             "result_position": 214,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tullinge SK 1": {
+            "result_position": 25,
+            "status": "OK"
+          },
+          "Tullinge SK 2": {
+            "result_position": 44,
+            "status": "OK"
+          },
+          "Tullinge SK 3": {
+            "result_position": 91,
+            "status": "OK"
+          },
+          "Tullinge SK 4": {
+            "result_position": 117,
+            "status": "OK"
+          },
+          "Tullinge SK 6": {
+            "result_position": 133,
+            "status": "OK"
+          },
+          "Tullinge SK 5": {
+            "result_position": 173,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -3302,6 +3520,28 @@
             "result_position": 205,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tullinge SK 2": {
+            "result_position": 12,
+            "status": "OK"
+          },
+          "Tullinge SK 4": {
+            "result_position": 126,
+            "status": "OK"
+          },
+          "Tullinge SK 5": {
+            "result_position": 131,
+            "status": "OK"
+          },
+          "Tullinge SK 3": {
+            "result_position": 138,
+            "status": "OK"
+          },
+          "Tullinge SK 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -3389,6 +3629,12 @@
             "result_position": 16,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Ikaalisten Nouseva-Voima 1": {
+            "result_position": 38,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -3439,6 +3685,16 @@
         "2025": {
           "Ikaalisten Nouseva-Voima 1": {
             "result_position": 154,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ikaalisten Nouseva-Voima 1": {
+            "result_position": 178,
+            "status": "OK"
+          },
+          "Ikaalisten Nouseva-Voima 2": {
+            "result_position": 226,
             "status": "OK"
           }
         }
@@ -3586,6 +3842,16 @@
           },
           "Turun Metsänkävijät 3": {
             "result_position": 156,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Turun Metsänkävijät 1": {
+            "result_position": 22,
+            "status": "OK"
+          },
+          "Turun Metsänkävijät 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -3758,6 +4024,24 @@
           "Göteborg-Majorna OK 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Göteborg-Majorna OK 1": {
+            "result_position": 7,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 3": {
+            "result_position": 77,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 4": {
+            "result_position": 152,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 2": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -3967,6 +4251,28 @@
             "result_position": 103,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Göteborg-Majorna OK 1": {
+            "result_position": 8,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 2": {
+            "result_position": 47,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 3": {
+            "result_position": 84,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 5": {
+            "result_position": 189,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 4": {
+            "result_position": 203,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -4084,6 +4390,16 @@
           "Göteborg-Majorna OK 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Göteborg-Majorna OK 1": {
+            "result_position": 101,
+            "status": "OK"
+          },
+          "Göteborg-Majorna OK 2": {
+            "result_position": 105,
+            "status": "OK"
           }
         }
       }
@@ -4259,6 +4575,24 @@
           "Halden SK 3": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Halden SK 1": {
+            "result_position": 1,
+            "status": "OK"
+          },
+          "Halden SK 2": {
+            "result_position": 29,
+            "status": "OK"
+          },
+          "Halden SK 3": {
+            "result_position": 163,
+            "status": "OK"
+          },
+          "Halden SK 4": {
+            "result_position": 225,
+            "status": "OK"
           }
         }
       },
@@ -4484,6 +4818,28 @@
             "result_position": 110,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Halden SK 1": {
+            "result_position": 1,
+            "status": "OK"
+          },
+          "Halden SK 2": {
+            "result_position": 20,
+            "status": "OK"
+          },
+          "Halden SK 3": {
+            "result_position": 46,
+            "status": "OK"
+          },
+          "Halden SK 4": {
+            "result_position": 64,
+            "status": "OK"
+          },
+          "Halden SK 5": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -4623,6 +4979,24 @@
           "Halden SK 2/Uddevalla OK": {
             "result_position": 119,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Halden SK 1": {
+            "result_position": 6,
+            "status": "OK"
+          },
+          "Halden SK 2": {
+            "result_position": 157,
+            "status": "OK"
+          },
+          "Halden SK 3": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Halden SK 4": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -5048,6 +5422,24 @@
             "result_position": 215,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Linné 1": {
+            "result_position": 4,
+            "status": "OK"
+          },
+          "OK Linné 4": {
+            "result_position": 165,
+            "status": "OK"
+          },
+          "OK Linné 2": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "OK Linné 3": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -5316,6 +5708,32 @@
             "result_position": 195,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Linné 1": {
+            "result_position": 4,
+            "status": "OK"
+          },
+          "OK Linné 2": {
+            "result_position": 15,
+            "status": "OK"
+          },
+          "OK Linné 3": {
+            "result_position": 38,
+            "status": "OK"
+          },
+          "OK Linné 4": {
+            "result_position": 72,
+            "status": "OK"
+          },
+          "OK Linné 5": {
+            "result_position": 128,
+            "status": "OK"
+          },
+          "OK Linné 6": {
+            "result_position": 187,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -5524,6 +5942,24 @@
             "result_position": 146,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Linné 1": {
+            "result_position": 24,
+            "status": "OK"
+          },
+          "OK Linné 3": {
+            "result_position": 129,
+            "status": "OK"
+          },
+          "OK Linné 2": {
+            "result_position": 164,
+            "status": "OK"
+          },
+          "OK Linné 4": {
+            "result_position": 225,
+            "status": "OK"
+          }
         }
       }
     },
@@ -5685,6 +6121,20 @@
           },
           "Järla Orientering 3": {
             "result_position": 241,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Järla Orientering 1": {
+            "result_position": 10,
+            "status": "OK"
+          },
+          "Järla Orientering 2": {
+            "result_position": 74,
+            "status": "OK"
+          },
+          "Järla Orientering 3": {
+            "result_position": 220,
             "status": "OK"
           }
         }
@@ -5891,6 +6341,24 @@
             "result_position": 245,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Järla Orientering 1": {
+            "result_position": 67,
+            "status": "OK"
+          },
+          "Järla Orientering 2": {
+            "result_position": 144,
+            "status": "OK"
+          },
+          "Järla Orientering 3": {
+            "result_position": 228,
+            "status": "OK"
+          },
+          "Järla Orientering 4": {
+            "result_position": 260,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -6015,6 +6483,20 @@
             "result_position": 233,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Järla Orientering 1": {
+            "result_position": 174,
+            "status": "OK"
+          },
+          "Järla Orientering 3": {
+            "result_position": 232,
+            "status": "OK"
+          },
+          "Järla Orientering 2": {
+            "result_position": 241,
+            "status": "OK"
+          }
         }
       }
     },
@@ -6105,6 +6587,12 @@
           "Vehkalahden Veikot 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Vehkalahden Veikot 1": {
+            "result_position": 33,
+            "status": "OK"
           }
         }
       },
@@ -6254,6 +6742,12 @@
         "2025": {
           "Vehkalahden Veikot 1": {
             "result_position": 77,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Vehkalahden Veikot 1": {
+            "result_position": 45,
             "status": "OK"
           }
         }
@@ -6430,6 +6924,20 @@
           "IFK Göteborg Orientering 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "IFK Göteborg 1": {
+            "result_position": 8,
+            "status": "OK"
+          },
+          "IFK Göteborg 2": {
+            "result_position": 41,
+            "status": "OK"
+          },
+          "IFK Göteborg 3": {
+            "result_position": 93,
+            "status": "OK"
           }
         }
       },
@@ -6609,6 +7117,16 @@
           },
           "IFK Göteborg Orientering 4": {
             "result_position": 97,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IFK Göteborg 1": {
+            "result_position": 28,
+            "status": "OK"
+          },
+          "IFK Göteborg 2": {
+            "result_position": 100,
             "status": "OK"
           }
         }
@@ -6869,6 +7387,12 @@
             "result_position": 269,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Linköpings OK 1": {
+            "result_position": 58,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -7069,6 +7593,16 @@
             "result_position": 242,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Linköpings OK 1": {
+            "result_position": 21,
+            "status": "OK"
+          },
+          "Linköpings OK 2": {
+            "result_position": 136,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -7182,6 +7716,16 @@
           "Linköpings OK 4": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Linköpings OK 1": {
+            "result_position": 58,
+            "status": "OK"
+          },
+          "Linköpings OK 2": {
+            "result_position": 197,
+            "status": "OK"
           }
         }
       }
@@ -7341,6 +7885,24 @@
           "Södertälje-Nykvarn OF 3": {
             "result_position": 185,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Södertälje-Nykvarn OF 1": {
+            "result_position": 9,
+            "status": "OK"
+          },
+          "Södertälje-Nykvarn OF 2": {
+            "result_position": 40,
+            "status": "OK"
+          },
+          "Södertälje-Nykvarn OF 3": {
+            "result_position": 125,
+            "status": "OK"
+          },
+          "Södertälje-Nykvarn OF 4": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -7506,6 +8068,20 @@
             "result_position": 131,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Södertälje-Nykvarn OF 1": {
+            "result_position": 14,
+            "status": "OK"
+          },
+          "Södertälje-Nykvarn OF 2": {
+            "result_position": 108,
+            "status": "OK"
+          },
+          "Södertälje-Nykvarn OF 3": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -7604,6 +8180,12 @@
         "2025": {
           "Södertälje-Nykvarn OF 1": {
             "result_position": 139,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Södertälje-Nykvarn OF 1": {
+            "result_position": 7,
             "status": "OK"
           }
         }
@@ -7729,6 +8311,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Stora Tuna OK 1": {
+            "result_position": 18,
+            "status": "OK"
+          },
+          "Stora Tuna OK 2": {
+            "result_position": 127,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -7851,6 +8443,20 @@
             "result_position": 111,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Stora Tuna OK 1": {
+            "result_position": 24,
+            "status": "OK"
+          },
+          "Stora Tuna OK 2": {
+            "result_position": 82,
+            "status": "OK"
+          },
+          "Stora Tuna OK 3": {
+            "result_position": 132,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -7954,6 +8560,20 @@
           "Stora Tuna OK 2": {
             "result_position": 239,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Stora Tuna OK 1": {
+            "result_position": 41,
+            "status": "OK"
+          },
+          "Stora Tuna OK 2": {
+            "result_position": 125,
+            "status": "OK"
+          },
+          "Stora Tuna OK 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -8110,6 +8730,20 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Denseln 1": {
+            "result_position": 5,
+            "status": "OK"
+          },
+          "OK Denseln 3": {
+            "result_position": 193,
+            "status": "OK"
+          },
+          "OK Denseln 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -8230,6 +8864,20 @@
             "result_position": 51,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Denseln 1": {
+            "result_position": 43,
+            "status": "OK"
+          },
+          "OK Denseln 3": {
+            "result_position": 249,
+            "status": "OK"
+          },
+          "OK Denseln 2": {
+            "result_position": 239,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -8282,6 +8930,12 @@
         "2025": {
           "OK Denseln 1": {
             "result_position": 235,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Denseln 1": {
+            "result_position": 71,
             "status": "OK"
           }
         }
@@ -8395,6 +9049,16 @@
             "result_position": 121,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lillomarka OL 1": {
+            "result_position": 35,
+            "status": "OK"
+          },
+          "Lillomarka OL 2": {
+            "result_position": 130,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -8497,6 +9161,20 @@
             "result_position": 207,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lillomarka OL 1": {
+            "result_position": 17,
+            "status": "OK"
+          },
+          "Lillomarka OL 2": {
+            "result_position": 143,
+            "status": "OK"
+          },
+          "Lillomarka OL 3": {
+            "result_position": 225,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -8569,6 +9247,16 @@
             "result_position": 248,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lillomarka OL 1": {
+            "result_position": 68,
+            "status": "OK"
+          },
+          "Lillomarka OL 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -8635,6 +9323,16 @@
           "Vaajakosken Terä 1": {
             "result_position": 120,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Vaajakosken Terä 1": {
+            "result_position": 14,
+            "status": "OK"
+          },
+          "Vaajakosken Terä 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -8787,6 +9485,16 @@
             "result_position": 264,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Orion 1": {
+            "result_position": 36,
+            "status": "OK"
+          },
+          "OK Orion 2": {
+            "result_position": 82,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -8937,6 +9645,16 @@
           },
           "OK Orion 3": {
             "result_position": 203,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Orion 1": {
+            "result_position": 49,
+            "status": "OK"
+          },
+          "OK Orion 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -9126,6 +9844,20 @@
             "result_position": 130,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Tisaren 1": {
+            "result_position": 20,
+            "status": "OK"
+          },
+          "OK Tisaren 2": {
+            "result_position": 57,
+            "status": "OK"
+          },
+          "OK Tisaren 3": {
+            "result_position": 147,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -9258,6 +9990,16 @@
             "result_position": 104,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Tisaren 1": {
+            "result_position": 2,
+            "status": "OK"
+          },
+          "OK Tisaren 2": {
+            "result_position": 61,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -9334,6 +10076,12 @@
           },
           "OK Tisaren 2": {
             "result_position": 252,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Tisaren 1": {
+            "result_position": 78,
             "status": "OK"
           }
         }
@@ -9459,6 +10207,16 @@
             "result_position": 137,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Pan-Kristianstad 1": {
+            "result_position": 12,
+            "status": "OK"
+          },
+          "OK Pan-Kristianstad 2": {
+            "result_position": 112,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -9579,6 +10337,12 @@
             "result_position": 202,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Pan-Kristianstad 1": {
+            "result_position": 155,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -9692,6 +10456,16 @@
         "2022": {
           "Rehns BK 1": {
             "result_position": 166,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rehns BK 2": {
+            "result_position": 90,
+            "status": "OK"
+          },
+          "Rehns BK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -9875,6 +10649,12 @@
             "result_position": 102,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Kåre 1": {
+            "result_position": 55,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -10021,6 +10801,20 @@
             "result_position": 68,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Kåre 1": {
+            "result_position": 74,
+            "status": "OK"
+          },
+          "OK Kåre 2": {
+            "result_position": 165,
+            "status": "OK"
+          },
+          "OK Kåre 3": {
+            "result_position": 229,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -10118,6 +10912,16 @@
           "Kungälvs OK/OK Kåre/Svärdsjö SOK": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Kåre 2": {
+            "result_position": 229,
+            "status": "OK"
+          },
+          "OK Kåre 1": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       }
@@ -10244,6 +11048,16 @@
             "result_position": 200,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IFK Moras OK 1": {
+            "result_position": 25,
+            "status": "OK"
+          },
+          "IFK Moras OK 2": {
+            "result_position": 81,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -10364,6 +11178,20 @@
           },
           "IFK Mora OK 2": {
             "result_position": 98,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IFK Moras OK 1": {
+            "result_position": 13,
+            "status": "OK"
+          },
+          "IFK Moras OK 2": {
+            "result_position": 109,
+            "status": "OK"
+          },
+          "IFK Moras OK 3": {
+            "result_position": 152,
             "status": "OK"
           }
         }
@@ -10560,6 +11388,12 @@
             "result_position": 181,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sundsvalls OK 1": {
+            "result_position": 143,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -10707,6 +11541,20 @@
           "Sundsvalls OK 3": {
             "result_position": 212,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Sundsvalls OK 2": {
+            "result_position": 197,
+            "status": "OK"
+          },
+          "Sundsvalls OK 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Sundsvalls OK 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -10864,6 +11712,16 @@
             "result_position": 198,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sundsvalls OK 1": {
+            "result_position": 46,
+            "status": "OK"
+          },
+          "Sundsvalls OK 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -10944,6 +11802,16 @@
           "Rajamäen Rykmentti 1": {
             "result_position": 126,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Rajamäen Rykmentti 2": {
+            "result_position": 67,
+            "status": "OK"
+          },
+          "Rajamäen Rykmentti 1": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -11027,6 +11895,16 @@
         "2025": {
           "Rajamäen Rykmentti 1": {
             "result_position": 159,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rajamäen Rykmentti 1": {
+            "result_position": 56,
+            "status": "OK"
+          },
+          "Rajamäen Rykmentti 2": {
+            "result_position": 186,
             "status": "OK"
           }
         }
@@ -11513,6 +12391,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Kangasala SK 1": {
+            "result_position": 31,
+            "status": "OK"
+          },
+          "Kangasala SK 2": {
+            "result_position": 176,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -11611,6 +12499,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Kangasala SK 1": {
+            "result_position": 37,
+            "status": "OK"
+          },
+          "Kangasala SK 2": {
+            "result_position": 124,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -11659,6 +12557,12 @@
         "2024": {
           "Kangasala SK 1": {
             "result_position": 63,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kangasala SK 1": {
+            "result_position": 59,
             "status": "OK"
           }
         }
@@ -11718,6 +12622,16 @@
             "result_position": 134,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Markbygdens OK 1": {
+            "result_position": 105,
+            "status": "OK"
+          },
+          "Markbygdens OK 2": {
+            "result_position": 233,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -11748,6 +12662,16 @@
         "2019": {
           "Markbygdens OK 1": {
             "result_position": 137,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Markbygdens OK 1": {
+            "result_position": 170,
+            "status": "OK"
+          },
+          "Markbygdens OK 2": {
+            "result_position": 264,
             "status": "OK"
           }
         }
@@ -11794,6 +12718,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Markbygdens OK 1": {
+            "result_position": 43,
+            "status": "OK"
+          },
+          "Markbygdens OK 2": {
+            "result_position": 106,
+            "status": "OK"
+          }
         }
       }
     },
@@ -11815,6 +12749,12 @@
             "result_position": 60,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Orient 1": {
+            "result_position": 62,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -11829,6 +12769,12 @@
         "2013": {
           "OK Orient 1": {
             "result_position": 16,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Orient 1": {
+            "result_position": 57,
             "status": "OK"
           }
         }
@@ -11998,6 +12944,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Ravinen 1": {
+            "result_position": 44,
+            "status": "OK"
+          },
+          "OK Ravinen 2": {
+            "result_position": 146,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -12161,6 +13117,24 @@
           "OK Ravinen 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Ravinen 1": {
+            "result_position": 48,
+            "status": "OK"
+          },
+          "OK Ravinen 2": {
+            "result_position": 127,
+            "status": "OK"
+          },
+          "OK Ravinen 3": {
+            "result_position": 213,
+            "status": "OK"
+          },
+          "OK Ravinen 4": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -12342,6 +13316,28 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Ravinen 1": {
+            "result_position": 32,
+            "status": "OK"
+          },
+          "OK Ravinen 2": {
+            "result_position": 90,
+            "status": "OK"
+          },
+          "OK Ravinen 4": {
+            "result_position": 115,
+            "status": "OK"
+          },
+          "OK Ravinen 3": {
+            "result_position": 181,
+            "status": "OK"
+          },
+          "OK Ravinen 5": {
+            "result_position": 194,
+            "status": "OK"
+          }
         }
       }
     },
@@ -12445,6 +13441,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Angelniemen Ankkuri 1": {
+            "result_position": 26,
+            "status": "OK"
+          },
+          "Angelniemen Ankkuri 2": {
+            "result_position": 144,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -12544,6 +13550,16 @@
           "Angelniemen Ankkuri 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Angelniemen Ankkuri 1": {
+            "result_position": 29,
+            "status": "OK"
+          },
+          "Angelniemen Ankkuri 2": {
+            "result_position": 188,
+            "status": "OK"
           }
         }
       },
@@ -12712,6 +13728,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Lynx 1": {
+            "result_position": 19,
+            "status": "OK"
+          },
+          "Lynx 2": {
+            "result_position": 122,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -12832,6 +13858,16 @@
             "result_position": 81,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lynx 1": {
+            "result_position": 22,
+            "status": "OK"
+          },
+          "Lynx 2": {
+            "result_position": 131,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -12939,6 +13975,16 @@
           "Lynx 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Lynx 1": {
+            "result_position": 13,
+            "status": "OK"
+          },
+          "Lynx 2": {
+            "result_position": 128,
+            "status": "OK"
           }
         }
       }
@@ -13055,6 +14101,20 @@
             "result_position": 265,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Hällen 1": {
+            "result_position": 34,
+            "status": "OK"
+          },
+          "OK Hällen 2": {
+            "result_position": 98,
+            "status": "OK"
+          },
+          "OK Hällen 3": {
+            "result_position": 206,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -13154,6 +14214,16 @@
           "OK Hällen 1": {
             "result_position": 94,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Hällen 1": {
+            "result_position": 51,
+            "status": "OK"
+          },
+          "OK Hällen 2": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -13402,6 +14472,16 @@
             "result_position": 213,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Helsingin Suunnistajat 1": {
+            "result_position": 42,
+            "status": "OK"
+          },
+          "Helsingin Suunnistajat 2": {
+            "result_position": 131,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -13545,6 +14625,16 @@
           "Helsingin Suunnistajat 3": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Helsingin Suunnistajat 1": {
+            "result_position": 83,
+            "status": "OK"
+          },
+          "Helsingin Suunnistajat 2": {
+            "result_position": 142,
+            "status": "OK"
           }
         }
       },
@@ -13690,6 +14780,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Helsingin Suunnistajat 1": {
+            "result_position": 47,
+            "status": "OK"
+          },
+          "Helsingin Suunnistajat 2": {
+            "result_position": 86,
+            "status": "OK"
+          }
         }
       }
     },
@@ -13752,6 +14852,16 @@
           "Hellas Orientering / OK Versmė 1": {
             "result_position": 103,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Hellas Orientering 1": {
+            "result_position": 60,
+            "status": "OK"
+          },
+          "Hellas Orientering 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -13824,6 +14934,16 @@
           "Hellas Orientering / OK Versmė 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Hellas Orientering 1": {
+            "result_position": 10,
+            "status": "OK"
+          },
+          "Hellas Orientering 2": {
+            "result_position": 177,
+            "status": "OK"
           }
         }
       },
@@ -13976,6 +15096,12 @@
             "result_position": 198,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Koovee 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -14060,6 +15186,16 @@
             "result_position": 128,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Koovee 1": {
+            "result_position": 31,
+            "status": "OK"
+          },
+          "Koovee 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -14118,6 +15254,12 @@
         "2019": {
           "Koovee 1": {
             "result_position": 8,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Koovee 1": {
+            "result_position": 92,
             "status": "OK"
           }
         }
@@ -14238,6 +15380,16 @@
           "Tampereen Pyrintö 2": {
             "result_position": 64,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Tampereen Pyrintö 1": {
+            "result_position": 23,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 2": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -14423,6 +15575,20 @@
             "result_position": 120,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tampereen Pyrintö 1": {
+            "result_position": 3,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 2": {
+            "result_position": 55,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 3": {
+            "result_position": 196,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -14534,6 +15700,20 @@
           "Tampereen Pyrintö 2": {
             "result_position": 97,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Tampereen Pyrintö 3": {
+            "result_position": 205,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          },
+          "Tampereen Pyrintö 2": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       }
@@ -14766,6 +15946,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Fredrikstad SK 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          },
+          "Fredrikstad SK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -14914,6 +16104,16 @@
             "result_position": 221,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Fredrikstad SK 1": {
+            "result_position": 24,
+            "status": "OK"
+          },
+          "Fredrikstad SK 2": {
+            "result_position": 127,
+            "status": "OK"
+          }
         }
       }
     },
@@ -15035,6 +16235,16 @@
         "2025": {
           "OK Pan Århus 1": {
             "result_position": 71,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Pan Århus 1": {
+            "result_position": 46,
+            "status": "OK"
+          },
+          "OK Pan Århus 2": {
+            "result_position": 135,
             "status": "OK"
           }
         }
@@ -15189,6 +16399,20 @@
             "result_position": 202,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Pan Århus 1": {
+            "result_position": 12,
+            "status": "OK"
+          },
+          "OK Pan Århus 2": {
+            "result_position": 96,
+            "status": "OK"
+          },
+          "OK Pan Århus 3": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -15330,6 +16554,12 @@
             "result_position": 76,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Anttolan Urheilijat 1": {
+            "result_position": 64,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -15469,6 +16699,12 @@
             "result_position": 192,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Skåneslättens OL 1": {
+            "result_position": 92,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -15547,6 +16783,12 @@
         "2025": {
           "Skåneslättens OL 1": {
             "result_position": 157,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Skåneslättens OL 1": {
+            "result_position": 199,
             "status": "OK"
           }
         }
@@ -15628,6 +16870,16 @@
         "2025": {
           "Leksands OK 1": {
             "result_position": 141,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Leksands OK 1": {
+            "result_position": 30,
+            "status": "OK"
+          },
+          "Leksands OK 2": {
+            "result_position": 119,
             "status": "OK"
           }
         }
@@ -15728,6 +16980,20 @@
           },
           "Leksands OK 2": {
             "result_position": 227,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Leksands OK 2": {
+            "result_position": 95,
+            "status": "OK"
+          },
+          "Leksands OK 3": {
+            "result_position": 174,
+            "status": "OK"
+          },
+          "Leksands OK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -15915,6 +17181,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Söders-Tyresö 1": {
+            "result_position": 52,
+            "status": "OK"
+          },
+          "Söders-Tyresö 2": {
+            "result_position": 181,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -16007,6 +17283,16 @@
           },
           "Söders-Tyresö 2": {
             "result_position": 201,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Söders-Tyresö 1": {
+            "result_position": 107,
+            "status": "OK"
+          },
+          "Söders-Tyresö 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -16271,6 +17557,16 @@
             "result_position": 152,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Gävle OK 2": {
+            "result_position": 110,
+            "status": "OK"
+          },
+          "Gävle OK 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -16351,6 +17647,16 @@
             "result_position": 192,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Gävle OK 1": {
+            "result_position": 88,
+            "status": "OK"
+          },
+          "Gävle OK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -16421,6 +17727,12 @@
             "result_position": 209,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Gävle OK 1": {
+            "result_position": 77,
+            "status": "OK"
+          }
         }
       }
     },
@@ -16472,6 +17784,12 @@
         "2025": {
           "Hyvinkään Rasti 1": {
             "result_position": 245,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hyvinkään Rasti 1": {
+            "result_position": 132,
             "status": "OK"
           }
         }
@@ -16534,6 +17852,12 @@
         "2025": {
           "Hyvinkään Rasti 1": {
             "result_position": 32,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hyvinkään Rasti 1": {
+            "result_position": 162,
             "status": "OK"
           }
         }
@@ -16617,6 +17941,12 @@
             "result_position": 158,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hämeenlinnan Suunnistajat 1": {
+            "result_position": 79,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -16663,6 +17993,12 @@
         "2019": {
           "Hämeenlinnan Suunnistajat 1": {
             "result_position": 215,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hämeenlinnan Suunnistajat 1": {
+            "result_position": 93,
             "status": "OK"
           }
         }
@@ -16832,6 +18168,16 @@
             "result_position": 73,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Malungs OK Skogsmårdarna 1": {
+            "result_position": 16,
+            "status": "OK"
+          },
+          "Malungs OK Skogsmårdarna 2": {
+            "result_position": 80,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -16971,6 +18317,12 @@
             "result_position": 53,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Pellon Ponsi 1": {
+            "result_position": 45,
+            "status": "OK"
+          }
         }
       }
     },
@@ -17038,6 +18390,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Raumar Orientering 1": {
+            "result_position": 48,
+            "status": "OK"
+          },
+          "Raumar Orientering 2": {
+            "result_position": 179,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -17091,6 +18453,16 @@
           "Fet OL / Raumar Orientering / Østmarka OK 2": {
             "result_position": 250,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Raumar Orientering 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          },
+          "Raumar Orientering 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -17169,6 +18541,20 @@
           "Bækkelagets SK / Raumar Orientering 1": {
             "result_position": 92,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Raumar Orientering 1": {
+            "result_position": 53,
+            "status": "OK"
+          },
+          "Raumar Orientering 2": {
+            "result_position": 191,
+            "status": "OK"
+          },
+          "Raumar Orientering 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -17256,6 +18642,12 @@
           "Angelniemen Ankkuri / Turun Suunnistajat 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Turun Suunnistajat 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -17359,6 +18751,12 @@
           },
           "Turun Suunnistajat 2": {
             "result_position": 224,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Turun Suunnistajat 1": {
+            "result_position": 111,
             "status": "OK"
           }
         }
@@ -17486,6 +18884,12 @@
             "result_position": 181,
             "status": "OK"
           }
+        },
+        "2012": {
+          "JWOC 2013 1": {
+            "result_position": 72,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -17498,12 +18902,32 @@
             "result_position": 221,
             "status": "OK"
           }
+        },
+        "2012": {
+          "JWOC 2013 1": {
+            "result_position": 149,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
         "2013": {
           "JWOC 2013 1": {
             "result_position": 21,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "JWOC 2013 1": {
+            "result_position": 28,
+            "status": "OK"
+          },
+          "JWOC 2013 2": {
+            "result_position": 93,
+            "status": "OK"
+          },
+          "JWOC 2013 3": {
+            "result_position": 96,
             "status": "OK"
           }
         }
@@ -17714,6 +19138,20 @@
             "status": "OK"
           },
           "Nydalens SK 5": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
+        },
+        "2012": {
+          "Nydalens SK 1": {
+            "result_position": 50,
+            "status": "OK"
+          },
+          "Nydalens SK 2": {
+            "result_position": 158,
+            "status": "OK"
+          },
+          "Nydalens SK 3": {
             "result_position": null,
             "status": "DidNotStart"
           }
@@ -17963,6 +19401,16 @@
           },
           "Nydalens SK 5": {
             "result_position": 229,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Nydalens SK 1": {
+            "result_position": 87,
+            "status": "OK"
+          },
+          "Nydalens SK 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -18249,6 +19697,32 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Nydalens SK 2": {
+            "result_position": 15,
+            "status": "OK"
+          },
+          "Nydalens SK 1": {
+            "result_position": 31,
+            "status": "OK"
+          },
+          "Nydalens SK 3": {
+            "result_position": 45,
+            "status": "OK"
+          },
+          "Nydalens SK 5": {
+            "result_position": 193,
+            "status": "OK"
+          },
+          "Nydalens SK 6": {
+            "result_position": 212,
+            "status": "OK"
+          },
+          "Nydalens SK 8": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -18339,6 +19813,12 @@
         "2023": {
           "Lahden Suunnistajat-37 1": {
             "result_position": 59,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Lahden Suunnistajat-37 1": {
+            "result_position": 102,
             "status": "OK"
           }
         }
@@ -18536,6 +20016,16 @@
             "result_position": 189,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Ulricehamns OK 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Ulricehamns OK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -18606,6 +20096,12 @@
         "2025": {
           "Ulricehamns OK 1": {
             "result_position": 144,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ulricehamns OK 1": {
+            "result_position": 145,
             "status": "OK"
           }
         }
@@ -18700,6 +20196,16 @@
             "result_position": 70,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Ulricehamns OK 1": {
+            "result_position": 111,
+            "status": "OK"
+          },
+          "Ulricehamns OK 2": {
+            "result_position": 224,
+            "status": "OK"
+          }
         }
       }
     },
@@ -18791,6 +20297,12 @@
             "result_position": 207,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IFK Umeå 1": {
+            "result_position": 47,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -18834,6 +20346,12 @@
           "IFK Umeå / Skellefteå OK /Wilhelmina OK": {
             "result_position": 150,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "IFK Umeå 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -18952,6 +20470,16 @@
             "result_position": 163,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hagaby GOIF 2": {
+            "result_position": 174,
+            "status": "OK"
+          },
+          "Hagaby GOIF 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -19054,6 +20582,24 @@
             "result_position": 252,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hagaby GOIF 1": {
+            "result_position": 59,
+            "status": "OK"
+          },
+          "Hagaby GOIF 2": {
+            "result_position": 97,
+            "status": "OK"
+          },
+          "Hagaby GOIF 4": {
+            "result_position": 237,
+            "status": "OK"
+          },
+          "Hagaby GOIF 3": {
+            "result_position": 282,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -19072,6 +20618,12 @@
         "2018": {
           "Hagaby GoIF Örebro 1": {
             "result_position": 291,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hagaby GOIF 1": {
+            "result_position": 56,
             "status": "OK"
           }
         }
@@ -19156,6 +20708,16 @@
         "2025": {
           "Hestra IF 1": {
             "result_position": 115,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hestra IF 1": {
+            "result_position": 54,
+            "status": "OK"
+          },
+          "Hestra IF 2": {
+            "result_position": 201,
             "status": "OK"
           }
         }
@@ -19278,6 +20840,16 @@
             "result_position": 154,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hestra IF 1": {
+            "result_position": 20,
+            "status": "OK"
+          },
+          "Hestra IF 2": {
+            "result_position": 85,
+            "status": "OK"
+          }
         }
       }
     },
@@ -19347,6 +20919,12 @@
             "result_position": 137,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Varegg Fleridrett 1": {
+            "result_position": 121,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -19409,6 +20987,12 @@
             "result_position": 133,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Varegg Fleridrett 1": {
+            "result_position": 98,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -19455,6 +21039,12 @@
         "2022": {
           "Fana IL / Umeå OK / Varegg Fleridrett 1": {
             "result_position": 44,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Varegg Fleridrett 1": {
+            "result_position": 34,
             "status": "OK"
           }
         }
@@ -19558,6 +21148,12 @@
           },
           "Eksjö SOK 2": {
             "result_position": 98,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Eksjö SOK 1": {
+            "result_position": 95,
             "status": "OK"
           }
         }
@@ -19672,6 +21268,16 @@
             "result_position": 83,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Eksjö SOK 1": {
+            "result_position": 41,
+            "status": "OK"
+          },
+          "Eksjö SOK 2": {
+            "result_position": 172,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -19742,6 +21348,16 @@
         "2025": {
           "Eksjö SOK 1": {
             "result_position": 133,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Eksjö SOK 1": {
+            "result_position": 5,
+            "status": "OK"
+          },
+          "Eksjö SOK 2": {
+            "result_position": 37,
             "status": "OK"
           }
         }
@@ -19863,6 +21479,16 @@
             "result_position": null,
             "status": "Inactive"
           }
+        },
+        "2012": {
+          "Västerås SOK 1": {
+            "result_position": 85,
+            "status": "OK"
+          },
+          "Västerås SOK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -19957,6 +21583,16 @@
           },
           "Västerås SOK 2": {
             "result_position": 222,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Västerås SOK 1": {
+            "result_position": 89,
+            "status": "OK"
+          },
+          "Västerås SOK 2": {
+            "result_position": 214,
             "status": "OK"
           }
         }
@@ -20091,6 +21727,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Västerås SOK 1": {
+            "result_position": 83,
+            "status": "OK"
+          }
         }
       }
     },
@@ -20210,6 +21852,16 @@
             "result_position": 187,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Ärla IF 1": {
+            "result_position": 37,
+            "status": "OK"
+          },
+          "Ärla IF 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -20308,6 +21960,16 @@
         "2025": {
           "Ärla IF 1": {
             "result_position": 106,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ärla IF 1": {
+            "result_position": 79,
+            "status": "OK"
+          },
+          "Ärla IF 2": {
+            "result_position": 240,
             "status": "OK"
           }
         }
@@ -20491,6 +22153,12 @@
             "result_position": 252,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Södertörn 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -20623,6 +22291,16 @@
             "result_position": 249,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Södertörn 1": {
+            "result_position": 60,
+            "status": "OK"
+          },
+          "OK Södertörn 2": {
+            "result_position": 231,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -20741,6 +22419,20 @@
             "result_position": 208,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Södertörn 1": {
+            "result_position": 91,
+            "status": "OK"
+          },
+          "OK Södertörn 2": {
+            "result_position": 155,
+            "status": "OK"
+          },
+          "OK Södertörn 3": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -20796,6 +22488,16 @@
             "result_position": 133,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hiisirasti 1": {
+            "result_position": 27,
+            "status": "OK"
+          },
+          "Hiisirasti 2": {
+            "result_position": 197,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -20848,6 +22550,12 @@
             "result_position": 85,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hiisirasti 1": {
+            "result_position": 39,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -20866,6 +22574,12 @@
         "2015": {
           "Hiisirasti 1": {
             "result_position": 109,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hiisirasti 1": {
+            "result_position": 39,
             "status": "OK"
           }
         }
@@ -20889,6 +22603,12 @@
             "result_position": 84,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IF Sibbo-Vargarna 1": {
+            "result_position": 32,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -20907,6 +22627,16 @@
             "result_position": 58,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IF Sibbo-Vargarna 1": {
+            "result_position": 178,
+            "status": "OK"
+          },
+          "IF Sibbo-Vargarna 2": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -20917,6 +22647,20 @@
           },
           "IF Sibbo-Vargarna 2": {
             "result_position": 210,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IF Sibbo-Vargarna 3": {
+            "result_position": 140,
+            "status": "OK"
+          },
+          "IF Sibbo-Vargarna 1": {
+            "result_position": 145,
+            "status": "OK"
+          },
+          "IF Sibbo-Vargarna 2": {
+            "result_position": 190,
             "status": "OK"
           }
         }
@@ -21054,6 +22798,20 @@
             "result_position": 201,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Attunda OK 1": {
+            "result_position": 87,
+            "status": "OK"
+          },
+          "Attunda OK 2": {
+            "result_position": 189,
+            "status": "OK"
+          },
+          "Attunda OK 3": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -21182,6 +22940,16 @@
             "result_position": 246,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Attunda OK 1": {
+            "result_position": 139,
+            "status": "OK"
+          },
+          "Attunda OK 2": {
+            "result_position": 250,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -21278,6 +23046,12 @@
             "result_position": 231,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Attunda OK 1": {
+            "result_position": 161,
+            "status": "OK"
+          }
         }
       }
     },
@@ -21317,6 +23091,12 @@
             "result_position": 86,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IF Femman 1": {
+            "result_position": 43,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -21347,6 +23127,12 @@
         "2018": {
           "IF Femman 1": {
             "result_position": 136,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IF Femman 1": {
+            "result_position": 54,
             "status": "OK"
           }
         }
@@ -21509,6 +23295,20 @@
           "Tyrving IL 3": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "IL Tyrving 1": {
+            "result_position": 24,
+            "status": "OK"
+          },
+          "IL Tyrving 2": {
+            "result_position": 99,
+            "status": "OK"
+          },
+          "IL Tyrving 3": {
+            "result_position": 199,
+            "status": "OK"
           }
         }
       },
@@ -21686,6 +23486,16 @@
             "result_position": 130,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IL Tyrving 1": {
+            "result_position": 71,
+            "status": "OK"
+          },
+          "IL Tyrving 2": {
+            "result_position": 160,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -21804,6 +23614,24 @@
             "result_position": 189,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IL Tyrving 2": {
+            "result_position": 121,
+            "status": "OK"
+          },
+          "IL Tyrving 1": {
+            "result_position": 183,
+            "status": "OK"
+          },
+          "IL Tyrving 3": {
+            "result_position": 208,
+            "status": "OK"
+          },
+          "IL Tyrving 4": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -21880,6 +23708,12 @@
             "result_position": 217,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Helsingborgs SOK 1": {
+            "result_position": 100,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -21944,6 +23778,16 @@
           },
           "Helsingborgs SOK 2": {
             "result_position": 239,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Helsingborgs SOK 1": {
+            "result_position": 121,
+            "status": "OK"
+          },
+          "Helsingborgs SOK 2": {
+            "result_position": 207,
             "status": "OK"
           }
         }
@@ -22091,6 +23935,12 @@
             "result_position": 186,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Nolaskogsarna 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -22181,6 +24031,12 @@
             "result_position": 190,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Nolaskogsarna 1": {
+            "result_position": 118,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -22230,6 +24086,12 @@
           "IFK Umeå / OK Nolaskogsarna / Skogslöparna 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Nolaskogsarna 1": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       }
@@ -22306,6 +24168,12 @@
         "2025": {
           "Skogslöparna 1": {
             "result_position": 188,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Skogslöparna 1": {
+            "result_position": 196,
             "status": "OK"
           }
         }
@@ -22555,6 +24423,16 @@
             "result_position": 35,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Paimion Rasti 1": {
+            "result_position": 21,
+            "status": "OK"
+          },
+          "Paimion Rasti 2": {
+            "result_position": 136,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -22666,6 +24544,20 @@
           "Paimion Rasti 2": {
             "result_position": 61,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Paimion Rasti 1": {
+            "result_position": 9,
+            "status": "OK"
+          },
+          "Paimion Rasti 2": {
+            "result_position": 63,
+            "status": "OK"
+          },
+          "Paimion Rasti 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -23502,6 +25394,12 @@
             "result_position": 240,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Fossum IF 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -23586,6 +25484,16 @@
         "2025": {
           "Fossum IF 1": {
             "result_position": 247,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Fossum IF 1": {
+            "result_position": 65,
+            "status": "OK"
+          },
+          "Fossum IF 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -23798,6 +25706,28 @@
             "result_position": 234,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Fossum IF 1": {
+            "result_position": 14,
+            "status": "OK"
+          },
+          "Fossum IF 3": {
+            "result_position": 52,
+            "status": "OK"
+          },
+          "Fossum IF 2": {
+            "result_position": 74,
+            "status": "OK"
+          },
+          "Fossum IF 5": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Fossum IF 4": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -23915,6 +25845,16 @@
           },
           "Espoon Suunta 2": {
             "result_position": 218,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Espoon Suunta 1": {
+            "result_position": 68,
+            "status": "OK"
+          },
+          "Espoon Suunta 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -24049,6 +25989,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Espoon Suunta 1": {
+            "result_position": 129,
+            "status": "OK"
+          },
+          "Espoon Suunta 2": {
+            "result_position": 248,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -24171,6 +26121,20 @@
         "2025": {
           "Espoon Suunta 1": {
             "result_position": 39,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Espoon Suunta 1": {
+            "result_position": 51,
+            "status": "OK"
+          },
+          "Espoon Suunta 2": {
+            "result_position": 122,
+            "status": "OK"
+          },
+          "Espoon Suunta 3": {
+            "result_position": 192,
             "status": "OK"
           }
         }
@@ -24327,12 +26291,28 @@
             "result_position": 277,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Keravan Urheilijat 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
         "2015": {
           "Keravan Urheilijat / Pihkaniskat / SK Uusi 2": {
             "result_position": 267,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Keravan Urheilijat 1": {
+            "result_position": 251,
+            "status": "OK"
+          },
+          "Keravan Urheilijat 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -24451,6 +26431,12 @@
             "result_position": 254,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Haninge SOK 1": {
+            "result_position": 156,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -24485,6 +26471,12 @@
         "2022": {
           "Haninge SOK 1": {
             "result_position": 187,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Haninge SOK 1": {
+            "result_position": 106,
             "status": "OK"
           }
         }
@@ -24547,6 +26539,16 @@
         "2025": {
           "Haninge SOK 1": {
             "result_position": 152,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Haninge SOK 2": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Haninge SOK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -24623,6 +26625,12 @@
           "OK Rodhen 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Rodhen 1": {
+            "result_position": 78,
+            "status": "OK"
           }
         }
       },
@@ -24726,6 +26734,16 @@
             "result_position": 142,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Rodhen 1": {
+            "result_position": 78,
+            "status": "OK"
+          },
+          "OK Rodhen 2": {
+            "result_position": 235,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -24788,6 +26806,12 @@
           "Ylistaron Kilpa-Veljet / Rasti-Kurikka 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Ylistaron Kilpa-Veljet 1": {
+            "result_position": 101,
+            "status": "OK"
           }
         }
       }
@@ -24908,6 +26932,20 @@
             "result_position": 127,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Skogshjortarna 1": {
+            "result_position": 109,
+            "status": "OK"
+          },
+          "OK Skogshjortarna 3": {
+            "result_position": 219,
+            "status": "OK"
+          },
+          "OK Skogshjortarna 2": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -24990,6 +27028,12 @@
           },
           "OK Skogshjortarna 2": {
             "result_position": 190,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Skogshjortarna 1": {
+            "result_position": 274,
             "status": "OK"
           }
         }
@@ -25104,6 +27148,16 @@
             "result_position": 149,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Skogshjortarna 1": {
+            "result_position": 136,
+            "status": "OK"
+          },
+          "OK Skogshjortarna 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -25199,6 +27253,12 @@
             "result_position": 251,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Långhundra IF 1": {
+            "result_position": 160,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -25267,6 +27327,16 @@
         "2025": {
           "Långhundra IF 1": {
             "result_position": 210,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Långhundra IF 1": {
+            "result_position": 77,
+            "status": "OK"
+          },
+          "Långhundra IF 2": {
+            "result_position": 255,
             "status": "OK"
           }
         }
@@ -25360,6 +27430,12 @@
             "result_position": 94,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IF Brahe 1": {
+            "result_position": 88,
+            "status": "OK"
+          }
         }
       }
     },
@@ -25411,6 +27487,16 @@
           },
           "OK Skogsfalken 1": {
             "result_position": 247,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Skogsfalken 1": {
+            "result_position": 69,
+            "status": "OK"
+          },
+          "OK Skogsfalken 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -25473,6 +27559,16 @@
           },
           "OK Skogsfalken 2": {
             "result_position": 284,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Skogsfalken 1": {
+            "result_position": 34,
+            "status": "OK"
+          },
+          "OK Skogsfalken 2": {
+            "result_position": 140,
             "status": "OK"
           }
         }
@@ -25556,6 +27652,12 @@
             "result_position": 234,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Boxholm-Mjölby OL 2": {
+            "result_position": 230,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -25569,6 +27671,16 @@
           "SOL Tranås / Boxholm-Mjölby OL 1": {
             "result_position": 108,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Boxholm-Mjölby OL 1": {
+            "result_position": 66,
+            "status": "OK"
+          },
+          "Boxholm-Mjölby OL 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -25674,6 +27786,12 @@
             "result_position": 63,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Suunta Jyväskylä 1": {
+            "result_position": 115,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -25724,6 +27842,12 @@
           },
           "Suunta Jyväskylä 1": {
             "result_position": 136,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Suunta Jyväskylä 1": {
+            "result_position": 72,
             "status": "OK"
           }
         }
@@ -25921,6 +28045,16 @@
             "result_position": 234,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Centrum OK 1": {
+            "result_position": 113,
+            "status": "OK"
+          },
+          "Centrum OK 2": {
+            "result_position": 230,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -26011,6 +28145,16 @@
           },
           "Centrum OK 2": {
             "result_position": 240,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Centrum OK 1": {
+            "result_position": 156,
+            "status": "OK"
+          },
+          "Centrum OK 2": {
+            "result_position": 194,
             "status": "OK"
           }
         }
@@ -26112,6 +28256,12 @@
             "result_position": 96,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Nyköpings OK 1": {
+            "result_position": 73,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -26202,6 +28352,12 @@
           },
           "Nyköpings OK 2": {
             "result_position": 158,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Nyköpings OK 1": {
+            "result_position": 76,
             "status": "OK"
           }
         }
@@ -26344,6 +28500,16 @@
             "result_position": 200,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Nyköpings OK 1": {
+            "result_position": 1,
+            "status": "OK"
+          },
+          "Nyköpings OK 2": {
+            "result_position": 233,
+            "status": "OK"
+          }
         }
       }
     },
@@ -26381,6 +28547,12 @@
         "2025": {
           "Rasti-Kurikka 1": {
             "result_position": 132,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rasti-Kurikka 1": {
+            "result_position": 59,
             "status": "OK"
           }
         }
@@ -26421,6 +28593,16 @@
         "2017": {
           "Turun Suunnistajat / MS Parma / Rasti-Kurikka 5": {
             "result_position": 86,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rasti-Kurikka 1": {
+            "result_position": 92,
+            "status": "OK"
+          },
+          "Rasti-Kurikka 2": {
+            "result_position": 247,
             "status": "OK"
           }
         }
@@ -26510,6 +28692,12 @@
             "result_position": 85,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lappeen Riento 1": {
+            "result_position": 151,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -26597,6 +28785,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "SK Vuoksi 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -26670,6 +28864,12 @@
         "2013": {
           "OK Ozons 1": {
             "result_position": 143,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Ozons 1": {
+            "result_position": 138,
             "status": "OK"
           }
         }
@@ -26787,6 +28987,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Tyr 1": {
+            "result_position": 83,
+            "status": "OK"
+          },
+          "OK Tyr 2": {
+            "result_position": 159,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -26897,6 +29107,20 @@
         "2025": {
           "OK Tyr 1": {
             "result_position": 78,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Tyr 1": {
+            "result_position": 85,
+            "status": "OK"
+          },
+          "OK Tyr 2": {
+            "result_position": 134,
+            "status": "OK"
+          },
+          "OK Tyr 3": {
+            "result_position": 238,
             "status": "OK"
           }
         }
@@ -27027,6 +29251,20 @@
             "result_position": 241,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Tyr 2": {
+            "result_position": 144,
+            "status": "OK"
+          },
+          "OK Tyr 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "OK Tyr 3": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -27118,6 +29356,16 @@
           },
           "Jönköpings OK 2": {
             "result_position": 247,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Jönköpings OK 1": {
+            "result_position": 108,
+            "status": "OK"
+          },
+          "Jönköpings OK 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -27238,6 +29486,12 @@
             "result_position": 197,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Jönköpings OK 1": {
+            "result_position": 259,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -27326,6 +29580,12 @@
             "result_position": 168,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Jönköpings OK 1": {
+            "result_position": 108,
+            "status": "OK"
+          }
         }
       }
     },
@@ -27409,6 +29669,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Älvsjö-Örby 1": {
+            "result_position": 128,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -27476,6 +29742,12 @@
           "OK Älvsjö-Örby 1": {
             "result_position": 233,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Älvsjö-Örby 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -27659,6 +29931,16 @@
           },
           "Sävedalens AIK 3": {
             "result_position": 161,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Sävedalens AIK 1": {
+            "result_position": 56,
+            "status": "OK"
+          },
+          "Sävedalens AIK 2": {
+            "result_position": 185,
             "status": "OK"
           }
         }
@@ -27849,6 +30131,28 @@
             "result_position": 176,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sävedalens AIK 1": {
+            "result_position": 7,
+            "status": "OK"
+          },
+          "Sävedalens AIK 2": {
+            "result_position": 53,
+            "status": "OK"
+          },
+          "Sävedalens AIK 3": {
+            "result_position": 75,
+            "status": "OK"
+          },
+          "Sävedalens AIK 4": {
+            "result_position": 191,
+            "status": "OK"
+          },
+          "Sävedalens AIK 5": {
+            "result_position": 215,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -27937,6 +30241,16 @@
             "result_position": 135,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sävedalens AIK 1": {
+            "result_position": 107,
+            "status": "OK"
+          },
+          "Sävedalens AIK 2": {
+            "result_position": 211,
+            "status": "OK"
+          }
         }
       }
     },
@@ -28000,6 +30314,12 @@
             "result_position": 86,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Ronneby OK 1": {
+            "result_position": 65,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -28043,6 +30363,12 @@
           "Ronneby OK 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Ronneby OK 1": {
+            "result_position": 209,
+            "status": "OK"
           }
         }
       },
@@ -28207,6 +30533,20 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Kristiansand OK 1": {
+            "result_position": 2,
+            "status": "OK"
+          },
+          "Kristiansand OK 2": {
+            "result_position": 75,
+            "status": "OK"
+          },
+          "Kristiansand OK 3": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -28243,6 +30583,16 @@
         "2018": {
           "Kristiansand OK / Hisøy OK / Søgne og Songdalen OK 1": {
             "result_position": 153,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kristiansand OK 1": {
+            "result_position": 35,
+            "status": "OK"
+          },
+          "Kristiansand OK 2": {
+            "result_position": 272,
             "status": "OK"
           }
         }
@@ -28310,6 +30660,12 @@
             "result_position": 267,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OL-Universities of Turku 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -28340,6 +30696,12 @@
           "Gotlands OF 1": {
             "result_position": 138,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Gotlands OF 1": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -28375,6 +30737,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Gotlands OF 1": {
+            "result_position": 232,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -28401,6 +30769,20 @@
         "2022": {
           "Gotlands OF 1": {
             "result_position": 189,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Gotlands OF 1": {
+            "result_position": 65,
+            "status": "OK"
+          },
+          "Gotlands OF 2": {
+            "result_position": 202,
+            "status": "OK"
+          },
+          "Gotlands OF 3": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -28471,6 +30853,12 @@
             "result_position": 45,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lapuan Virkiä 1": {
+            "result_position": 71,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -28499,6 +30887,12 @@
         "2025": {
           "Lapuan Virkiä 1": {
             "result_position": 70,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Lapuan Virkiä 1": {
+            "result_position": 138,
             "status": "OK"
           }
         }
@@ -28564,12 +30958,24 @@
             "result_position": 183,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hauhon Sisu 1": {
+            "result_position": 107,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
         "2013": {
           "Hauhon Sisu 1": {
             "result_position": 284,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hauhon Sisu 1": {
+            "result_position": 273,
             "status": "OK"
           }
         }
@@ -28765,6 +31171,12 @@
             "result_position": 138,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK77 1": {
+            "result_position": 146,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -28841,6 +31253,16 @@
           },
           "OK77 3": {
             "result_position": 248,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK77 1": {
+            "result_position": 18,
+            "status": "OK"
+          },
+          "OK77 2": {
+            "result_position": 219,
             "status": "OK"
           }
         }
@@ -28926,6 +31348,12 @@
         "2025": {
           "Asker SK 1": {
             "result_position": 250,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Asker SK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -29024,6 +31452,16 @@
         "2025": {
           "Asker SK 1": {
             "result_position": 209,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Asker SK 1": {
+            "result_position": 176,
+            "status": "OK"
+          },
+          "Asker SK 2": {
+            "result_position": 222,
             "status": "OK"
           }
         }
@@ -29200,6 +31638,28 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Asker SK 1": {
+            "result_position": 22,
+            "status": "OK"
+          },
+          "Asker SK 2": {
+            "result_position": 89,
+            "status": "OK"
+          },
+          "Asker SK 5": {
+            "result_position": 169,
+            "status": "OK"
+          },
+          "Asker SK 4": {
+            "result_position": 184,
+            "status": "OK"
+          },
+          "Asker SK 3": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -29327,6 +31787,16 @@
             "result_position": 230,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sundbybergs IK 1": {
+            "result_position": 162,
+            "status": "OK"
+          },
+          "Sundbybergs IK 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -29434,6 +31904,12 @@
           "Sundbybergs IK 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Sundbybergs IK 1": {
+            "result_position": 223,
+            "status": "OK"
           }
         }
       },
@@ -29615,6 +32091,16 @@
             "result_position": 232,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sundbybergs IK 1": {
+            "result_position": 100,
+            "status": "OK"
+          },
+          "Sundbybergs IK 2": {
+            "result_position": 147,
+            "status": "OK"
+          }
         }
       }
     },
@@ -29746,6 +32232,12 @@
             "result_position": 172,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Växjö OK 1": {
+            "result_position": 103,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -29852,6 +32344,12 @@
           },
           "Emmaboda Verda OK / Växjö OK 2": {
             "result_position": 183,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Växjö OK 1": {
+            "result_position": 169,
             "status": "OK"
           }
         }
@@ -30025,6 +32523,12 @@
             "result_position": 210,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Motala AIF OL 1": {
+            "result_position": 157,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -30059,6 +32563,12 @@
         "2024": {
           "IF Rigor / Motala AIF OL / OK Löftan 1": {
             "result_position": 225,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Motala AIF OL 1": {
+            "result_position": 246,
             "status": "OK"
           }
         }
@@ -30128,6 +32638,12 @@
             "result_position": 168,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Finspångs SOK 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -30194,6 +32710,12 @@
             "result_position": 91,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Finspångs SOK 1": {
+            "result_position": 190,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -30258,6 +32780,16 @@
             "result_position": 251,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Finspångs SOK 1": {
+            "result_position": 8,
+            "status": "OK"
+          },
+          "Finspångs SOK 2": {
+            "result_position": 142,
+            "status": "OK"
+          }
         }
       }
     },
@@ -30307,6 +32839,12 @@
         "2019": {
           "Indre Østfold OK / Varteig OL 1": {
             "result_position": 203,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Indre Østfold OK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -30391,6 +32929,16 @@
         "2022": {
           "Indre Østfold OK / OK Moss 1": {
             "result_position": 70,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Indre Østfold OK 1": {
+            "result_position": 117,
+            "status": "OK"
+          },
+          "Indre Østfold OK 2": {
+            "result_position": 175,
             "status": "OK"
           }
         }
@@ -30499,6 +33047,16 @@
           "Tumba-Mälarhöjden OK 1": {
             "result_position": 143,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Tumba-Mälarhöjden OK 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Tumba-Mälarhöjden OK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -30614,6 +33172,16 @@
           },
           "Tumba-Mälarhöjden OK 2": {
             "result_position": 231,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Tumba-Mälarhöjden OK 1": {
+            "result_position": 101,
+            "status": "OK"
+          },
+          "Tumba-Mälarhöjden OK 2": {
+            "result_position": 281,
             "status": "OK"
           }
         }
@@ -30754,6 +33322,12 @@
           },
           "Tumba-Mälarhöjden OK 3": {
             "result_position": 193,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Tumba-Mälarhöjden OK 1": {
+            "result_position": 166,
             "status": "OK"
           }
         }
@@ -31195,6 +33769,20 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Freidig 1": {
+            "result_position": 70,
+            "status": "OK"
+          },
+          "Freidig 2": {
+            "result_position": 110,
+            "status": "OK"
+          },
+          "Freidig 3": {
+            "result_position": 143,
+            "status": "OK"
+          }
         }
       }
     },
@@ -31252,6 +33840,16 @@
             "result_position": 177,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Vänersborgs SK 1": {
+            "result_position": 70,
+            "status": "OK"
+          },
+          "Vänersborgs SK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -31296,6 +33894,12 @@
             "result_position": 167,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Vänersborgs SK 1": {
+            "result_position": 119,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -31336,6 +33940,16 @@
         "2022": {
           "Vänersborgs SK 1": {
             "result_position": 19,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Vänersborgs SK 1": {
+            "result_position": 104,
+            "status": "OK"
+          },
+          "Vänersborgs SK 2": {
+            "result_position": 176,
             "status": "OK"
           }
         }
@@ -31461,6 +34075,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Täby OK 2": {
+            "result_position": 154,
+            "status": "OK"
+          },
+          "Täby OK 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -31556,6 +34180,16 @@
           "Täby OK 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Täby OK 1": {
+            "result_position": 50,
+            "status": "OK"
+          },
+          "Täby OK 2": {
+            "result_position": 163,
+            "status": "OK"
           }
         }
       },
@@ -31725,6 +34359,16 @@
             "result_position": 22,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Täby OK 1": {
+            "result_position": 98,
+            "status": "OK"
+          },
+          "Täby OK 2": {
+            "result_position": 188,
+            "status": "OK"
+          }
         }
       }
     },
@@ -31738,6 +34382,16 @@
         "2013": {
           "Norbergs OK 1": {
             "result_position": 124,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Norbergs OK 1": {
+            "result_position": 134,
+            "status": "OK"
+          },
+          "Norbergs OK 2": {
+            "result_position": 238,
             "status": "OK"
           }
         }
@@ -31765,6 +34419,12 @@
           "IFK Hedemora OK / Norbergs OK 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Norbergs OK 1": {
+            "result_position": 153,
+            "status": "OK"
           }
         }
       }
@@ -31846,6 +34506,12 @@
           "OK Löftan 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Löftan 1": {
+            "result_position": 124,
+            "status": "OK"
           }
         }
       },
@@ -31972,6 +34638,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Vilse 87 1": {
+            "result_position": 182,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -31990,6 +34662,12 @@
         "2019": {
           "OK Vilse 87 / KFUM Örebro OK / Skåneslättens OL 3": {
             "result_position": 296,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Vilse 87 1": {
+            "result_position": 86,
             "status": "OK"
           }
         }
@@ -32185,6 +34863,12 @@
             "result_position": 214,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tolered-Utby Ol-klubb 1": {
+            "result_position": 207,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -32257,6 +34941,12 @@
           },
           "Tolered-Utby Ol-klubb 2": {
             "result_position": 235,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Tolered-Utby Ol-klubb 1": {
+            "result_position": 294,
             "status": "OK"
           }
         }
@@ -32424,6 +35114,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Østmarka OK 1": {
+            "result_position": 97,
+            "status": "OK"
+          },
+          "Østmarka OK 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -32500,6 +35200,16 @@
           },
           "Bækkelagets SK / Nittedal OL / Østmarka OK 3": {
             "result_position": 199,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Østmarka OK 1": {
+            "result_position": 114,
+            "status": "OK"
+          },
+          "Østmarka OK 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -32611,6 +35321,12 @@
             "result_position": 261,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Österåker 1": {
+            "result_position": 140,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -32695,6 +35411,12 @@
             "result_position": 238,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Österåker 1": {
+            "result_position": 267,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -32770,6 +35492,20 @@
           "OK Österåker": {
             "result_position": 238,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Österåker 2": {
+            "result_position": 177,
+            "status": "OK"
+          },
+          "OK Österåker 1": {
+            "result_position": 230,
+            "status": "OK"
+          },
+          "OK Österåker 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -32854,6 +35590,12 @@
             "result_position": 158,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kouvolan Suunnistajat 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -32890,6 +35632,16 @@
         "2022": {
           "Kouvolan Suunnistajat 1": {
             "result_position": 160,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kouvolan Suunnistajat 1": {
+            "result_position": 179,
+            "status": "OK"
+          },
+          "Kouvolan Suunnistajat 2": {
+            "result_position": 241,
             "status": "OK"
           }
         }
@@ -33045,6 +35797,16 @@
             "result_position": 49,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Falköpings AIK OK 1": {
+            "result_position": 116,
+            "status": "OK"
+          },
+          "Falköpings AIK OK 2": {
+            "result_position": 284,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -33097,6 +35859,12 @@
         "2018": {
           "Falköpings AIK OK 1": {
             "result_position": 82,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Falköpings AIK OK 1": {
+            "result_position": 55,
             "status": "OK"
           }
         }
@@ -33216,6 +35984,16 @@
           },
           "KFUM Örebro OK 2": {
             "result_position": 206,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "KFUM Örebro OK 1": {
+            "result_position": 61,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 2": {
+            "result_position": 175,
             "status": "OK"
           }
         }
@@ -33338,6 +36116,20 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "KFUM Örebro OK 1": {
+            "result_position": 58,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 2": {
+            "result_position": 271,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 3": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -33417,6 +36209,12 @@
           "KFUM Örebro OK 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "KFUM Örebro OK 1": {
+            "result_position": 221,
+            "status": "OK"
           }
         }
       }
@@ -33509,6 +36307,12 @@
           },
           "Heming Orientering 2": {
             "result_position": 238,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Heming Orientering 1": {
+            "result_position": 203,
             "status": "OK"
           }
         }
@@ -33644,6 +36448,20 @@
           "Heming Orientering 1": {
             "result_position": 151,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Heming Orientering 1": {
+            "result_position": 33,
+            "status": "OK"
+          },
+          "Heming Orientering 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Heming Orientering 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -33841,6 +36659,12 @@
             "result_position": 260,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kils OK 1": {
+            "result_position": 178,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -33889,6 +36713,12 @@
         "2023": {
           "Kils OK / Stora Tuna OK 2": {
             "result_position": 117,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kils OK 1": {
+            "result_position": 123,
             "status": "OK"
           }
         }
@@ -33953,6 +36783,16 @@
         "2023": {
           "Kils OK / OK Tyr 2": {
             "result_position": 106,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kils OK 1": {
+            "result_position": 49,
+            "status": "OK"
+          },
+          "Kils OK 2": {
+            "result_position": 154,
             "status": "OK"
           }
         }
@@ -34102,6 +36942,12 @@
             "result_position": 211,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Porsgrunn OL 1": {
+            "result_position": 167,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -34210,6 +37056,16 @@
           },
           "Porsgrunn OL 2": {
             "result_position": 148,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Porsgrunn OL 1": {
+            "result_position": 149,
+            "status": "OK"
+          },
+          "Porsgrunn OL 2": {
+            "result_position": 204,
             "status": "OK"
           }
         }
@@ -34483,6 +37339,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OL Tønsberg og Omegn 1": {
+            "result_position": 148,
+            "status": "OK"
+          },
+          "OL Tønsberg og Omegn 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -34572,6 +37438,12 @@
             "result_position": 242,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Skarpnäcks OL 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -34646,6 +37518,12 @@
         "2025": {
           "Skarpnäcks OL 1": {
             "result_position": 217,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Skarpnäcks OL 1": {
+            "result_position": 158,
             "status": "OK"
           }
         }
@@ -34744,6 +37622,16 @@
             "result_position": 222,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Skarpnäcks OL 1": {
+            "result_position": 231,
+            "status": "OK"
+          },
+          "Skarpnäcks OL 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -34802,6 +37690,12 @@
           "Halmstad OK / IF Rigor 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Halmstad OK 1": {
+            "result_position": 104,
+            "status": "OK"
           }
         }
       },
@@ -34980,6 +37874,12 @@
             "result_position": 216,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Landehof 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -35042,6 +37942,12 @@
           },
           "Sjövalla FK / OK Landehof 2": {
             "result_position": 240,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Landehof 1": {
+            "result_position": 68,
             "status": "OK"
           }
         }
@@ -35134,6 +38040,16 @@
         "2025": {
           "OK Landehof 1": {
             "result_position": 71,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Landehof 1": {
+            "result_position": 27,
+            "status": "OK"
+          },
+          "OK Landehof 2": {
+            "result_position": 199,
             "status": "OK"
           }
         }
@@ -35374,6 +38290,12 @@
             "result_position": 193,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lerums SOK 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -35538,6 +38460,16 @@
           },
           "Lerums SOK 1": {
             "result_position": 176,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Lerums SOK 1": {
+            "result_position": 118,
+            "status": "OK"
+          },
+          "Lerums SOK 2": {
+            "result_position": 179,
             "status": "OK"
           }
         }
@@ -35706,6 +38638,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Suunta-Sepot 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -35730,6 +38668,12 @@
         "2016": {
           "Suunta-Sepot / Perhon Kiri / Rasti-Lukko 1": {
             "result_position": 108,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Suunta-Sepot 1": {
+            "result_position": 182,
             "status": "OK"
           }
         }
@@ -35936,6 +38880,12 @@
             "result_position": 272,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Vallentuna-Össeby OL 1": {
+            "result_position": 161,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -35974,6 +38924,16 @@
             "result_position": 290,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Vallentuna-Össeby OL 1": {
+            "result_position": 130,
+            "status": "OK"
+          },
+          "Vallentuna-Össeby OL 2": {
+            "result_position": 262,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -36003,6 +38963,12 @@
           "Vallentuna-Össeby OL 1": {
             "result_position": 280,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Vallentuna-Össeby OL 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -36081,6 +39047,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Falkenbergs OK 1": {
+            "result_position": 155,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -36147,6 +39119,12 @@
             "result_position": 204,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Falkenbergs OK 1": {
+            "result_position": 202,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -36175,6 +39153,12 @@
         "2025": {
           "Falkenbergs OK 1": {
             "result_position": 246,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Falkenbergs OK 1": {
+            "result_position": 215,
             "status": "OK"
           }
         }
@@ -36277,6 +39261,12 @@
             "result_position": 34,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OL Trollelg 1": {
+            "result_position": 50,
+            "status": "OK"
+          }
         }
       }
     },
@@ -36332,6 +39322,12 @@
         "2016": {
           "Byåsen IL 1": {
             "result_position": 42,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Byåsen IL 1": {
+            "result_position": 93,
             "status": "OK"
           }
         }
@@ -36699,6 +39695,12 @@
             "result_position": 179,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IF Hagen 1": {
+            "result_position": 220,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -36735,6 +39737,16 @@
         "2019": {
           "IF Hagen 1": {
             "result_position": 13,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IF Hagen 1": {
+            "result_position": 103,
+            "status": "OK"
+          },
+          "IF Hagen 2": {
+            "result_position": 218,
             "status": "OK"
           }
         }
@@ -36921,6 +39933,12 @@
             "result_position": 31,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Kolmården 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -37045,6 +40063,20 @@
             "result_position": 174,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Kolmården 1": {
+            "result_position": 23,
+            "status": "OK"
+          },
+          "OK Kolmården 2": {
+            "result_position": 113,
+            "status": "OK"
+          },
+          "OK Kolmården 3": {
+            "result_position": 261,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -37165,6 +40197,20 @@
             "result_position": 190,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Kolmården 1": {
+            "result_position": 4,
+            "status": "OK"
+          },
+          "OK Kolmården 2": {
+            "result_position": 42,
+            "status": "OK"
+          },
+          "OK Kolmården 3": {
+            "result_position": 185,
+            "status": "OK"
+          }
         }
       }
     },
@@ -37255,6 +40301,16 @@
             "result_position": 251,
             "status": "OK"
           }
+        },
+        "2012": {
+          "CopenhagenO 1": {
+            "result_position": 96,
+            "status": "OK"
+          },
+          "CopenhagenO 2": {
+            "result_position": 236,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -37303,6 +40359,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "CopenhagenO 1": {
+            "result_position": 42,
+            "status": "OK"
+          },
+          "CopenhagenO 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -37333,6 +40399,16 @@
           },
           "CopenhagenO 2": {
             "result_position": 51,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "CopenhagenO 1": {
+            "result_position": 3,
+            "status": "OK"
+          },
+          "CopenhagenO 2": {
+            "result_position": 30,
             "status": "OK"
           }
         }
@@ -37438,6 +40514,16 @@
             "result_position": 148,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Klemmingen 1": {
+            "result_position": 117,
+            "status": "OK"
+          },
+          "OK Klemmingen 2": {
+            "result_position": 212,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -37524,6 +40610,16 @@
             "result_position": 241,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Klemmingen 1": {
+            "result_position": 168,
+            "status": "OK"
+          },
+          "OK Klemmingen 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -37568,6 +40664,12 @@
           },
           "OK Kāpa / OK Klemmingen 2": {
             "result_position": 167,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Klemmingen 1": {
+            "result_position": 223,
             "status": "OK"
           }
         }
@@ -37673,6 +40775,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Lunds OK 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Lunds OK 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -37761,6 +40873,20 @@
           },
           "Lunds OK 2": {
             "result_position": 194,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Lunds OK 1": {
+            "result_position": 103,
+            "status": "OK"
+          },
+          "Lunds OK 2": {
+            "result_position": 236,
+            "status": "OK"
+          },
+          "Lunds OK 3": {
+            "result_position": 277,
             "status": "OK"
           }
         }
@@ -37871,6 +40997,20 @@
             "result_position": 88,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lunds OK 1": {
+            "result_position": 76,
+            "status": "OK"
+          },
+          "Lunds OK 2": {
+            "result_position": 206,
+            "status": "OK"
+          },
+          "Lunds OK 3": {
+            "result_position": 214,
+            "status": "OK"
+          }
         }
       }
     },
@@ -37950,6 +41090,12 @@
             "result_position": 244,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Tranan 1": {
+            "result_position": 142,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -37984,6 +41130,16 @@
         "2022": {
           "OK Tranan 1": {
             "result_position": 78,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Tranan 2": {
+            "result_position": 21,
+            "status": "OK"
+          },
+          "OK Tranan 1": {
+            "result_position": 82,
             "status": "OK"
           }
         }
@@ -38101,6 +41257,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Jämsän Retki-Veikot 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -38191,6 +41353,12 @@
         "2024": {
           "Nydalens SK / OK Orinto / Tyrving IL 6 / Asker SK": {
             "result_position": 251,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Orinto 1": {
+            "result_position": 168,
             "status": "OK"
           }
         }
@@ -38421,6 +41589,12 @@
             "result_position": 87,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Roslagen 1": {
+            "result_position": 111,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -38501,6 +41675,12 @@
             "result_position": 137,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Roslagen 1": {
+            "result_position": 219,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -38550,6 +41730,16 @@
           "OK Roslagen 1": {
             "result_position": 220,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Roslagen 1": {
+            "result_position": 173,
+            "status": "OK"
+          },
+          "OK Roslagen 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -38620,6 +41810,12 @@
         "2024": {
           "OK Kullingshof 1 / FK Herkules": {
             "result_position": 234,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Kullingshof 1": {
+            "result_position": 202,
             "status": "OK"
           }
         }
@@ -38717,6 +41913,12 @@
             "result_position": 158,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Forsa OK 1": {
+            "result_position": 164,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -38785,6 +41987,16 @@
         "2024": {
           "Forsa OK 1": {
             "result_position": 185,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Forsa OK 1": {
+            "result_position": 218,
+            "status": "OK"
+          },
+          "Forsa OK 2": {
+            "result_position": 287,
             "status": "OK"
           }
         }
@@ -38917,6 +42129,12 @@
             "result_position": 209,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tio Rättens Män 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -38975,6 +42193,12 @@
             "result_position": 254,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Istrums SK 1": {
+            "result_position": 233,
+            "status": "OK"
+          }
         }
       }
     },
@@ -39010,6 +42234,12 @@
           },
           "Espoon Suunta / Rastikarhut 3": {
             "result_position": 130,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rastikarhut 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -39082,6 +42312,16 @@
             "result_position": 95,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Rastikarhut 1": {
+            "result_position": 52,
+            "status": "OK"
+          },
+          "Rastikarhut 2": {
+            "result_position": 195,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -39128,6 +42368,12 @@
         "2025": {
           "Rastikarhut 1": {
             "result_position": 106,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rastikarhut 1": {
+            "result_position": 198,
             "status": "OK"
           }
         }
@@ -39301,6 +42547,12 @@
             "result_position": 178,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Roxen 1": {
+            "result_position": 151,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -39397,6 +42649,24 @@
           },
           "OK Roxen 2": {
             "result_position": 179,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Roxen 1": {
+            "result_position": 16,
+            "status": "OK"
+          },
+          "OK Roxen 2": {
+            "result_position": 44,
+            "status": "OK"
+          },
+          "OK Roxen 4": {
+            "result_position": 63,
+            "status": "OK"
+          },
+          "OK Roxen 3": {
+            "result_position": 163,
             "status": "OK"
           }
         }
@@ -39563,6 +42833,12 @@
         "2025": {
           "Lindebygdens OK / OK Milan 1": {
             "result_position": 216,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Milan 1": {
+            "result_position": 84,
             "status": "OK"
           }
         }
@@ -39766,6 +43042,12 @@
             "result_position": 142,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Bredaryds SOK 1": {
+            "result_position": 132,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -39850,6 +43132,12 @@
             "result_position": 116,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Bredaryds SOK 1": {
+            "result_position": 171,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -39931,6 +43219,16 @@
           "Anderstorps OK / Bredaryds SOK / OK Vivill 2": {
             "result_position": 86,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Bredaryds SOK 2": {
+            "result_position": 60,
+            "status": "OK"
+          },
+          "Bredaryds SOK 1": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       }
@@ -40095,6 +43393,12 @@
             "result_position": 177,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Moss 1": {
+            "result_position": 172,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -40180,6 +43484,12 @@
             "result_position": 85,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Gimle IF 1": {
+            "result_position": 283,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -40187,6 +43497,12 @@
           "OK Moss / Gimle IF 2": {
             "result_position": 237,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Gimle IF 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -40269,6 +43585,12 @@
             "result_position": 164,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Rastivarsat 1": {
+            "result_position": 115,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -40303,6 +43625,20 @@
             "result_position": 206,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Rastivarsat 1": {
+            "result_position": 80,
+            "status": "OK"
+          },
+          "Rastivarsat 2": {
+            "result_position": 171,
+            "status": "OK"
+          },
+          "Rastivarsat 3": {
+            "result_position": 182,
+            "status": "OK"
+          }
         }
       }
     },
@@ -40332,6 +43668,12 @@
         "2019": {
           "Stigmännen Karlshamns OK 1": {
             "result_position": 225,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Stigmännen Karlshamns OK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -40439,6 +43781,12 @@
             "result_position": 219,
             "status": "OK"
           }
+        },
+        "2012": {
+          "FK Göingarna 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -40491,6 +43839,12 @@
         "2025": {
           "FK Göingarna 1": {
             "result_position": 53,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "FK Göingarna 1": {
+            "result_position": 99,
             "status": "OK"
           }
         }
@@ -40551,6 +43905,12 @@
         "2025": {
           "FK Göingarna 1": {
             "result_position": 66,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "FK Göingarna 1": {
+            "result_position": 135,
             "status": "OK"
           }
         }
@@ -40630,6 +43990,16 @@
             "result_position": 208,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Raseborg 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "OK Raseborg 2": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -40676,6 +44046,16 @@
         "2024": {
           "OK Raseborg 1": {
             "result_position": 219,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Raseborg 1": {
+            "result_position": 57,
+            "status": "OK"
+          },
+          "OK Raseborg 2": {
+            "result_position": 278,
             "status": "OK"
           }
         }
@@ -40737,6 +44117,12 @@
             "result_position": 190,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Joutsenon Kullervo 1": {
+            "result_position": 150,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -40772,6 +44158,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Nousiaisten Alku 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -40805,6 +44197,12 @@
             "result_position": 226,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Modum O-lag 1": {
+            "result_position": 141,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -40827,6 +44225,16 @@
         "2015": {
           "Modum O-lag 1": {
             "result_position": 260,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Modum O-lag 1": {
+            "result_position": 120,
+            "status": "OK"
+          },
+          "Modum O-lag 2": {
+            "result_position": 288,
             "status": "OK"
           }
         }
@@ -40887,6 +44295,16 @@
         "2019": {
           "Konnerud IL / Modum O-lag 2": {
             "result_position": 170,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Modum O-lag 1": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Modum O-lag 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -41259,6 +44677,12 @@
             "result_position": 173,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Mäntsälän Urheilijat 1": {
+            "result_position": 150,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -41326,6 +44750,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Saarijärven Pullistus 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -41364,6 +44794,12 @@
         "2013": {
           "Saarijärven Pullistus 1": {
             "result_position": 244,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Saarijärven Pullistus 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -41466,6 +44902,12 @@
             "result_position": 153,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Hammaren 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -41538,6 +44980,12 @@
         "2025": {
           "OK Hammaren 1": {
             "result_position": 153,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Hammaren 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -41769,6 +45217,12 @@
             "result_position": 92,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Korsnäs IF OK 1": {
+            "result_position": 17,
+            "status": "OK"
+          }
         }
       }
     },
@@ -41883,6 +45337,16 @@
             "result_position": 258,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Trollhättans SOK 1": {
+            "result_position": 123,
+            "status": "OK"
+          },
+          "Trollhättans SOK 2": {
+            "result_position": 237,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -41955,6 +45419,20 @@
         "2022": {
           "Andrarums IF / OK Pan-Kristianstad / Trollhättans SOK 2": {
             "result_position": 101,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Trollhättans SOK 1": {
+            "result_position": 147,
+            "status": "OK"
+          },
+          "Trollhättans SOK 2": {
+            "result_position": 276,
+            "status": "OK"
+          },
+          "Trollhättans SOK 3": {
+            "result_position": 293,
             "status": "OK"
           }
         }
@@ -42035,6 +45513,20 @@
           },
           "Trollhättans SOK 2": {
             "result_position": 211,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Trollhättans SOK 1": {
+            "result_position": 40,
+            "status": "OK"
+          },
+          "Trollhättans SOK 3": {
+            "result_position": 133,
+            "status": "OK"
+          },
+          "Trollhättans SOK 2": {
+            "result_position": 170,
             "status": "OK"
           }
         }
@@ -42176,6 +45668,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Snättringe SK 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -42282,6 +45780,12 @@
           },
           "Snättringe SK 2": {
             "result_position": 216,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Snättringe SK 1": {
+            "result_position": 256,
             "status": "OK"
           }
         }
@@ -42412,6 +45916,16 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Snättringe SK 1": {
+            "result_position": 19,
+            "status": "OK"
+          },
+          "Snättringe SK 2": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       }
     },
@@ -42485,6 +45999,12 @@
             "result_position": 237,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Väsby OK 1": {
+            "result_position": 209,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -42527,6 +46047,12 @@
         "2025": {
           "Väsby OK 1": {
             "result_position": 189,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Väsby OK 1": {
+            "result_position": 226,
             "status": "OK"
           }
         }
@@ -42655,6 +46181,12 @@
           "Ballerup OK 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Ballerup OK 1": {
+            "result_position": 227,
+            "status": "OK"
           }
         }
       }
@@ -42884,6 +46416,12 @@
             "result_position": 222,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Köping-Kolsva OK 1": {
+            "result_position": 137,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -42954,6 +46492,16 @@
         "2024": {
           "Köping-Kolsva OK / Västerås SOK 3": {
             "result_position": 169,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Köping-Kolsva OK 1": {
+            "result_position": 141,
+            "status": "OK"
+          },
+          "Köping-Kolsva OK 2": {
+            "result_position": 292,
             "status": "OK"
           }
         }
@@ -43086,6 +46634,12 @@
             "result_position": 202,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sigtuna OK 1": {
+            "result_position": 207,
+            "status": "OK"
+          }
         }
       }
     },
@@ -43192,6 +46746,12 @@
           "IF Thor 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "IF Thor 1": {
+            "result_position": 149,
+            "status": "OK"
           }
         }
       },
@@ -43303,6 +46863,12 @@
         "2025": {
           "IF Thor 1": {
             "result_position": 123,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IF Thor 1": {
+            "result_position": 110,
             "status": "OK"
           }
         }
@@ -43444,6 +47010,12 @@
             "result_position": 152,
             "status": "OK"
           }
+        },
+        "2012": {
+          "SBS Vikke 1": {
+            "result_position": 167,
+            "status": "OK"
+          }
         }
       }
     },
@@ -43511,6 +47083,12 @@
             "result_position": 194,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IFK Enskede 1": {
+            "result_position": 198,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -43565,6 +47143,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "IFK Enskede 1": {
+            "result_position": 269,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -43618,6 +47202,12 @@
           "IFK Enskede 1": {
             "result_position": 217,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "IFK Enskede 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -43696,6 +47286,12 @@
             "result_position": 200,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Katrineholms OK 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -43726,6 +47322,12 @@
         "2025": {
           "Katrineholms OK 1": {
             "result_position": 253,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Katrineholms OK 1": {
+            "result_position": 239,
             "status": "OK"
           }
         }
@@ -43773,6 +47375,12 @@
             "result_position": 202,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Ringerike OL 1": {
+            "result_position": 208,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -43803,6 +47411,12 @@
         "2017": {
           "Ringerike OL 1": {
             "result_position": 224,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ringerike OL 1": {
+            "result_position": 234,
             "status": "OK"
           }
         }
@@ -43862,6 +47476,16 @@
           "Eiker OL / Modum O-lag / Ringerike OL 1": {
             "result_position": 191,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Ringerike OL 1": {
+            "result_position": 102,
+            "status": "OK"
+          },
+          "Ringerike OL 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -43930,6 +47554,12 @@
             "result_position": 263,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Skogsluffarnas OK 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -43978,6 +47608,12 @@
         "2025": {
           "Skogsluffarnas OK 1": {
             "result_position": 250,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Skogsluffarnas OK 1": {
+            "result_position": 286,
             "status": "OK"
           }
         }
@@ -44077,6 +47713,16 @@
             "result_position": 114,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kongsberg OL 1": {
+            "result_position": 86,
+            "status": "OK"
+          },
+          "Kongsberg OL 2": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Damkavlen": {
@@ -44139,6 +47785,12 @@
           },
           "Kongsberg OL 2": {
             "result_position": 219,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kongsberg OL 1": {
+            "result_position": 36,
             "status": "OK"
           }
         }
@@ -44315,6 +47967,20 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Kongsberg OL 1": {
+            "result_position": 48,
+            "status": "OK"
+          },
+          "Kongsberg OL 2": {
+            "result_position": 130,
+            "status": "OK"
+          },
+          "Kongsberg OL 3": {
+            "result_position": 134,
+            "status": "OK"
+          }
         }
       }
     },
@@ -44415,6 +48081,12 @@
             "result_position": 255,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kungälvs OK 1": {
+            "result_position": 177,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -44512,6 +48184,12 @@
           "Kungälvs OK 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Kungälvs OK 1": {
+            "result_position": 244,
+            "status": "OK"
           }
         }
       },
@@ -44611,6 +48289,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Kungälvs OK 1": {
+            "result_position": 73,
+            "status": "OK"
+          }
         }
       }
     },
@@ -44690,6 +48374,12 @@
             "result_position": 173,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Alehof 1": {
+            "result_position": 116,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -44732,6 +48422,12 @@
         "2025": {
           "OK Alehof 1": {
             "result_position": 160,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Alehof 1": {
+            "result_position": 180,
             "status": "OK"
           }
         }
@@ -44903,6 +48599,12 @@
             "result_position": 239,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Rånäs OK 1": {
+            "result_position": 211,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -44971,6 +48673,12 @@
             "result_position": 195,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Rånäs OK 1": {
+            "result_position": 224,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45013,6 +48721,16 @@
         "2023": {
           "Länna IF / Rasbo IK / Rånäs OK 1": {
             "result_position": 104,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Rånäs OK 1": {
+            "result_position": 150,
+            "status": "OK"
+          },
+          "Rånäs OK 2": {
+            "result_position": 220,
             "status": "OK"
           }
         }
@@ -45115,6 +48833,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Avesta OK 1": {
+            "result_position": 213,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -45147,6 +48871,12 @@
         "2018": {
           "Avesta OK 1": {
             "result_position": 282,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Avesta OK 1": {
+            "result_position": 258,
             "status": "OK"
           }
         }
@@ -45242,6 +48972,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "NAIS Orienteringsklubb 1": {
+            "result_position": 214,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -45296,6 +49032,12 @@
         "2025": {
           "NAIS Orienteringsklubb 1": {
             "result_position": 205,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "NAIS Orienteringsklubb 1": {
+            "result_position": 252,
             "status": "OK"
           }
         }
@@ -45426,6 +49168,12 @@
             "result_position": 227,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kemiön Kiilat 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -45537,6 +49285,12 @@
             "result_position": 273,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tibro OK 1": {
+            "result_position": 268,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45544,6 +49298,12 @@
           "Tibro OK / OK Skogsstjärnan / SOK Träff 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Tibro OK 1": {
+            "result_position": null,
+            "status": "OK"
           }
         }
       }
@@ -45573,6 +49333,12 @@
           "Bredareds IF / Elfsborg SOK 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Bredareds IF 1": {
+            "result_position": 175,
+            "status": "OK"
           }
         }
       },
@@ -45725,6 +49491,12 @@
         "2017": {
           "Aalborg OK 1": {
             "result_position": 201,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Aalborg OK 1": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -45901,6 +49673,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "OK Tylöskog 1": {
+            "result_position": 216,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45908,6 +49686,20 @@
           "OK Tylöskog 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Tylöskog 1": {
+            "result_position": 240,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2012": {
+          "OK Tylöskog 1": {
+            "result_position": 291,
+            "status": "OK"
           }
         }
       }
@@ -45928,6 +49720,12 @@
         "2014": {
           "Vesaisen pojat 1": {
             "result_position": 158,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Vesaisen pojat 1": {
+            "result_position": 194,
             "status": "OK"
           }
         }
@@ -46014,6 +49812,12 @@
             "result_position": 260,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IK Gandvik 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -46028,6 +49832,12 @@
             "result_position": 224,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IK Gandvik 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -46035,6 +49845,12 @@
           "Lidköpings VSK / IK Gandvik / OK Klyftamo / Ryda SK 1": {
             "result_position": 255,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "IK Gandvik 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -46087,6 +49903,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Korven Honka 1": {
+            "result_position": 223,
+            "status": "OK"
+          }
         }
       }
     },
@@ -46138,6 +49960,12 @@
             "result_position": 278,
             "status": "OK"
           }
+        },
+        "2012": {
+          "SMHI IF 1": {
+            "result_position": 240,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -46156,6 +49984,12 @@
         "2015": {
           "SMHI IF 1": {
             "result_position": 292,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "SMHI IF 1": {
+            "result_position": 296,
             "status": "OK"
           }
         }
@@ -46187,6 +50021,12 @@
           "Alajärven Ankkurit 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Alajärven Ankkurit 1": {
+            "result_position": null,
+            "status": "OK"
           }
         }
       }
@@ -46556,6 +50396,12 @@
             "result_position": 244,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sala OK 1": {
+            "result_position": 253,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -46574,6 +50420,12 @@
         "2015": {
           "Sala OK / OK Hedströmmen 1": {
             "result_position": 225,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Sala OK 1": {
+            "result_position": 168,
             "status": "OK"
           }
         }
@@ -46703,6 +50555,16 @@
             "result_position": 128,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Domnarvets GOIF 1": {
+            "result_position": 5,
+            "status": "OK"
+          },
+          "Domnarvets GOIF 2": {
+            "result_position": 125,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -46783,6 +50645,12 @@
         "2025": {
           "Domnarvets GOIF 1": {
             "result_position": 141,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Domnarvets GOIF 1": {
+            "result_position": 152,
             "status": "OK"
           }
         }
@@ -47045,6 +50913,12 @@
             "result_position": 23,
             "status": "OK"
           }
+        },
+        "2012": {
+          "SK Pohjantähti 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -47120,6 +50994,12 @@
             "result_position": 206,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Hjärnarps GH OL 1": {
+            "result_position": 198,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -47138,6 +51018,16 @@
         "2025": {
           "Hjärnarps OL 1": {
             "result_position": 150,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Hjärnarps GH OL 1": {
+            "result_position": 69,
+            "status": "OK"
+          },
+          "Hjärnarps GH OL 2": {
+            "result_position": 141,
             "status": "OK"
           }
         }
@@ -47183,6 +51073,12 @@
           "Hjärnarps OL / Örkelljunga FK 1": {
             "result_position": 146,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Hjärnarps GH OL 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -47450,6 +51346,12 @@
             "result_position": 132,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sandefjord OK 1": {
+            "result_position": 159,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -47519,6 +51421,16 @@
           "Sandefjord OK 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Sandefjord OK 1": {
+            "result_position": 113,
+            "status": "OK"
+          },
+          "Sandefjord OK 2": {
+            "result_position": 238,
+            "status": "OK"
           }
         }
       },
@@ -47859,6 +51771,12 @@
             "result_position": 139,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Dalaportens OL 1": {
+            "result_position": 227,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -47916,6 +51834,12 @@
         "2013": {
           "Ähtärin Urheilijat 1": {
             "result_position": 176,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ähtärin Urheilijat 1": {
+            "result_position": 201,
             "status": "OK"
           }
         }
@@ -48004,6 +51928,20 @@
           "Konnerud IL 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Konnerud IL 1": {
+            "result_position": 33,
+            "status": "OK"
+          },
+          "Konnerud IL 2": {
+            "result_position": null,
+            "status": "OK"
+          },
+          "Konnerud IL 3": {
+            "result_position": null,
+            "status": "OK"
           }
         }
       },
@@ -48126,6 +52064,20 @@
           "Konnerud IL 1": {
             "result_position": 185,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Konnerud IL 1": {
+            "result_position": 87,
+            "status": "OK"
+          },
+          "Konnerud IL 3": {
+            "result_position": 186,
+            "status": "OK"
+          },
+          "Konnerud IL 2": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -48269,6 +52221,12 @@
           "OK Renen 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "OK Renen 1": {
+            "result_position": 112,
+            "status": "OK"
           }
         }
       },
@@ -48718,6 +52676,12 @@
             "result_position": 64,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Alfta-Ösa OK 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -48939,6 +52903,12 @@
             "result_position": 213,
             "status": "OK"
           }
+        },
+        "2012": {
+          "GOIF Tjalve 1": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Herrkavlen": {
@@ -48993,6 +52963,12 @@
         "2025": {
           "Tjalve Orienteringsklubb 1": {
             "result_position": 125,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "GOIF Tjalve 1": {
+            "result_position": 222,
             "status": "OK"
           }
         }
@@ -49196,6 +53172,12 @@
             "result_position": 239,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Tormestorps IF 1": {
+            "result_position": 193,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -49234,6 +53216,12 @@
         "2024": {
           "Helsingborgs SOK / Tormestorps IF 3": {
             "result_position": 127,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Tormestorps IF 1": {
+            "result_position": 10,
             "status": "OK"
           }
         }
@@ -49285,6 +53273,12 @@
         "2019": {
           "Vittjärvs IK 1": {
             "result_position": 94,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Vittjärvs IK 1": {
+            "result_position": 157,
             "status": "OK"
           }
         }
@@ -49444,6 +53438,12 @@
             "result_position": 198,
             "status": "OK"
           }
+        },
+        "2012": {
+          "IF Sturla 1": {
+            "result_position": 210,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -49552,6 +53552,16 @@
         "2025": {
           "IF Sturla 1": {
             "result_position": 142,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "IF Sturla 1": {
+            "result_position": 195,
+            "status": "OK"
+          },
+          "IF Sturla 2": {
+            "result_position": 196,
             "status": "OK"
           }
         }
@@ -49745,6 +53755,16 @@
             "result_position": 141,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Umeå OK 1": {
+            "result_position": 126,
+            "status": "OK"
+          },
+          "Umeå OK 2": {
+            "result_position": 254,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -49914,6 +53934,12 @@
             "result_position": 253,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Gränsen 1": {
+            "result_position": 279,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -49987,6 +54013,12 @@
             "result_position": 217,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Kuzmolovo 110% 1": {
+            "result_position": 206,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -49997,6 +54029,16 @@
           },
           "Kuzmolovo 110% 2": {
             "result_position": 204,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kuzmolovo 110% 2": {
+            "result_position": 119,
+            "status": "OK"
+          },
+          "Kuzmolovo 110% 1": {
+            "result_position": 146,
             "status": "OK"
           }
         }
@@ -50286,6 +54328,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Sol Tranås 1": {
+            "result_position": 205,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -50334,6 +54382,12 @@
         "2025": {
           "SOL Tranås / Boxholm-Mjölby OL 1": {
             "result_position": 108,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Sol Tranås 1": {
+            "result_position": 156,
             "status": "OK"
           }
         }
@@ -50424,6 +54478,12 @@
         "2025": {
           "Strängnäs-Malmby OL 1": {
             "result_position": 177,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Strängnäs-Malmby OL 1": {
+            "result_position": 221,
             "status": "OK"
           }
         }
@@ -50550,6 +54610,12 @@
             "result_position": 233,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Strängnäs-Malmby OL 1": {
+            "result_position": 215,
+            "status": "OK"
+          }
         }
       }
     },
@@ -50571,6 +54637,12 @@
             "result_position": 203,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Skattkärrs IF 1": {
+            "result_position": null,
+            "status": "MissingPunch"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -50583,6 +54655,12 @@
         "2014": {
           "OK Tyr / Skattkärrs IF 2": {
             "result_position": 163,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Skattkärrs IF 1": {
+            "result_position": 99,
             "status": "OK"
           }
         }
@@ -50735,12 +54813,26 @@
             "result_position": 265,
             "status": "OK"
           }
+        },
+        "2012": {
+          "OK Klyftamo 1": {
+            "result_position": 148,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
         "2017": {
           "Lidköpings VSK / IK Gandvik / OK Klyftamo / Ryda SK 1": {
             "result_position": 255,
+            "status": "OK"
+          }
+        }
+      },
+      "Herrkavlen": {
+        "2012": {
+          "OK Klyftamo 1": {
+            "result_position": 129,
             "status": "OK"
           }
         }
@@ -50905,6 +54997,12 @@
             "result_position": 187,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Länna IF 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -50954,6 +55052,12 @@
           "Länna IF / OK Roslagen 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Länna IF 1": {
+            "result_position": null,
+            "status": "OK"
           }
         }
       },
@@ -51030,6 +55134,12 @@
         "2024": {
           "Kalmar OK / Nybro OK / OK Orion 2": {
             "result_position": 165,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Nybro OK 1": {
+            "result_position": 184,
             "status": "OK"
           }
         }
@@ -51169,6 +55279,12 @@
             "result_position": 178,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Sjövalla FK 1": {
+            "result_position": 209,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -51260,6 +55376,12 @@
           "Emblem IL 1": {
             "result_position": 14,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Emblem IL 1": {
+            "result_position": null,
+            "status": "MissingPunch"
           }
         }
       },
@@ -51363,6 +55485,12 @@
         "2019": {
           "OK Bävern / OK Njudung 2": {
             "result_position": 114,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Bävern 1": {
+            "result_position": 75,
             "status": "OK"
           }
         }
@@ -51477,6 +55605,12 @@
         "2017": {
           "Gjø-Vard OL / Grue IL / Hamar OK / Ringsaker OK 2": {
             "result_position": 200,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ringsaker OK 1": {
+            "result_position": 153,
             "status": "OK"
           }
         }
@@ -51796,6 +55930,12 @@
             "result_position": 242,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Västerbergslagens OL 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -52073,6 +56213,20 @@
             "result_position": 153,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Arboga OK 1": {
+            "result_position": null,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2012": {
+          "Arboga OK 1": {
+            "result_position": 162,
+            "status": "OK"
+          }
         }
       }
     },
@@ -52119,6 +56273,14 @@
         "2014": {
           "OK Grip / Strängnäs-Malmby OL 1": {
             "result_position": 209,
+            "status": "OK"
+          }
+        }
+      },
+      "Herrkavlen": {
+        "2012": {
+          "OK Grip 1": {
+            "result_position": 231,
             "status": "OK"
           }
         }
@@ -52192,6 +56354,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2012": {
+          "Eiker OL 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -52235,6 +56403,12 @@
           "Eiker OL 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Eiker OL 1": {
+            "result_position": 104,
+            "status": "OK"
           }
         }
       },
@@ -52302,6 +56476,16 @@
           "Sarpsborg OL / Varteig OL 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Sarpsborg OL 1": {
+            "result_position": 201,
+            "status": "OK"
+          },
+          "Sarpsborg OL 2": {
+            "result_position": 235,
+            "status": "OK"
           }
         }
       },
@@ -52555,6 +56739,14 @@
         "2014": {
           "IK Vista 1": {
             "result_position": 261,
+            "status": "OK"
+          }
+        }
+      },
+      "Ungdomskavlen": {
+        "2012": {
+          "IK Vista 1": {
+            "result_position": 79,
             "status": "OK"
           }
         }
@@ -53351,6 +57543,12 @@
             "result_position": 61,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Frölunda OL 1": {
+            "result_position": 116,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -53405,6 +57603,12 @@
         "2025": {
           "Frölunda OL 1": {
             "result_position": 187,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Frölunda OL 1": {
+            "result_position": 289,
             "status": "OK"
           }
         }
@@ -53655,6 +57859,12 @@
         "2015": {
           "OK Dacke 1": {
             "result_position": 46,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "OK Dacke 1": {
+            "result_position": 38,
             "status": "OK"
           }
         }
@@ -54002,6 +58212,12 @@
             "result_position": 162,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Härnösands OK 1": {
+            "result_position": 226,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -54207,6 +58423,12 @@
         "2024": {
           "Uddevalla OK 1/Katrineholms OK": {
             "result_position": 200,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Uddevalla OK 1": {
+            "result_position": 185,
             "status": "OK"
           }
         }
@@ -54609,6 +58831,12 @@
             "result_position": 263,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Matteus SI 1": {
+            "result_position": 229,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -54790,6 +59018,12 @@
         "2025": {
           "Kalmar OK 1": {
             "result_position": 112,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Kalmar OK 1": {
+            "result_position": 122,
             "status": "OK"
           }
         }
@@ -55341,6 +59575,12 @@
             "result_position": 224,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Lidköpings VSK 1": {
+            "result_position": 257,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -55348,6 +59588,12 @@
           "Falköpings AIK OK / Lidköpings VSK 1": {
             "result_position": 231,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Lidköpings VSK 1": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -55935,6 +60181,12 @@
             "result_position": 153,
             "status": "OK"
           }
+        },
+        "2012": {
+          "FK Boken 1": {
+            "result_position": 228,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -55947,6 +60199,12 @@
         "2022": {
           "FK Boken / Helsingborgs SOK / Örkelljunga FK 2": {
             "result_position": 256,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "FK Boken 1": {
+            "result_position": 290,
             "status": "OK"
           }
         }
@@ -56083,6 +60341,14 @@
         "2015": {
           "Anderstorps OK / Kexholms SK / Vimmerby OK 1": {
             "result_position": 124,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2012": {
+          "Vimmerby OK 1": {
+            "result_position": 164,
             "status": "OK"
           }
         }
@@ -56325,6 +60591,12 @@
         "2018": {
           "Lardal OL / Larvik OK 1": {
             "result_position": 123,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Lardal OL 1": {
+            "result_position": 227,
             "status": "OK"
           }
         }
@@ -56592,6 +60864,12 @@
             "result_position": 179,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Raja-Karjalan Suunnistajat 1": {
+            "result_position": 218,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -56614,6 +60892,16 @@
         "2025": {
           "Raja-Karjalan Suunnistajat 1": {
             "result_position": 165,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Raja-Karjalan Suunnistajat 1": {
+            "result_position": 137,
+            "status": "OK"
+          },
+          "Raja-Karjalan Suunnistajat 2": {
+            "result_position": null,
             "status": "OK"
           }
         }
@@ -58645,6 +62933,14 @@
             "status": "MisPunch"
           }
         }
+      },
+      "Ungdomskavlen": {
+        "2012": {
+          "Järbo OK 1": {
+            "result_position": 165,
+            "status": "OK"
+          }
+        }
       }
     },
     "names": [
@@ -58855,6 +63151,12 @@
         "2018": {
           "Västvärmlands OK 1": {
             "result_position": 229,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Västvärmlands OK 1": {
+            "result_position": 242,
             "status": "OK"
           }
         }
@@ -59118,6 +63420,12 @@
             "result_position": 149,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Bjursås OK 1": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Herrkavlen": {
@@ -59302,6 +63610,12 @@
             "result_position": 94,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Almby IK 1": {
+            "result_position": 236,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -59327,6 +63641,12 @@
           "Almby IK 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2012": {
+          "Almby IK 1": {
+            "result_position": 266,
+            "status": "OK"
           }
         }
       },
@@ -60159,6 +64479,12 @@
             "result_position": 196,
             "status": "OK"
           }
+        },
+        "2012": {
+          "Stokke IL 1": {
+            "result_position": null,
+            "status": "OK"
+          }
         }
       }
     },
@@ -60805,6 +65131,12 @@
         "2023": {
           "Hjobygdens OK / Tibro OK / Ulvilan Ura 1": {
             "result_position": 151,
+            "status": "OK"
+          }
+        },
+        "2012": {
+          "Ulvilan Ura 1": {
+            "result_position": 188,
             "status": "OK"
           }
         }
@@ -62147,6 +66479,14 @@
         "2018": {
           "Skogslöparna / Sidensjö IK 2": {
             "result_position": 253,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2012": {
+          "Sidensjö IK 1": {
+            "result_position": 275,
             "status": "OK"
           }
         }
@@ -64005,6 +68345,18 @@
             "status": "MisPunch"
           }
         }
+      },
+      "Ungdomskavlen": {
+        "2012": {
+          "Ounasvaaran Hiihtoseura 1": {
+            "result_position": 2,
+            "status": "OK"
+          },
+          "Ounasvaaran Hiihtoseura 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
+        }
       }
     },
     "names": [
@@ -64169,6 +68521,14 @@
             "status": "OK"
           }
         }
+      },
+      "Herrkavlen": {
+        "2012": {
+          "OK Botnia 1": {
+            "result_position": 200,
+            "status": "OK"
+          }
+        }
       }
     },
     "names": [
@@ -64255,6 +68615,14 @@
         "2025": {
           "Målilla OK / OK Njudung 1": {
             "result_position": 143,
+            "status": "OK"
+          }
+        }
+      },
+      "Herrkavlen": {
+        "2012": {
+          "Målilla OK 1": {
+            "result_position": 172,
             "status": "OK"
           }
         }
@@ -64579,6 +68947,28 @@
           "Delta 1": {
             "result_position": 110,
             "status": "OK"
+          }
+        },
+        "2012": {
+          "Delta 1": {
+            "result_position": 11,
+            "status": "OK"
+          },
+          "Delta 2": {
+            "result_position": 66,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2012": {
+          "Delta 1": {
+            "result_position": 32,
+            "status": "OK"
+          },
+          "Delta 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
