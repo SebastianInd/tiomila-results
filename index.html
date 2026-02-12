@@ -6,7 +6,7 @@
     <title>Tiomila Results Search</title>
     <meta
       name="description"
-      content="Search and explore historical Tiomila orienteering results from 2008 to 2025. Discover team performances, best relay results, and original event links."
+      content="Search and explore historical Tiomila orienteering results from 2004 to 2025. Discover team performances, best relay results, and original event links."
     />
     <meta
       name="keywords"
@@ -15,7 +15,7 @@
     <meta property="og:title" content="Tiomila Results Search" />
     <meta
       property="og:description"
-      content="Explore historical Tiomila orienteering results from 2008 to 2025. Search for team performances and view original event links."
+      content="Explore historical Tiomila orienteering results from 2004 to 2025. Search for team performances and view original event links."
     />
     <meta
       property="og:image"
@@ -61,7 +61,7 @@
         Tiomila Results
       </h1>
       <p class="subtitle">
-        Explore results from <strong>2008</strong> to <strong>2025</strong>
+        Explore results from <strong>2004</strong> to <strong>2025</strong>
       </p>
 
       <div style="text-align: center">
@@ -250,9 +250,34 @@
             };
             const winsplitIds = {
               2012: 20779,
+              2011: 16851, // Not added in the results yet since there is no class with the total results!
               2010: relay === "Herrkavlen" ? 13999 : 14001,
               2009: relay === "Herrkavlen" ? 11418 : 11417,
               2008: relay === "Herrkavlen" ? 9341 : 9344,
+              2007:
+                relay === "Herrkavlen"
+                  ? 7519
+                  : relay === "Damkavlen"
+                    ? 7512
+                    : 7511,
+              2006:
+                relay === "Herrkavlen"
+                  ? 5891
+                  : relay === "Damkavlen"
+                    ? 5880
+                    : 5879,
+              2005:
+                relay === "Herrkavlen"
+                  ? 4412
+                  : relay === "Damkavlen"
+                    ? 4410
+                    : 4409,
+              2004:
+                relay === "Herrkavlen"
+                  ? 3299
+                  : relay === "Damkavlen"
+                    ? 3300
+                    : 3301,
             };
 
             const eventId = eventIds[year];
