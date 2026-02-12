@@ -6,7 +6,7 @@
     <title>Tiomila Results Search</title>
     <meta
       name="description"
-      content="Search and explore historical Tiomila orienteering results from 2012 to 2025. Discover team performances, best relay results, and original event links."
+      content="Search and explore historical Tiomila orienteering results from 2010 to 2025. Discover team performances, best relay results, and original event links."
     />
     <meta
       name="keywords"
@@ -15,7 +15,7 @@
     <meta property="og:title" content="Tiomila Results Search" />
     <meta
       property="og:description"
-      content="Explore historical Tiomila orienteering results from 2012 to 2025. Search for team performances and view original event links."
+      content="Explore historical Tiomila orienteering results from 2010 to 2025. Search for team performances and view original event links."
     />
     <meta
       property="og:image"
@@ -61,7 +61,7 @@
         Tiomila Results
       </h1>
       <p class="subtitle">
-        Explore results from <strong>2012</strong> to <strong>2025</strong>
+        Explore results from <strong>2010</strong> to <strong>2025</strong>
       </p>
 
       <div style="text-align: center">
@@ -248,10 +248,13 @@
               2024: 47276,
               2025: 48103,
             };
-            const winsplitIds = { 2012: 20779 };
+            const winsplitIds = {
+              2012: 20779,
+              2010: relay === "Herrkavlen" ? 13999 : 14001,
+            };
 
             const eventId = eventIds[year];
-            const winsplitId = winsplitIds[year];
+            let winsplitId = winsplitIds[year];
             let url = "";
             if (eventId) {
               url = `https://eventor.orientering.se/Events/ResultList?eventId=${eventId}&organisationId=${clubKey}`;
