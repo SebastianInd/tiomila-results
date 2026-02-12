@@ -125,6 +125,16 @@
             "result_position": 2,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kalevan Rasti": {
+            "result_position": 94,
+            "status": "OK"
+          },
+          "Kalevan Rasti 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -253,6 +263,16 @@
         "2009": {
           "Kalevan Rasti": {
             "result_position": 11,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Kalevan Rasti": {
+            "result_position": 20,
+            "status": "OK"
+          },
+          "Kalevan Rasti 2": {
+            "result_position": 121,
             "status": "OK"
           }
         }
@@ -1155,6 +1175,20 @@
             "result_position": 41,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IFK Göteborg": {
+            "result_position": 27,
+            "status": "OK"
+          },
+          "IFK Göteborg 2": {
+            "result_position": 82,
+            "status": "OK"
+          },
+          "IFK Göteborg 3": {
+            "result_position": 225,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -1363,6 +1397,16 @@
           },
           "IFK Göteborg 2": {
             "result_position": 136,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IFK Göteborg": {
+            "result_position": 30,
+            "status": "OK"
+          },
+          "IFK Göteborg 2": {
+            "result_position": 104,
             "status": "OK"
           }
         }
@@ -2912,6 +2956,20 @@
             "result_position": 168,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Denseln": {
+            "result_position": 22,
+            "status": "OK"
+          },
+          "OK Denseln 2": {
+            "result_position": 48,
+            "status": "OK"
+          },
+          "OK Denseln 3": {
+            "result_position": null,
+            "status": "DidNotFinish"
+          }
         }
       },
       "Damkavlen": {
@@ -3062,6 +3120,20 @@
             "result_position": 184,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Denseln": {
+            "result_position": 41,
+            "status": "OK"
+          },
+          "OK Denseln 2": {
+            "result_position": 172,
+            "status": "OK"
+          },
+          "OK Denseln 3": {
+            "result_position": 198,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -3130,6 +3202,12 @@
           }
         },
         "2009": {
+          "OK Denseln": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
+        },
+        "2008": {
           "OK Denseln": {
             "result_position": null,
             "status": "DidNotStart"
@@ -3287,6 +3365,16 @@
           },
           "IFK Moras OK 2": {
             "result_position": 120,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IFK Moras OK": {
+            "result_position": 7,
+            "status": "OK"
+          },
+          "IFK Moras OK 2": {
+            "result_position": 127,
             "status": "OK"
           }
         }
@@ -3449,6 +3537,20 @@
             "result_position": 98,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IFK Moras OK": {
+            "result_position": 18,
+            "status": "OK"
+          },
+          "IFK Moras OK 2": {
+            "result_position": 91,
+            "status": "OK"
+          },
+          "IFK Moras OK 3": {
+            "result_position": 269,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -3527,6 +3629,12 @@
         "2010": {
           "IFK Moras OK": {
             "result_position": 38,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IFK Moras OK": {
+            "result_position": 17,
             "status": "OK"
           }
         }
@@ -3732,6 +3840,24 @@
           "IFK Lidingö SOK 3": {
             "result_position": 142,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "IFK Lidingö SOK": {
+            "result_position": 13,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 2": {
+            "result_position": 109,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 3": {
+            "result_position": 224,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 4": {
+            "result_position": null,
+            "status": "DidNotFinish"
           }
         }
       },
@@ -3973,6 +4099,28 @@
             "result_position": 134,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IFK Lidingö SOK": {
+            "result_position": 5,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 2": {
+            "result_position": 28,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 3": {
+            "result_position": 39,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 4": {
+            "result_position": 142,
+            "status": "OK"
+          },
+          "IFK Lidingö SOK 5": {
+            "result_position": 286,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -4095,6 +4243,12 @@
             "result_position": 203,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IFK Lidingö SOK": {
+            "result_position": 216,
+            "status": "OK"
+          }
         }
       }
     },
@@ -4182,6 +4336,16 @@
         "2009": {
           "Vaajakosken Terä": {
             "result_position": 20,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Vaajakosken Terä": {
+            "result_position": 14,
+            "status": "OK"
+          },
+          "Vaajakosken Terä 2": {
+            "result_position": 88,
             "status": "OK"
           }
         }
@@ -4622,6 +4786,48 @@
             "status": "DidNotFinish"
           },
           "NTNUI 11": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "NTNUI": {
+            "result_position": 41,
+            "status": "OK"
+          },
+          "NTNUI 2": {
+            "result_position": 84,
+            "status": "OK"
+          },
+          "NTNUI 3": {
+            "result_position": 249,
+            "status": "OK"
+          },
+          "NTNUI 4": {
+            "result_position": 263,
+            "status": "OK"
+          },
+          "NTNUI 5": {
+            "result_position": 265,
+            "status": "OK"
+          },
+          "NTNUI 6": {
+            "result_position": 275,
+            "status": "OK"
+          },
+          "NTNUI 7": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "NTNUI 8": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "NTNUI 9": {
+            "result_position": null,
+            "status": "DidNotFinish"
+          },
+          "NTNUI 10": {
             "result_position": null,
             "status": "Disqualified"
           }
@@ -5123,6 +5329,40 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "NTNUI": {
+            "result_position": 43,
+            "status": "OK"
+          },
+          "NTNUI 2": {
+            "result_position": 108,
+            "status": "OK"
+          },
+          "NTNUI 3": {
+            "result_position": 278,
+            "status": "OK"
+          },
+          "NTNUI 4": {
+            "result_position": 287,
+            "status": "OK"
+          },
+          "NTNUI 5": {
+            "result_position": 324,
+            "status": "OK"
+          },
+          "NTNUI 6": {
+            "result_position": 325,
+            "status": "OK"
+          },
+          "NTNUI 7": {
+            "result_position": null,
+            "status": "DidNotStart"
+          },
+          "NTNUI 8": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -5288,6 +5528,20 @@
             "result_position": 165,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Tisaren": {
+            "result_position": 83,
+            "status": "OK"
+          },
+          "OK Tisaren 2": {
+            "result_position": 201,
+            "status": "OK"
+          },
+          "OK Tisaren 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -5450,6 +5704,20 @@
             "result_position": 267,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Tisaren": {
+            "result_position": 21,
+            "status": "OK"
+          },
+          "OK Tisaren 2": {
+            "result_position": 86,
+            "status": "OK"
+          },
+          "OK Tisaren 3": {
+            "result_position": 254,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -5549,6 +5817,16 @@
           "OK Tisaren": {
             "result_position": 59,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Tisaren": {
+            "result_position": 41,
+            "status": "OK"
+          },
+          "OK Tisaren 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -5930,6 +6208,12 @@
             "result_position": 26,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Angelniemen Ankkuri": {
+            "result_position": 8,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -6054,6 +6338,12 @@
         "2009": {
           "Angelniemen Ankkuri": {
             "result_position": 20,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Angelniemen Ankkuri": {
+            "result_position": 40,
             "status": "OK"
           }
         }
@@ -6267,6 +6557,20 @@
             "result_position": 125,
             "status": "OK"
           }
+        },
+        "2008": {
+          "MS Parma": {
+            "result_position": 24,
+            "status": "OK"
+          },
+          "MS Parma 2": {
+            "result_position": 60,
+            "status": "OK"
+          },
+          "MS Parma 3": {
+            "result_position": 192,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -6413,6 +6717,20 @@
             "result_position": 141,
             "status": "OK"
           }
+        },
+        "2008": {
+          "MS Parma": {
+            "result_position": 82,
+            "status": "OK"
+          },
+          "MS Parma 2": {
+            "result_position": 199,
+            "status": "OK"
+          },
+          "MS Parma 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -6505,6 +6823,20 @@
           },
           "MS Parma 2": {
             "result_position": 147,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "MS Parma": {
+            "result_position": 51,
+            "status": "OK"
+          },
+          "MS Parma 2": {
+            "result_position": 196,
+            "status": "OK"
+          },
+          "MS Parma 3": {
+            "result_position": 220,
             "status": "OK"
           }
         }
@@ -6782,6 +7114,16 @@
           },
           "OK Linné 3": {
             "result_position": 140,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Linné": {
+            "result_position": 15,
+            "status": "OK"
+          },
+          "OK Linné 2": {
+            "result_position": 56,
             "status": "OK"
           }
         }
@@ -7110,6 +7452,16 @@
             "result_position": 103,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Linné": {
+            "result_position": 7,
+            "status": "OK"
+          },
+          "OK Linné 2": {
+            "result_position": 47,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -7360,6 +7712,20 @@
             "result_position": 194,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Linné": {
+            "result_position": 39,
+            "status": "OK"
+          },
+          "OK Linné 2": {
+            "result_position": 163,
+            "status": "OK"
+          },
+          "OK Linné 3": {
+            "result_position": 170,
+            "status": "OK"
+          }
         }
       }
     },
@@ -7545,6 +7911,16 @@
             "result_position": 126,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Orion": {
+            "result_position": 9,
+            "status": "OK"
+          },
+          "OK Orion 2": {
+            "result_position": 102,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -7726,6 +8102,12 @@
           "OK Orion 3": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "OK Orion": {
+            "result_position": 72,
+            "status": "OK"
           }
         }
       },
@@ -7978,6 +8360,20 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Turun Metsänkävijät": {
+            "result_position": 5,
+            "status": "OK"
+          },
+          "Turun Metsänkävijät 2": {
+            "result_position": 31,
+            "status": "OK"
+          },
+          "Turun Metsänkävijät 3": {
+            "result_position": 252,
+            "status": "OK"
+          }
         }
       }
     },
@@ -8089,6 +8485,16 @@
         "2009": {
           "Vehkalahden Veikot": {
             "result_position": 4,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Vehkalahden Veikot": {
+            "result_position": 11,
+            "status": "OK"
+          },
+          "Vehkalahden Veikot 2": {
+            "result_position": 147,
             "status": "OK"
           }
         }
@@ -8259,6 +8665,16 @@
             "result_position": 50,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Vehkalahden Veikot": {
+            "result_position": 52,
+            "status": "OK"
+          },
+          "Vehkalahden Veikot 2": {
+            "result_position": 223,
+            "status": "OK"
+          }
         }
       }
     },
@@ -8370,6 +8786,16 @@
             "result_position": 62,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Rajamäen Rykmentti": {
+            "result_position": 4,
+            "status": "OK"
+          },
+          "Rajamäen Rykmentti 2": {
+            "result_position": 68,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -8474,6 +8900,16 @@
             "result_position": null,
             "status": "DidNotStart"
           }
+        },
+        "2008": {
+          "Rajamäen Rykmentti": {
+            "result_position": 78,
+            "status": "OK"
+          },
+          "Rajamäen Rykmentti 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -8522,6 +8958,20 @@
         "2009": {
           "Rajamäen Rykmentti": {
             "result_position": 54,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Rajamäen Rykmentti": {
+            "result_position": 12,
+            "status": "OK"
+          },
+          "Rajamäen Rykmentti 2": {
+            "result_position": 87,
+            "status": "OK"
+          },
+          "Rajamäen Rykmentti 3": {
+            "result_position": 125,
             "status": "OK"
           }
         }
@@ -8773,6 +9223,24 @@
             "result_position": 158,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IK Hakarpspojkarna": {
+            "result_position": 12,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 2": {
+            "result_position": 78,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 3": {
+            "result_position": 161,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 4": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -8973,6 +9441,20 @@
             "result_position": 207,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IK Hakarpspojkarna": {
+            "result_position": 31,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 2": {
+            "result_position": 127,
+            "status": "OK"
+          },
+          "IK Hakarpspojkarna 3": {
+            "result_position": 294,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -9147,6 +9629,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "IK Hakarpspojkarna": {
+            "result_position": 100,
+            "status": "OK"
+          }
         }
       }
     },
@@ -9294,6 +9782,20 @@
             "result_position": 231,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kristiansand OK": {
+            "result_position": 1,
+            "status": "OK"
+          },
+          "Kristiansand OK 2": {
+            "result_position": 52,
+            "status": "OK"
+          },
+          "Kristiansand OK 3": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -9370,6 +9872,20 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Kristiansand OK": {
+            "result_position": 42,
+            "status": "OK"
+          },
+          "Kristiansand OK 2": {
+            "result_position": 273,
+            "status": "OK"
+          },
+          "Kristiansand OK 3": {
+            "result_position": 314,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -9441,6 +9957,24 @@
             "status": "OK"
           },
           "Kristiansand OK 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Kristiansand OK": {
+            "result_position": 54,
+            "status": "OK"
+          },
+          "Kristiansand OK 2": {
+            "result_position": 135,
+            "status": "OK"
+          },
+          "Kristiansand OK 3": {
+            "result_position": 168,
+            "status": "OK"
+          },
+          "Kristiansand OK 4": {
             "result_position": null,
             "status": "Disqualified"
           }
@@ -10824,6 +11358,20 @@
             "result_position": 72,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Stora Tuna OK": {
+            "result_position": 10,
+            "status": "OK"
+          },
+          "Stora Tuna OK 2": {
+            "result_position": 98,
+            "status": "OK"
+          },
+          "Stora Tuna OK 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -10984,6 +11532,20 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Stora Tuna OK": {
+            "result_position": 1,
+            "status": "OK"
+          },
+          "Stora Tuna OK 2": {
+            "result_position": 75,
+            "status": "OK"
+          },
+          "Stora Tuna OK 3": {
+            "result_position": 144,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -11125,6 +11687,24 @@
           "Stora Tuna OK 2": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Stora Tuna OK": {
+            "result_position": 44,
+            "status": "OK"
+          },
+          "Stora Tuna OK 2": {
+            "result_position": 57,
+            "status": "OK"
+          },
+          "Stora Tuna OK 3": {
+            "result_position": 123,
+            "status": "OK"
+          },
+          "Stora Tuna OK 4": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -11306,6 +11886,16 @@
           "IL Tyrving 2": {
             "result_position": 119,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "IL Tyrving": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "IL Tyrving 2": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -11513,6 +12103,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "IL Tyrving": {
+            "result_position": 84,
+            "status": "OK"
+          },
+          "IL Tyrving 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -11689,6 +12289,20 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "IL Tyrving": {
+            "result_position": 36,
+            "status": "OK"
+          },
+          "IL Tyrving 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "IL Tyrving 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -11808,6 +12422,12 @@
           "Rehns BK 2": {
             "result_position": null,
             "status": "DidNotStart"
+          }
+        },
+        "2008": {
+          "Rehns BK": {
+            "result_position": 32,
+            "status": "OK"
           }
         }
       },
@@ -11966,6 +12586,20 @@
             "result_position": 66,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Leksands OK": {
+            "result_position": 16,
+            "status": "OK"
+          },
+          "Leksands OK 2": {
+            "result_position": 113,
+            "status": "OK"
+          },
+          "Leksands OK 3": {
+            "result_position": 189,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -12104,6 +12738,20 @@
             "result_position": null,
             "status": "DidNotStart"
           }
+        },
+        "2008": {
+          "Leksands OK": {
+            "result_position": 36,
+            "status": "OK"
+          },
+          "Leksands OK 2": {
+            "result_position": 120,
+            "status": "OK"
+          },
+          "Leksands OK 3": {
+            "result_position": 289,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -12182,6 +12830,16 @@
         "2010": {
           "Leksands OK": {
             "result_position": 52,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Leksands OK": {
+            "result_position": 205,
+            "status": "OK"
+          },
+          "Leksands OK 2": {
+            "result_position": 246,
             "status": "OK"
           }
         }
@@ -12331,6 +12989,16 @@
           },
           "Tampereen Pyrintö 2": {
             "result_position": 178,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Tampereen Pyrintö": {
+            "result_position": 17,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 2": {
+            "result_position": 138,
             "status": "OK"
           }
         }
@@ -12559,6 +13227,24 @@
             "result_position": 212,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Tampereen Pyrintö": {
+            "result_position": 13,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 2": {
+            "result_position": 44,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 3": {
+            "result_position": 132,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 4": {
+            "result_position": 285,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -12711,6 +13397,28 @@
           },
           "Tampereen Pyrintö 2": {
             "result_position": 127,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Tampereen Pyrintö": {
+            "result_position": 35,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 2": {
+            "result_position": 58,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 3": {
+            "result_position": 85,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 4": {
+            "result_position": 97,
+            "status": "OK"
+          },
+          "Tampereen Pyrintö 5": {
+            "result_position": 249,
             "status": "OK"
           }
         }
@@ -12913,6 +13621,20 @@
           "OK Ravinen 2": {
             "result_position": 163,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Ravinen": {
+            "result_position": 140,
+            "status": "OK"
+          },
+          "OK Ravinen 2": {
+            "result_position": 217,
+            "status": "OK"
+          },
+          "OK Ravinen 3": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -13119,6 +13841,24 @@
           "OK Ravinen 2": {
             "result_position": 179,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Ravinen": {
+            "result_position": 81,
+            "status": "OK"
+          },
+          "OK Ravinen 2": {
+            "result_position": 90,
+            "status": "OK"
+          },
+          "OK Ravinen 3": {
+            "result_position": 282,
+            "status": "OK"
+          },
+          "OK Ravinen 4": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -13366,6 +14106,32 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "OK Ravinen": {
+            "result_position": 2,
+            "status": "OK"
+          },
+          "OK Ravinen 2": {
+            "result_position": 43,
+            "status": "OK"
+          },
+          "OK Ravinen 3": {
+            "result_position": 241,
+            "status": "OK"
+          },
+          "OK Ravinen 4": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "OK Ravinen 5": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "OK Ravinen 6": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -13497,6 +14263,12 @@
         "2009": {
           "OK Kåre": {
             "result_position": 97,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Kåre": {
+            "result_position": 105,
             "status": "OK"
           }
         }
@@ -13679,6 +14451,20 @@
             "result_position": 192,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Kåre": {
+            "result_position": 62,
+            "status": "OK"
+          },
+          "OK Kåre 2": {
+            "result_position": 151,
+            "status": "OK"
+          },
+          "OK Kåre 3": {
+            "result_position": 305,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -13809,6 +14595,20 @@
           },
           "OK Kåre 2": {
             "result_position": 87,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Kåre": {
+            "result_position": 38,
+            "status": "OK"
+          },
+          "OK Kåre 2": {
+            "result_position": 48,
+            "status": "OK"
+          },
+          "OK Kåre 3": {
+            "result_position": 137,
             "status": "OK"
           }
         }
@@ -13943,6 +14743,16 @@
           "Paimion Rasti 2": {
             "result_position": null,
             "status": "DidNotStart"
+          }
+        },
+        "2008": {
+          "Paimion Rasti": {
+            "result_position": 19,
+            "status": "OK"
+          },
+          "Paimion Rasti 2": {
+            "result_position": 121,
+            "status": "OK"
           }
         }
       },
@@ -14090,6 +14900,16 @@
             "result_position": 113,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Paimion Rasti": {
+            "result_position": 8,
+            "status": "OK"
+          },
+          "Paimion Rasti 2": {
+            "result_position": 97,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -14138,6 +14958,16 @@
         "2010": {
           "Paimion Rasti": {
             "result_position": 188,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Paimion Rasti": {
+            "result_position": 56,
+            "status": "OK"
+          },
+          "Paimion Rasti 2": {
+            "result_position": 175,
             "status": "OK"
           }
         }
@@ -14578,6 +15408,16 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "OK Hällen": {
+            "result_position": 35,
+            "status": "OK"
+          },
+          "OK Hällen 2": {
+            "result_position": 209,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -14708,6 +15548,16 @@
             "result_position": 129,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Hällen": {
+            "result_position": 50,
+            "status": "OK"
+          },
+          "OK Hällen 2": {
+            "result_position": 222,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -14820,6 +15670,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "OK Hällen": {
+            "result_position": 219,
+            "status": "OK"
+          }
         }
       }
     },
@@ -14931,6 +15787,12 @@
             "result_position": 36,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Frol IL": {
+            "result_position": 149,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -15017,6 +15879,12 @@
         "2009": {
           "Frol IL": {
             "result_position": 164,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Frol IL": {
+            "result_position": 262,
             "status": "OK"
           }
         }
@@ -15749,6 +16617,16 @@
             "result_position": 83,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Ärla IF": {
+            "result_position": 75,
+            "status": "OK"
+          },
+          "Ärla IF 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -15871,6 +16749,16 @@
             "result_position": 194,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Ärla IF": {
+            "result_position": 92,
+            "status": "OK"
+          },
+          "Ärla IF 2": {
+            "result_position": 213,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -15925,6 +16813,12 @@
         "2010": {
           "Ärla IF": {
             "result_position": 245,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Ärla IF": {
+            "result_position": 223,
             "status": "OK"
           }
         }
@@ -16171,6 +17065,16 @@
           "Nydalens Skiklub 2": {
             "result_position": 116,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Nydalens Skiklub": {
+            "result_position": 33,
+            "status": "OK"
+          },
+          "Nydalens Skiklub 2": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -16453,6 +17357,20 @@
           "Nydalens Skiklub 2": {
             "result_position": 176,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Nydalens Skiklub": {
+            "result_position": 14,
+            "status": "OK"
+          },
+          "Nydalens Skiklub 2": {
+            "result_position": 116,
+            "status": "OK"
+          },
+          "Nydalens Skiklub 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -16809,6 +17727,24 @@
             "status": "DidNotStart"
           },
           "Nydalens Skiklub 5": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Nydalens Skiklub": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Nydalens Skiklub 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Nydalens Skiklub 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Nydalens Skiklub 4": {
             "result_position": null,
             "status": "Disqualified"
           }
@@ -17336,6 +18272,16 @@
             "result_position": 176,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Ulricehamns OK": {
+            "result_position": 43,
+            "status": "OK"
+          },
+          "Ulricehamns OK 2": {
+            "result_position": 216,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -17436,6 +18382,16 @@
           },
           "Ulricehamns OK 3": {
             "result_position": 224,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Ulricehamns OK": {
+            "result_position": 22,
+            "status": "OK"
+          },
+          "Ulricehamns OK 2": {
+            "result_position": 94,
             "status": "OK"
           }
         }
@@ -17552,6 +18508,16 @@
             "result_position": 162,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Ulricehamns OK": {
+            "result_position": 224,
+            "status": "OK"
+          },
+          "Ulricehamns OK 2": {
+            "result_position": 227,
+            "status": "OK"
+          }
         }
       }
     },
@@ -17661,6 +18627,12 @@
             "result_position": 39,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IFK Umeå": {
+            "result_position": 63,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -17715,6 +18687,12 @@
         "2010": {
           "IFK Umeå": {
             "result_position": 82,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IFK Umeå": {
+            "result_position": 46,
             "status": "OK"
           }
         }
@@ -17945,6 +18923,20 @@
           "Tullinge SK 3": {
             "result_position": null,
             "status": "DidNotFinish"
+          }
+        },
+        "2008": {
+          "Tullinge SK": {
+            "result_position": 55,
+            "status": "OK"
+          },
+          "Tullinge SK 2": {
+            "result_position": 93,
+            "status": "OK"
+          },
+          "Tullinge SK 3": {
+            "result_position": 180,
+            "status": "OK"
           }
         }
       },
@@ -18244,6 +19236,32 @@
             "result_position": 281,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Tullinge SK": {
+            "result_position": 25,
+            "status": "OK"
+          },
+          "Tullinge SK 2": {
+            "result_position": 45,
+            "status": "OK"
+          },
+          "Tullinge SK 3": {
+            "result_position": 59,
+            "status": "OK"
+          },
+          "Tullinge SK 4": {
+            "result_position": 70,
+            "status": "OK"
+          },
+          "Tullinge SK 5": {
+            "result_position": 192,
+            "status": "OK"
+          },
+          "Tullinge SK 6": {
+            "result_position": 195,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -18452,6 +19470,24 @@
           },
           "Tullinge SK 3": {
             "result_position": 158,
+            "status": "OK"
+          },
+          "Tullinge SK 4": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Tullinge SK": {
+            "result_position": 11,
+            "status": "OK"
+          },
+          "Tullinge SK 2": {
+            "result_position": 21,
+            "status": "OK"
+          },
+          "Tullinge SK 3": {
+            "result_position": 113,
             "status": "OK"
           },
           "Tullinge SK 4": {
@@ -18970,6 +20006,12 @@
             "result_position": 63,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kangasala SK": {
+            "result_position": 62,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -19093,6 +20135,12 @@
           "Kangasala SK": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Kangasala SK": {
+            "result_position": 114,
+            "status": "OK"
           }
         }
       },
@@ -19277,6 +20325,16 @@
             "result_position": 164,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Gävle OK": {
+            "result_position": 58,
+            "status": "OK"
+          },
+          "Gävle OK 2": {
+            "result_position": 188,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -19383,6 +20441,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Gävle OK": {
+            "result_position": 98,
+            "status": "OK"
+          },
+          "Gävle OK 2": {
+            "result_position": 210,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -19473,6 +20541,12 @@
           },
           "Gävle OK 2": {
             "result_position": 128,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Gävle OK": {
+            "result_position": 40,
             "status": "OK"
           }
         }
@@ -19777,6 +20851,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Hestra IF": {
+            "result_position": 124,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -20004,6 +21084,12 @@
             "result_position": null,
             "status": "MissingPunch"
           }
+        },
+        "2008": {
+          "Skåneslättens OL": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -20098,6 +21184,12 @@
           },
           "Skåneslättens OL 2": {
             "result_position": 212,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Skåneslättens OL": {
+            "result_position": 167,
             "status": "OK"
           }
         }
@@ -20207,6 +21299,12 @@
             "result_position": 107,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Anttolan Urheilijat": {
+            "result_position": 57,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -20261,6 +21359,12 @@
         "2009": {
           "Anttolan Urheilijat": {
             "result_position": 158,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Anttolan Urheilijat": {
+            "result_position": 136,
             "status": "OK"
           }
         }
@@ -20584,6 +21688,12 @@
             "result_position": 56,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Pellon Ponsi": {
+            "result_position": 100,
+            "status": "OK"
+          }
         }
       }
     },
@@ -20639,6 +21749,12 @@
         "2009": {
           "Rasti-Kurikka": {
             "result_position": 38,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Rasti-Kurikka": {
+            "result_position": 29,
             "status": "OK"
           }
         }
@@ -20705,6 +21821,16 @@
           },
           "Rasti-Kurikka 2": {
             "result_position": 216,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Rasti-Kurikka": {
+            "result_position": 160,
+            "status": "OK"
+          },
+          "Rasti-Kurikka 2": {
+            "result_position": 207,
             "status": "OK"
           }
         }
@@ -20846,6 +21972,16 @@
             "result_position": 242,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Nyköpings OK": {
+            "result_position": 73,
+            "status": "OK"
+          },
+          "Nyköpings OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -20958,6 +22094,12 @@
         "2009": {
           "Nyköpings OK": {
             "result_position": 90,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Nyköpings OK": {
+            "result_position": 125,
             "status": "OK"
           }
         }
@@ -21142,6 +22284,24 @@
             "result_position": 205,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Nyköpings OK": {
+            "result_position": 13,
+            "status": "OK"
+          },
+          "Nyköpings OK 2": {
+            "result_position": 47,
+            "status": "OK"
+          },
+          "Nyköpings OK 3": {
+            "result_position": 84,
+            "status": "OK"
+          },
+          "Nyköpings OK 4": {
+            "result_position": 268,
+            "status": "OK"
+          }
         }
       }
     },
@@ -21307,6 +22467,16 @@
             "result_position": 137,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Attunda OK": {
+            "result_position": 155,
+            "status": "OK"
+          },
+          "Attunda OK 2": {
+            "result_position": 247,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -21465,6 +22635,20 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Attunda OK": {
+            "result_position": 126,
+            "status": "OK"
+          },
+          "Attunda OK 2": {
+            "result_position": 194,
+            "status": "OK"
+          },
+          "Attunda OK 3": {
+            "result_position": 220,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -21590,6 +22774,24 @@
           "Attunda OK 2": {
             "result_position": 68,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Attunda OK": {
+            "result_position": 104,
+            "status": "OK"
+          },
+          "Attunda OK 2": {
+            "result_position": 189,
+            "status": "OK"
+          },
+          "Attunda OK 3": {
+            "result_position": 245,
+            "status": "OK"
+          },
+          "Attunda OK 4": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       }
@@ -21889,6 +23091,12 @@
             "result_position": 69,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Orient": {
+            "result_position": 39,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -21909,6 +23117,12 @@
             "result_position": 127,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Orient": {
+            "result_position": 189,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -21921,6 +23135,12 @@
         "2012": {
           "OK Orient 1": {
             "result_position": 57,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Orient": {
+            "result_position": 74,
             "status": "OK"
           }
         }
@@ -22355,6 +23575,12 @@
             "result_position": 220,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Espoon Suunta": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -22516,6 +23742,20 @@
           "Espoon Suunta 2": {
             "result_position": null,
             "status": "DidNotFinish"
+          }
+        },
+        "2008": {
+          "Espoon Suunta": {
+            "result_position": 58,
+            "status": "OK"
+          },
+          "Espoon Suunta 2": {
+            "result_position": 178,
+            "status": "OK"
+          },
+          "Espoon Suunta 3": {
+            "result_position": 256,
+            "status": "OK"
           }
         }
       },
@@ -22843,6 +24083,12 @@
             "result_position": 204,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Turun Suunnistajat": {
+            "result_position": 64,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -22969,6 +24215,12 @@
             "result_position": 73,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Turun Suunnistajat": {
+            "result_position": 26,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -23091,6 +24343,20 @@
             "result_position": 39,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Turun Suunnistajat": {
+            "result_position": 1,
+            "status": "OK"
+          },
+          "Turun Suunnistajat 2": {
+            "result_position": 99,
+            "status": "OK"
+          },
+          "Turun Suunnistajat 3": {
+            "result_position": 141,
+            "status": "OK"
+          }
         }
       }
     },
@@ -23210,6 +24476,12 @@
         "2009": {
           "Eksjö SOK": {
             "result_position": 117,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Eksjö SOK": {
+            "result_position": 162,
             "status": "OK"
           }
         }
@@ -23350,6 +24622,12 @@
             "result_position": 105,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Eksjö SOK": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -23450,6 +24728,12 @@
           },
           "Eksjö SOK 2": {
             "result_position": 121,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Eksjö SOK": {
+            "result_position": 6,
             "status": "OK"
           }
         }
@@ -23608,6 +24892,16 @@
           "OK Pan Århus 3": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "OK Pan Århus": {
+            "result_position": 30,
+            "status": "OK"
+          },
+          "OK Pan Århus 2": {
+            "result_position": 139,
+            "status": "OK"
           }
         }
       },
@@ -23801,6 +25095,12 @@
           },
           "OK Pan Århus 3": {
             "result_position": 173,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Pan Århus": {
+            "result_position": 162,
             "status": "OK"
           }
         }
@@ -24654,6 +25954,20 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Västerås SOK": {
+            "result_position": 42,
+            "status": "OK"
+          },
+          "Västerås SOK 2": {
+            "result_position": 163,
+            "status": "OK"
+          },
+          "Västerås SOK 3": {
+            "result_position": 223,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -24786,6 +26100,24 @@
           },
           "Västerås SOK 2": {
             "result_position": 228,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Västerås SOK": {
+            "result_position": 27,
+            "status": "OK"
+          },
+          "Västerås SOK 2": {
+            "result_position": 103,
+            "status": "OK"
+          },
+          "Västerås SOK 3": {
+            "result_position": 156,
+            "status": "OK"
+          },
+          "Västerås SOK 4": {
+            "result_position": 291,
             "status": "OK"
           }
         }
@@ -24944,6 +26276,20 @@
         "2009": {
           "Västerås SOK": {
             "result_position": 95,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Västerås SOK": {
+            "result_position": 120,
+            "status": "OK"
+          },
+          "Västerås SOK 2": {
+            "result_position": 121,
+            "status": "OK"
+          },
+          "Västerås SOK 3": {
+            "result_position": 172,
             "status": "OK"
           }
         }
@@ -25121,6 +26467,16 @@
         "2009": {
           "Sävedalens AIK": {
             "result_position": 24,
+            "status": "OK"
+          },
+          "Sävedalens AIK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Sävedalens AIK": {
+            "result_position": 38,
             "status": "OK"
           },
           "Sävedalens AIK 2": {
@@ -25373,6 +26729,20 @@
             "result_position": 154,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sävedalens AIK": {
+            "result_position": 12,
+            "status": "OK"
+          },
+          "Sävedalens AIK 2": {
+            "result_position": 60,
+            "status": "OK"
+          },
+          "Sävedalens AIK 3": {
+            "result_position": 274,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -25491,6 +26861,16 @@
             "result_position": 84,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sävedalens AIK": {
+            "result_position": 208,
+            "status": "OK"
+          },
+          "Sävedalens AIK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -25548,6 +26928,12 @@
             "result_position": 111,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IF Femman": {
+            "result_position": 72,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -25584,6 +26970,12 @@
         "2012": {
           "IF Femman 1": {
             "result_position": 54,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IF Femman": {
+            "result_position": 87,
             "status": "OK"
           }
         }
@@ -25637,6 +27029,12 @@
         "2009": {
           "IF Sibbo-Vargarna": {
             "result_position": 48,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IF Sibbo-Vargarna": {
+            "result_position": 37,
             "status": "OK"
           }
         }
@@ -25737,6 +27135,12 @@
           "Ylistaron Kilpa-Veljet": {
             "result_position": 81,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Ylistaron Kilpa-Veljet": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -25899,6 +27303,12 @@
             "result_position": 252,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Skogshjortarna": {
+            "result_position": 153,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -26007,6 +27417,12 @@
           },
           "OK Skogshjortarna 2": {
             "result_position": 240,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Skogshjortarna": {
+            "result_position": 147,
             "status": "OK"
           }
         }
@@ -26521,6 +27937,16 @@
             "result_position": 259,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Järfälla OK": {
+            "result_position": 87,
+            "status": "OK"
+          },
+          "Järfälla OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -26627,6 +28053,16 @@
           },
           "Järfälla OK 2": {
             "result_position": 248,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Järfälla OK": {
+            "result_position": 48,
+            "status": "OK"
+          },
+          "Järfälla OK 2": {
+            "result_position": 238,
             "status": "OK"
           }
         }
@@ -26817,6 +28253,12 @@
             "result_position": 182,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Järfälla OK": {
+            "result_position": 151,
+            "status": "OK"
+          }
         }
       }
     },
@@ -26889,6 +28331,16 @@
         },
         "2009": {
           "Hyvinkään Rasti": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Hyvinkään Rasti": {
+            "result_position": 141,
+            "status": "OK"
+          },
+          "Hyvinkään Rasti 2": {
             "result_position": null,
             "status": "Disqualified"
           }
@@ -27103,6 +28555,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Haninge SOK": {
+            "result_position": 142,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -27155,6 +28613,16 @@
         "2009": {
           "Haninge SOK": {
             "result_position": 116,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Haninge SOK": {
+            "result_position": 61,
+            "status": "OK"
+          },
+          "Haninge SOK 2": {
+            "result_position": 319,
             "status": "OK"
           }
         }
@@ -27248,6 +28716,20 @@
           "Haninge SOK": {
             "result_position": 56,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Haninge SOK": {
+            "result_position": 180,
+            "status": "OK"
+          },
+          "Haninge SOK 2": {
+            "result_position": 280,
+            "status": "OK"
+          },
+          "Haninge SOK 3": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       }
@@ -27540,6 +29022,24 @@
             "result_position": 287,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Tumba-Mälarhöjden OK": {
+            "result_position": 206,
+            "status": "OK"
+          },
+          "Tumba-Mälarhöjden OK 2": {
+            "result_position": 313,
+            "status": "OK"
+          },
+          "Tumba-Mälarhöjden OK 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Tumba-Mälarhöjden OK 4": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -27702,6 +29202,12 @@
             "result_position": 108,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Tumba-Mälarhöjden OK": {
+            "result_position": 143,
+            "status": "OK"
+          }
         }
       }
     },
@@ -27835,6 +29341,16 @@
             "result_position": 84,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Roslagen": {
+            "result_position": 61,
+            "status": "OK"
+          },
+          "OK Roslagen 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -27933,6 +29449,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "OK Roslagen": {
+            "result_position": 230,
+            "status": "OK"
+          },
+          "OK Roslagen 2": {
+            "result_position": 272,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -28015,6 +29541,16 @@
           },
           "OK Roslagen 2": {
             "result_position": 207,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Roslagen": {
+            "result_position": 157,
+            "status": "OK"
+          },
+          "OK Roslagen 2": {
+            "result_position": 230,
             "status": "OK"
           }
         }
@@ -28144,6 +29680,16 @@
           },
           "OK Tyr 2": {
             "result_position": 207,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Tyr": {
+            "result_position": 70,
+            "status": "OK"
+          },
+          "OK Tyr 2": {
+            "result_position": 170,
             "status": "OK"
           }
         }
@@ -28299,6 +29845,24 @@
           "OK Tyr 2": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "OK Tyr": {
+            "result_position": 23,
+            "status": "OK"
+          },
+          "OK Tyr 2": {
+            "result_position": 129,
+            "status": "OK"
+          },
+          "OK Tyr 3": {
+            "result_position": 182,
+            "status": "OK"
+          },
+          "OK Tyr 4": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       },
@@ -28470,6 +30034,28 @@
             "result_position": 35,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Tyr": {
+            "result_position": 45,
+            "status": "OK"
+          },
+          "OK Tyr 2": {
+            "result_position": 236,
+            "status": "OK"
+          },
+          "OK Tyr 3": {
+            "result_position": null,
+            "status": "DidNotStart"
+          },
+          "OK Tyr 4": {
+            "result_position": null,
+            "status": "DidNotStart"
+          },
+          "OK Tyr 5": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -28621,6 +30207,16 @@
           },
           "KFUM Örebro OK 2": {
             "result_position": 217,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "KFUM Örebro OK": {
+            "result_position": 40,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 2": {
+            "result_position": 168,
             "status": "OK"
           }
         }
@@ -28781,6 +30377,24 @@
             "result_position": 125,
             "status": "OK"
           }
+        },
+        "2008": {
+          "KFUM Örebro OK": {
+            "result_position": 79,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 2": {
+            "result_position": 215,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 3": {
+            "result_position": 245,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 4": {
+            "result_position": 323,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -28883,6 +30497,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "KFUM Örebro OK": {
+            "result_position": 60,
+            "status": "OK"
+          },
+          "KFUM Örebro OK 2": {
+            "result_position": 267,
+            "status": "OK"
+          }
         }
       }
     },
@@ -28960,6 +30584,12 @@
           },
           "OK Skogsfalken 2": {
             "result_position": 173,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Skogsfalken": {
+            "result_position": 126,
             "status": "OK"
           }
         }
@@ -29062,6 +30692,16 @@
             "result_position": 260,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Skogsfalken": {
+            "result_position": 17,
+            "status": "OK"
+          },
+          "OK Skogsfalken 2": {
+            "result_position": 117,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -29100,6 +30740,16 @@
           },
           "OK Skogsfalken 2": {
             "result_position": 75,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Skogsfalken": {
+            "result_position": 102,
+            "status": "OK"
+          },
+          "OK Skogsfalken 2": {
+            "result_position": 193,
             "status": "OK"
           }
         }
@@ -29294,6 +30944,12 @@
             "result_position": 139,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Løten o-lag": {
+            "result_position": 86,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -29346,6 +31002,12 @@
             "result_position": 204,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Løten o-lag": {
+            "result_position": 73,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -29394,6 +31056,16 @@
           },
           "Løten o-lag 2": {
             "result_position": 94,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Løten o-lag": {
+            "result_position": 127,
+            "status": "OK"
+          },
+          "Løten o-lag 2": {
+            "result_position": 161,
             "status": "OK"
           }
         }
@@ -29503,6 +31175,20 @@
         "2022": {
           "Gjø-Vard OL 1": {
             "result_position": 139,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Gjø-Vard OL": {
+            "result_position": 7,
+            "status": "OK"
+          },
+          "Gjø-Vard OL 2": {
+            "result_position": 89,
+            "status": "OK"
+          },
+          "Gjø-Vard OL 3": {
+            "result_position": 159,
             "status": "OK"
           }
         }
@@ -29776,6 +31462,16 @@
             "result_position": 80,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Långhundra IF": {
+            "result_position": 107,
+            "status": "OK"
+          },
+          "Långhundra IF 2": {
+            "result_position": 275,
+            "status": "OK"
+          }
         }
       }
     },
@@ -29995,6 +31691,20 @@
           },
           "Linköpings OK 3": {
             "result_position": 187,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Linköpings OK": {
+            "result_position": 49,
+            "status": "OK"
+          },
+          "Linköpings OK 2": {
+            "result_position": 92,
+            "status": "OK"
+          },
+          "Linköpings OK 3": {
+            "result_position": 204,
             "status": "OK"
           }
         }
@@ -30251,6 +31961,24 @@
             "result_position": 99,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Linköpings OK": {
+            "result_position": 65,
+            "status": "OK"
+          },
+          "Linköpings OK 2": {
+            "result_position": 111,
+            "status": "OK"
+          },
+          "Linköpings OK 3": {
+            "result_position": 173,
+            "status": "OK"
+          },
+          "Linköpings OK 4": {
+            "result_position": 310,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -30403,6 +32131,24 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Linköpings OK": {
+            "result_position": 67,
+            "status": "OK"
+          },
+          "Linköpings OK 2": {
+            "result_position": 82,
+            "status": "OK"
+          },
+          "Linköpings OK 3": {
+            "result_position": 179,
+            "status": "OK"
+          },
+          "Linköpings OK 4": {
+            "result_position": 273,
+            "status": "OK"
+          }
         }
       }
     },
@@ -30452,6 +32198,12 @@
         "2009": {
           "IF Brahe": {
             "result_position": 190,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IF Brahe": {
+            "result_position": 144,
             "status": "OK"
           }
         }
@@ -30906,6 +32658,12 @@
             "result_position": 183,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Helsingborgs SOK": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -30992,6 +32750,12 @@
             "result_position": 304,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Helsingborgs SOK": {
+            "result_position": 163,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -31070,6 +32834,16 @@
           },
           "Helsingborgs SOK 2": {
             "result_position": 126,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Helsingborgs SOK": {
+            "result_position": 53,
+            "status": "OK"
+          },
+          "Helsingborgs SOK 2": {
+            "result_position": 72,
             "status": "OK"
           }
         }
@@ -31217,6 +32991,12 @@
             "result_position": 190,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Finspångs SOK": {
+            "result_position": 170,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -31309,6 +33089,12 @@
           },
           "Finspångs SOK 2": {
             "result_position": 106,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Finspångs SOK": {
+            "result_position": 34,
             "status": "OK"
           }
         }
@@ -31406,6 +33192,12 @@
         "2009": {
           "OK Rodhen": {
             "result_position": 148,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Rodhen": {
+            "result_position": 91,
             "status": "OK"
           }
         }
@@ -31544,6 +33336,20 @@
             "result_position": 152,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Rodhen": {
+            "result_position": 34,
+            "status": "OK"
+          },
+          "OK Rodhen 2": {
+            "result_position": 214,
+            "status": "OK"
+          },
+          "OK Rodhen 3": {
+            "result_position": 311,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -31597,6 +33403,16 @@
           "OK Rodhen": {
             "result_position": 107,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Rodhen": {
+            "result_position": 101,
+            "status": "OK"
+          },
+          "OK Rodhen 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -31695,6 +33511,12 @@
         "2009": {
           "OK Nolaskogsarna": {
             "result_position": 109,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Nolaskogsarna": {
+            "result_position": 197,
             "status": "OK"
           }
         }
@@ -31805,6 +33627,12 @@
             "result_position": 193,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Nolaskogsarna": {
+            "result_position": 204,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -31870,6 +33698,16 @@
           "OK Nolaskogsarna 2": {
             "result_position": 217,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Nolaskogsarna": {
+            "result_position": 68,
+            "status": "OK"
+          },
+          "OK Nolaskogsarna 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -31950,6 +33788,12 @@
             "result_position": 197,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Markbygdens OK": {
+            "result_position": 198,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -31996,6 +33840,12 @@
         "2010": {
           "Markbygdens OK": {
             "result_position": 208,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Markbygdens OK": {
+            "result_position": 221,
             "status": "OK"
           }
         }
@@ -32082,6 +33932,24 @@
           },
           "Markbygdens OK 4": {
             "result_position": 174,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Markbygdens OK": {
+            "result_position": 8,
+            "status": "OK"
+          },
+          "Markbygdens OK 2": {
+            "result_position": 14,
+            "status": "OK"
+          },
+          "Markbygdens OK 3": {
+            "result_position": 155,
+            "status": "OK"
+          },
+          "Markbygdens OK 4": {
+            "result_position": 210,
             "status": "OK"
           }
         }
@@ -32171,6 +34039,16 @@
             "result_position": 154,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Vänersborgs SK": {
+            "result_position": 36,
+            "status": "OK"
+          },
+          "Vänersborgs SK 2": {
+            "result_position": 130,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -32239,6 +34117,16 @@
           },
           "Vänersborgs SK 2": {
             "result_position": 252,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Vänersborgs SK": {
+            "result_position": 102,
+            "status": "OK"
+          },
+          "Vänersborgs SK 2": {
+            "result_position": 298,
             "status": "OK"
           }
         }
@@ -32311,6 +34199,16 @@
           },
           "Vänersborgs SK 2": {
             "result_position": 150,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Vänersborgs SK": {
+            "result_position": 92,
+            "status": "OK"
+          },
+          "Vänersborgs SK 2": {
+            "result_position": 200,
             "status": "OK"
           }
         }
@@ -32868,6 +34766,12 @@
             "result_position": 183,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Södertörn": {
+            "result_position": 182,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -33026,6 +34930,12 @@
             "result_position": 93,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Södertörn": {
+            "result_position": 157,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -33178,6 +35088,12 @@
             "result_position": 159,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Södertörn": {
+            "result_position": 119,
+            "status": "OK"
+          }
         }
       }
     },
@@ -33213,6 +35129,16 @@
         "2009": {
           "Norbergs OK": {
             "result_position": 101,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Norbergs OK": {
+            "result_position": 46,
+            "status": "OK"
+          },
+          "Norbergs OK 2": {
+            "result_position": 211,
             "status": "OK"
           }
         }
@@ -33258,6 +35184,20 @@
           "Norbergs OK": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Norbergs OK": {
+            "result_position": 135,
+            "status": "OK"
+          }
+        }
+      },
+      "Ungdomskavlen": {
+        "2008": {
+          "Norbergs OK": {
+            "result_position": 283,
+            "status": "OK"
           }
         }
       }
@@ -33625,6 +35565,16 @@
             "result_position": null,
             "status": "MissingPunch"
           }
+        },
+        "2008": {
+          "Sundsvalls OK": {
+            "result_position": 103,
+            "status": "OK"
+          },
+          "Sundsvalls OK 2": {
+            "result_position": 241,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -33811,6 +35761,20 @@
             "result_position": 247,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sundsvalls OK": {
+            "result_position": 76,
+            "status": "OK"
+          },
+          "Sundsvalls OK 2": {
+            "result_position": 232,
+            "status": "OK"
+          },
+          "Sundsvalls OK 3": {
+            "result_position": 252,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -33977,6 +35941,20 @@
             "result_position": null,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sundsvalls OK": {
+            "result_position": 86,
+            "status": "OK"
+          },
+          "Sundsvalls OK 2": {
+            "result_position": 146,
+            "status": "OK"
+          },
+          "Sundsvalls OK 3": {
+            "result_position": 171,
+            "status": "OK"
+          }
         }
       }
     },
@@ -34068,6 +36046,12 @@
             "result_position": 90,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Lappeen Riento": {
+            "result_position": 115,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -34075,6 +36059,12 @@
           "Lappeen Riento 1": {
             "result_position": 119,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Lappeen Riento": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       }
@@ -34385,6 +36375,12 @@
             "result_position": 99,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Kolmården": {
+            "result_position": 97,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -34551,6 +36547,20 @@
             "result_position": 244,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Kolmården": {
+            "result_position": 49,
+            "status": "OK"
+          },
+          "OK Kolmården 2": {
+            "result_position": 201,
+            "status": "OK"
+          },
+          "OK Kolmården 3": {
+            "result_position": 243,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -34709,6 +36719,20 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "OK Kolmården": {
+            "result_position": 73,
+            "status": "OK"
+          },
+          "OK Kolmården 2": {
+            "result_position": 128,
+            "status": "OK"
+          },
+          "OK Kolmården 3": {
+            "result_position": 214,
+            "status": "OK"
+          }
         }
       }
     },
@@ -34798,6 +36822,16 @@
             "result_position": 274,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Ronneby OK": {
+            "result_position": 122,
+            "status": "OK"
+          },
+          "Ronneby OK 2": {
+            "result_position": null,
+            "status": "DidNotFinish"
+          }
         }
       },
       "Damkavlen": {
@@ -34862,6 +36896,16 @@
           },
           "Ronneby OK 2": {
             "result_position": 249,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Ronneby OK": {
+            "result_position": 123,
+            "status": "OK"
+          },
+          "Ronneby OK 2": {
+            "result_position": 301,
             "status": "OK"
           }
         }
@@ -34931,6 +36975,12 @@
             "status": "OK"
           },
           "Ronneby OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Ronneby OK": {
             "result_position": null,
             "status": "Disqualified"
           }
@@ -35212,6 +37262,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Jönköpings OK": {
+            "result_position": 99,
+            "status": "OK"
+          },
+          "Jönköpings OK 2": {
+            "result_position": 213,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -35354,6 +37414,16 @@
           },
           "Jönköpings OK 2": {
             "result_position": 227,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Jönköpings OK": {
+            "result_position": 106,
+            "status": "OK"
+          },
+          "Jönköpings OK 2": {
+            "result_position": 293,
             "status": "OK"
           }
         }
@@ -35947,6 +38017,12 @@
             "result_position": 210,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Växjö OK": {
+            "result_position": 106,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -36079,6 +38155,12 @@
           },
           "Växjö OK 2": {
             "result_position": 153,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Växjö OK": {
+            "result_position": 185,
             "status": "OK"
           }
         }
@@ -36284,6 +38366,12 @@
             "result_position": 155,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Löftan": {
+            "result_position": 166,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -36326,6 +38414,12 @@
         "2025": {
           "OK Löftan 1": {
             "result_position": 162,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Löftan": {
+            "result_position": 101,
             "status": "OK"
           }
         }
@@ -36483,6 +38577,12 @@
             "result_position": 106,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Klemmingen": {
+            "result_position": 152,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -36591,6 +38691,12 @@
             "result_position": 166,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Klemmingen": {
+            "result_position": 169,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -36658,6 +38764,16 @@
           "OK Klemmingen": {
             "result_position": 109,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Klemmingen": {
+            "result_position": 153,
+            "status": "OK"
+          },
+          "OK Klemmingen 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -37145,6 +39261,16 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Sundbybergs IK": {
+            "result_position": 218,
+            "status": "OK"
+          },
+          "Sundbybergs IK 2": {
+            "result_position": 260,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -37270,6 +39396,12 @@
           "Sundbybergs IK": {
             "result_position": 142,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Sundbybergs IK": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -37481,6 +39613,16 @@
             "result_position": 219,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sundbybergs IK": {
+            "result_position": 217,
+            "status": "OK"
+          },
+          "Sundbybergs IK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -37597,6 +39739,12 @@
             "result_position": 104,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Jämsän Retki-Veikot": {
+            "result_position": 76,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -37609,6 +39757,16 @@
         "2010": {
           "Jämsän Retki-Veikot": {
             "result_position": 185,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Jämsän Retki-Veikot": {
+            "result_position": 130,
+            "status": "OK"
+          },
+          "Jämsän Retki-Veikot 2": {
+            "result_position": 307,
             "status": "OK"
           }
         }
@@ -37704,6 +39862,12 @@
             "result_position": 185,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Hammaren": {
+            "result_position": 148,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -37788,6 +39952,12 @@
         "2010": {
           "OK Hammaren": {
             "result_position": 151,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Hammaren": {
+            "result_position": 168,
             "status": "OK"
           }
         }
@@ -37999,6 +40169,16 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Lunds OK": {
+            "result_position": 156,
+            "status": "OK"
+          },
+          "Lunds OK 2": {
+            "result_position": 271,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -38137,6 +40317,20 @@
           },
           "Lunds OK 5": {
             "result_position": 286,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Lunds OK": {
+            "result_position": 96,
+            "status": "OK"
+          },
+          "Lunds OK 2": {
+            "result_position": 240,
+            "status": "OK"
+          },
+          "Lunds OK 3": {
+            "result_position": 275,
             "status": "OK"
           }
         }
@@ -38289,6 +40483,12 @@
             "result_position": 213,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Lunds OK": {
+            "result_position": 27,
+            "status": "OK"
+          }
         }
       }
     },
@@ -38344,6 +40544,12 @@
         "2009": {
           "Joutsenon Kullervo": {
             "result_position": 144,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Joutsenon Kullervo": {
+            "result_position": 89,
             "status": "OK"
           }
         }
@@ -38451,6 +40657,12 @@
             "result_position": 223,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Halmstad OK": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -38523,6 +40735,12 @@
           },
           "Halmstad OK 2": {
             "result_position": 196,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Halmstad OK": {
+            "result_position": 56,
             "status": "OK"
           }
         }
@@ -38660,6 +40878,12 @@
             "result_position": 109,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Tranan": {
+            "result_position": 118,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -38774,6 +40998,12 @@
         "2009": {
           "OK Tranan": {
             "result_position": 156,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Tranan": {
+            "result_position": 115,
             "status": "OK"
           }
         }
@@ -39042,6 +41272,12 @@
             "result_position": 237,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Centrum OK": {
+            "result_position": 269,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -39158,6 +41394,12 @@
         "2009": {
           "Centrum OK": {
             "result_position": 220,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Centrum OK": {
+            "result_position": 270,
             "status": "OK"
           }
         }
@@ -39367,6 +41609,12 @@
             "result_position": 291,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Trollhättans SOK": {
+            "result_position": 261,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -39485,6 +41733,16 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Trollhättans SOK": {
+            "result_position": 46,
+            "status": "OK"
+          },
+          "Trollhättans SOK 2": {
+            "result_position": 133,
+            "status": "OK"
+          }
         }
       }
     },
@@ -39598,6 +41856,12 @@
           },
           "FK Göingarna 3": {
             "result_position": 227,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "FK Göingarna": {
+            "result_position": 120,
             "status": "OK"
           }
         }
@@ -39909,6 +42173,12 @@
             "result_position": 243,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Snättringe SK": {
+            "result_position": 205,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -40033,6 +42303,12 @@
         "2009": {
           "Snättringe SK": {
             "result_position": 259,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Snättringe SK": {
+            "result_position": 229,
             "status": "OK"
           }
         }
@@ -40182,6 +42458,12 @@
           "Snättringe SK 2": {
             "result_position": null,
             "status": "DidNotStart"
+          }
+        },
+        "2008": {
+          "Snättringe SK": {
+            "result_position": 213,
+            "status": "OK"
           }
         }
       }
@@ -40836,6 +43118,12 @@
             "result_position": 174,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Siilin Rasti": {
+            "result_position": 129,
+            "status": "OK"
+          }
         }
       }
     },
@@ -40955,6 +43243,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2008": {
+          "Oppsal Orientering": {
+            "result_position": 240,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -41046,6 +43340,12 @@
           "Oppsal Orientering 2": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2008": {
+          "Oppsal Orientering": {
+            "result_position": 236,
+            "status": "OK"
           }
         }
       },
@@ -41164,6 +43464,16 @@
           "Oppsal Orientering 4": {
             "result_position": 229,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Oppsal Orientering": {
+            "result_position": 105,
+            "status": "OK"
+          },
+          "Oppsal Orientering 2": {
+            "result_position": null,
+            "status": "DidNotFinish"
           }
         }
       }
@@ -41326,6 +43636,12 @@
             "result_position": 284,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Vallentuna-Össeby OL": {
+            "result_position": 255,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -41372,6 +43688,16 @@
         "2009": {
           "Vallentuna-Össeby OL": {
             "result_position": 193,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Vallentuna-Össeby OL": {
+            "result_position": 110,
+            "status": "OK"
+          },
+          "Vallentuna-Össeby OL 2": {
+            "result_position": 265,
             "status": "OK"
           }
         }
@@ -41504,6 +43830,12 @@
             "result_position": 159,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Landehof": {
+            "result_position": 171,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -41592,6 +43924,12 @@
           },
           "OK Landehof 2": {
             "result_position": 229,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Landehof": {
+            "result_position": 110,
             "status": "OK"
           }
         }
@@ -42214,6 +44552,20 @@
             "result_position": 282,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Østmarka OK": {
+            "result_position": 269,
+            "status": "OK"
+          },
+          "Østmarka OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Østmarka OK 3": {
+            "result_position": null,
+            "status": "DidNotFinish"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -42326,6 +44678,16 @@
             "result_position": 220,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Østmarka OK": {
+            "result_position": 132,
+            "status": "OK"
+          },
+          "Østmarka OK 2": {
+            "result_position": 202,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -42371,6 +44733,12 @@
           "Østmarka OK 2": {
             "result_position": null,
             "status": "DidNotFinish"
+          }
+        },
+        "2008": {
+          "Østmarka OK": {
+            "result_position": 321,
+            "status": "OK"
           }
         }
       }
@@ -42546,6 +44914,12 @@
         "2023": {
           "OK Tor / OK Torfinn / Ori-Estarreja / Söders-Tyresö / Ärla IF 2": {
             "result_position": 155,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Tor": {
+            "result_position": 125,
             "status": "OK"
           }
         }
@@ -43016,6 +45390,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Boxholm-Mjölby OL": {
+            "result_position": 257,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -43055,6 +45435,12 @@
           "Boxholm-Mjölby OL": {
             "result_position": null,
             "status": "DidNotFinish"
+          }
+        },
+        "2008": {
+          "Boxholm-Mjölby OL": {
+            "result_position": 137,
+            "status": "OK"
           }
         }
       },
@@ -43214,6 +45600,12 @@
         "2009": {
           "OK Österåker": {
             "result_position": 263,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Österåker": {
+            "result_position": 196,
             "status": "OK"
           }
         }
@@ -43396,6 +45788,16 @@
             "result_position": null,
             "status": "DidNotStart"
           }
+        },
+        "2008": {
+          "OK Österåker": {
+            "result_position": 233,
+            "status": "OK"
+          },
+          "OK Österåker 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -43475,6 +45877,12 @@
         "2009": {
           "Hauhon Sisu": {
             "result_position": 179,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Hauhon Sisu": {
+            "result_position": 191,
             "status": "OK"
           }
         }
@@ -44302,6 +46710,12 @@
             "result_position": 182,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Rastivarsat": {
+            "result_position": 137,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -44350,6 +46764,12 @@
             "result_position": 139,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Rastivarsat": {
+            "result_position": 107,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -44396,6 +46816,20 @@
           },
           "Rastivarsat 3": {
             "result_position": 182,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Rastivarsat": {
+            "result_position": 94,
+            "status": "OK"
+          },
+          "Rastivarsat 2": {
+            "result_position": 149,
+            "status": "OK"
+          },
+          "Rastivarsat 3": {
+            "result_position": 247,
             "status": "OK"
           }
         }
@@ -44493,6 +46927,16 @@
             "result_position": 145,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Skogslöparna": {
+            "result_position": 119,
+            "status": "OK"
+          },
+          "Skogslöparna 2": {
+            "result_position": 264,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -44581,6 +47025,16 @@
             "result_position": 124,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Skogslöparna": {
+            "result_position": 139,
+            "status": "OK"
+          },
+          "Skogslöparna 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -44648,6 +47102,16 @@
           "Skogslöparna": {
             "result_position": 138,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Skogslöparna": {
+            "result_position": 253,
+            "status": "OK"
+          },
+          "Skogslöparna 2": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -44738,6 +47202,12 @@
             "result_position": 214,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Kullingshof": {
+            "result_position": 183,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -44796,6 +47266,20 @@
           },
           "OK Kullingshof 2": {
             "result_position": 132,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Kullingshof": {
+            "result_position": 66,
+            "status": "OK"
+          },
+          "OK Kullingshof 2": {
+            "result_position": 139,
+            "status": "OK"
+          },
+          "OK Kullingshof 3": {
+            "result_position": 174,
             "status": "OK"
           }
         }
@@ -44880,6 +47364,12 @@
         "2009": {
           "Forsa OK": {
             "result_position": 191,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Forsa OK": {
+            "result_position": 212,
             "status": "OK"
           }
         }
@@ -44978,6 +47468,12 @@
             "result_position": 245,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Forsa OK": {
+            "result_position": 171,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45020,6 +47516,16 @@
         "2009": {
           "Forsa OK": {
             "result_position": 134,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Forsa OK": {
+            "result_position": 55,
+            "status": "OK"
+          },
+          "Forsa OK 2": {
+            "result_position": 251,
             "status": "OK"
           }
         }
@@ -45126,6 +47632,12 @@
             "result_position": 185,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Falköpings AIK OK": {
+            "result_position": 214,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -45228,6 +47740,12 @@
             "result_position": 254,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Falköpings AIK OK": {
+            "result_position": 317,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45310,6 +47828,20 @@
           },
           "Falköpings AIK OK 3": {
             "result_position": 218,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Falköpings AIK OK": {
+            "result_position": 169,
+            "status": "OK"
+          },
+          "Falköpings AIK OK 2": {
+            "result_position": 254,
+            "status": "OK"
+          },
+          "Falköpings AIK OK 3": {
+            "result_position": 260,
             "status": "OK"
           }
         }
@@ -45487,6 +48019,12 @@
             "result_position": 200,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kils OK": {
+            "result_position": 113,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45577,6 +48115,12 @@
             "result_position": 98,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kils OK": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -45596,6 +48140,12 @@
         "2010": {
           "Hammarby IF OF": {
             "result_position": 150,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Hammarby IF OF": {
+            "result_position": 151,
             "status": "OK"
           }
         }
@@ -45705,6 +48255,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Pihkaniskat": {
+            "result_position": 206,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -45731,6 +48287,12 @@
             "result_position": 210,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Pihkaniskat": {
+            "result_position": 196,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -45743,6 +48305,12 @@
         "2009": {
           "Pihkaniskat": {
             "result_position": 129,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Pihkaniskat": {
+            "result_position": 164,
             "status": "OK"
           }
         }
@@ -45836,6 +48404,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Väsby OK": {
+            "result_position": 160,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -45896,6 +48470,12 @@
         "2009": {
           "Väsby OK": {
             "result_position": 271,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Väsby OK": {
+            "result_position": 250,
             "status": "OK"
           }
         }
@@ -46097,6 +48677,16 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "IF Thor": {
+            "result_position": 112,
+            "status": "OK"
+          },
+          "IF Thor 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -46238,6 +48828,24 @@
           "IF Thor 2": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "IF Thor": {
+            "result_position": 24,
+            "status": "OK"
+          },
+          "IF Thor 2": {
+            "result_position": 148,
+            "status": "OK"
+          },
+          "IF Thor 3": {
+            "result_position": 219,
+            "status": "OK"
+          },
+          "IF Thor 4": {
+            "result_position": 224,
+            "status": "OK"
           }
         }
       },
@@ -46400,6 +49008,12 @@
             "result_position": 269,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Rastikarhut": {
+            "result_position": 195,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -46490,6 +49104,12 @@
             "result_position": 234,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Rastikarhut": {
+            "result_position": 9,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -46548,6 +49168,20 @@
         "2010": {
           "Rastikarhut": {
             "result_position": 134,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Rastikarhut": {
+            "result_position": 79,
+            "status": "OK"
+          },
+          "Rastikarhut 2": {
+            "result_position": 231,
+            "status": "OK"
+          },
+          "Rastikarhut 3": {
+            "result_position": 262,
             "status": "OK"
           }
         }
@@ -46651,6 +49285,16 @@
           },
           "Falkenbergs OK 2": {
             "result_position": 269,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Falkenbergs OK": {
+            "result_position": 158,
+            "status": "OK"
+          },
+          "Falkenbergs OK 2": {
+            "result_position": 273,
             "status": "OK"
           }
         }
@@ -46786,6 +49430,12 @@
           "Falkenbergs OK 2": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Falkenbergs OK": {
+            "result_position": 112,
+            "status": "OK"
           }
         }
       }
@@ -46979,6 +49629,12 @@
             "result_position": 260,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Bredaryds SOK": {
+            "result_position": 79,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -47079,6 +49735,12 @@
         "2009": {
           "Bredaryds SOK": {
             "result_position": 81,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Bredaryds SOK": {
+            "result_position": 54,
             "status": "OK"
           }
         }
@@ -47185,6 +49847,12 @@
             "result_position": 13,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Bredaryds SOK": {
+            "result_position": 26,
+            "status": "OK"
+          }
         }
       }
     },
@@ -47270,6 +49938,12 @@
         "2009": {
           "Köping-Kolsva OK": {
             "result_position": 138,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Köping-Kolsva OK": {
+            "result_position": 186,
             "status": "OK"
           }
         }
@@ -47366,6 +50040,16 @@
             "result_position": 222,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Köping-Kolsva OK": {
+            "result_position": 140,
+            "status": "OK"
+          },
+          "Köping-Kolsva OK 2": {
+            "result_position": 281,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -47410,6 +50094,16 @@
           },
           "Köping-Kolsva OK 2": {
             "result_position": 197,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Köping-Kolsva OK": {
+            "result_position": 77,
+            "status": "OK"
+          },
+          "Köping-Kolsva OK 2": {
+            "result_position": 211,
             "status": "OK"
           }
         }
@@ -47504,6 +50198,12 @@
           "Skarpnäcks OL": {
             "result_position": 219,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Skarpnäcks OL": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -47601,6 +50301,16 @@
         "2009": {
           "Skarpnäcks OL": {
             "result_position": 122,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Skarpnäcks OL": {
+            "result_position": 85,
+            "status": "OK"
+          },
+          "Skarpnäcks OL 2": {
+            "result_position": 267,
             "status": "OK"
           }
         }
@@ -47732,6 +50442,16 @@
           "Skarpnäcks OL 3": {
             "result_position": null,
             "status": "DidNotFinish"
+          }
+        },
+        "2008": {
+          "Skarpnäcks OL": {
+            "result_position": 278,
+            "status": "OK"
+          },
+          "Skarpnäcks OL 2": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       }
@@ -48155,6 +50875,16 @@
             "result_position": 147,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kungälvs OK": {
+            "result_position": 218,
+            "status": "OK"
+          },
+          "Kungälvs OK 2": {
+            "result_position": 248,
+            "status": "OK"
+          }
         }
       }
     },
@@ -48391,6 +51121,12 @@
             "result_position": 143,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Keravan Urheilijat": {
+            "result_position": 193,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -48408,6 +51144,12 @@
           "Keravan Urheilijat 2": {
             "result_position": null,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Keravan Urheilijat": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -48908,6 +51650,14 @@
             "status": "OK"
           }
         }
+      },
+      "Damkavlen": {
+        "2008": {
+          "ASS Raisu Lumous": {
+            "result_position": 203,
+            "status": "OK"
+          }
+        }
       }
     },
     "names": [
@@ -48992,6 +51742,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "IFK Enskede": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -49064,6 +51820,16 @@
             "result_position": 211,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IFK Enskede": {
+            "result_position": 233,
+            "status": "OK"
+          },
+          "IFK Enskede 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -49132,6 +51898,12 @@
           }
         },
         "2009": {
+          "IFK Enskede": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
           "IFK Enskede": {
             "result_position": null,
             "status": "Disqualified"
@@ -49252,6 +52024,16 @@
             "result_position": null,
             "status": "DidNotStart"
           }
+        },
+        "2008": {
+          "Avesta OK": {
+            "result_position": 308,
+            "status": "OK"
+          },
+          "Avesta OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -49294,6 +52076,12 @@
             "result_position": 135,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Avesta OK": {
+            "result_position": 242,
+            "status": "OK"
+          }
         }
       }
     },
@@ -49326,6 +52114,12 @@
           "Mäntsälän Urheilijat": {
             "result_position": 96,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Mäntsälän Urheilijat": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -49371,6 +52165,12 @@
         "2014": {
           "Mäntsälän Urheilijat 1": {
             "result_position": 161,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Mäntsälän Urheilijat": {
+            "result_position": 191,
             "status": "OK"
           }
         }
@@ -49434,6 +52234,12 @@
         "2009": {
           "Katrineholms OK": {
             "result_position": 233,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Katrineholms OK": {
+            "result_position": 238,
             "status": "OK"
           }
         }
@@ -49524,6 +52330,16 @@
             "result_position": 36,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Katrineholms OK": {
+            "result_position": 30,
+            "status": "OK"
+          },
+          "Katrineholms OK 2": {
+            "result_position": 259,
+            "status": "OK"
+          }
         }
       }
     },
@@ -49607,6 +52423,12 @@
         "2009": {
           "OK Moss": {
             "result_position": 254,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Moss": {
+            "result_position": 233,
             "status": "OK"
           }
         }
@@ -49716,6 +52538,16 @@
           "OK Moss": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "OK Moss": {
+            "result_position": 234,
+            "status": "OK"
+          },
+          "OK Moss 2": {
+            "result_position": 264,
+            "status": "OK"
           }
         }
       },
@@ -49869,6 +52701,12 @@
             "result_position": 206,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Istrums SK": {
+            "result_position": 154,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -49903,6 +52741,12 @@
         "2009": {
           "Istrums SK": {
             "result_position": 145,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Istrums SK": {
+            "result_position": 166,
             "status": "OK"
           }
         }
@@ -50000,6 +52844,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Rånäs OK": {
+            "result_position": 165,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -50094,6 +52944,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Rånäs OK": {
+            "result_position": 193,
+            "status": "OK"
+          },
+          "Rånäs OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -50159,6 +53019,16 @@
           "Rånäs OK": {
             "result_position": 143,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Rånäs OK": {
+            "result_position": 274,
+            "status": "OK"
+          },
+          "Rånäs OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       }
@@ -50382,6 +53252,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Korven Honka": {
+            "result_position": 258,
+            "status": "OK"
+          }
         }
       }
     },
@@ -50505,6 +53381,12 @@
             "result_position": 186,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Fossum IF": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -50616,6 +53498,12 @@
           "Fossum IF 2": {
             "result_position": 236,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Fossum IF": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -50900,6 +53788,40 @@
           "Fossum IF 6": {
             "result_position": 189,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Fossum IF": {
+            "result_position": 4,
+            "status": "OK"
+          },
+          "Fossum IF 2": {
+            "result_position": 49,
+            "status": "OK"
+          },
+          "Fossum IF 3": {
+            "result_position": 62,
+            "status": "OK"
+          },
+          "Fossum IF 4": {
+            "result_position": 173,
+            "status": "OK"
+          },
+          "Fossum IF 5": {
+            "result_position": 207,
+            "status": "OK"
+          },
+          "Fossum IF 6": {
+            "result_position": 244,
+            "status": "OK"
+          },
+          "Fossum IF 7": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Fossum IF 8": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       }
@@ -51506,6 +54428,20 @@
             "result_position": 161,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sigtuna OK": {
+            "result_position": 272,
+            "status": "OK"
+          },
+          "Sigtuna OK 2": {
+            "result_position": 286,
+            "status": "OK"
+          },
+          "Sigtuna OK 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -51886,6 +54822,16 @@
             "result_position": 240,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Alehof": {
+            "result_position": 90,
+            "status": "OK"
+          },
+          "OK Alehof 2": {
+            "result_position": 229,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -51946,6 +54892,12 @@
         "2009": {
           "OK Alehof": {
             "result_position": 191,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Alehof": {
+            "result_position": 265,
             "status": "OK"
           }
         }
@@ -52050,6 +55002,16 @@
         "2009": {
           "OK Alehof": {
             "result_position": 51,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Alehof": {
+            "result_position": 10,
+            "status": "OK"
+          },
+          "OK Alehof 2": {
+            "result_position": 165,
             "status": "OK"
           }
         }
@@ -52223,6 +55185,16 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Tibro OK": {
+            "result_position": 166,
+            "status": "OK"
+          },
+          "Tibro OK 2": {
+            "result_position": 232,
+            "status": "OK"
+          }
         }
       }
     },
@@ -52383,6 +55355,12 @@
         "2009": {
           "Skogsluffarnas OK": {
             "result_position": 280,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Skogsluffarnas OK": {
+            "result_position": 302,
             "status": "OK"
           }
         }
@@ -52593,6 +55571,12 @@
             "result_position": 31,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Hiisirasti": {
+            "result_position": 28,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -52661,6 +55645,12 @@
         "2009": {
           "Hiisirasti": {
             "result_position": 35,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Hiisirasti": {
+            "result_position": 37,
             "status": "OK"
           }
         }
@@ -52892,6 +55882,12 @@
         "2009": {
           "Lapuan Virkiä": {
             "result_position": 61,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Lapuan Virkiä": {
+            "result_position": 54,
             "status": "OK"
           }
         }
@@ -53565,6 +56561,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Porsgrunn OL": {
+            "result_position": 258,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -53710,6 +56712,20 @@
             "status": "DidNotStart"
           },
           "Porsgrunn OL 4": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Porsgrunn OL": {
+            "result_position": 152,
+            "status": "OK"
+          },
+          "Porsgrunn OL 2": {
+            "result_position": 271,
+            "status": "OK"
+          },
+          "Porsgrunn OL 3": {
             "result_position": null,
             "status": "Disqualified"
           }
@@ -53872,6 +56888,16 @@
           },
           "Larvik OK 2": {
             "result_position": 145,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Larvik OK": {
+            "result_position": 16,
+            "status": "OK"
+          },
+          "Larvik OK 2": {
+            "result_position": 117,
             "status": "OK"
           }
         }
@@ -54103,6 +57129,12 @@
         "2010": {
           "Gustavsbergs OK": {
             "result_position": 71,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Gustavsbergs OK": {
+            "result_position": 202,
             "status": "OK"
           }
         }
@@ -54601,6 +57633,16 @@
             "result_position": 238,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IF Hagen": {
+            "result_position": 197,
+            "status": "OK"
+          },
+          "IF Hagen 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -54659,6 +57701,16 @@
         "2009": {
           "IF Hagen": {
             "result_position": 176,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IF Hagen": {
+            "result_position": 124,
+            "status": "OK"
+          },
+          "IF Hagen 2": {
+            "result_position": 228,
             "status": "OK"
           }
         }
@@ -54740,6 +57792,12 @@
         "2009": {
           "OK Orinto": {
             "result_position": 201,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Orinto": {
+            "result_position": 232,
             "status": "OK"
           }
         }
@@ -54894,6 +57952,12 @@
             "result_position": 136,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Roxen": {
+            "result_position": 135,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -55001,6 +58065,12 @@
           "OK Roxen 2": {
             "result_position": 166,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Roxen": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -55214,6 +58284,12 @@
             "result_position": 252,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Saarijärven Pullistus": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -55264,6 +58340,12 @@
         "2010": {
           "Saarijärven Pullistus": {
             "result_position": 211,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Saarijärven Pullistus": {
+            "result_position": 78,
             "status": "OK"
           }
         }
@@ -55960,6 +59042,16 @@
             "result_position": 257,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Aalborg OK": {
+            "result_position": 248,
+            "status": "OK"
+          },
+          "Aalborg OK 2": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -56073,6 +59165,12 @@
             "result_position": 242,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Enen": {
+            "result_position": 226,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -56097,6 +59195,16 @@
         "2025": {
           "Långhundra IF / OK Enen": {
             "result_position": 153,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Enen": {
+            "result_position": 195,
+            "status": "OK"
+          },
+          "OK Enen 2": {
+            "result_position": 225,
             "status": "OK"
           }
         }
@@ -56156,6 +59264,12 @@
             "result_position": 287,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Tylöskog": {
+            "result_position": 261,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -56180,6 +59294,12 @@
         "2009": {
           "OK Tylöskog": {
             "result_position": 152,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Tylöskog": {
+            "result_position": 252,
             "status": "OK"
           }
         }
@@ -56302,6 +59422,16 @@
             "result_position": 281,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IK Gandvik": {
+            "result_position": 107,
+            "status": "OK"
+          },
+          "IK Gandvik 2": {
+            "result_position": 231,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -56332,6 +59462,12 @@
         "2009": {
           "IK Gandvik": {
             "result_position": 296,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "IK Gandvik": {
+            "result_position": 300,
             "status": "OK"
           }
         }
@@ -56426,6 +59562,12 @@
             "result_position": 157,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Lillehammer OK": {
+            "result_position": 239,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -56476,12 +59618,32 @@
             "result_position": null,
             "status": "DidNotStart"
           }
+        },
+        "2008": {
+          "Lillehammer OK": {
+            "result_position": 184,
+            "status": "OK"
+          },
+          "Lillehammer OK 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          },
+          "Lillehammer OK 3": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
         "2017": {
           "Gjø-Vard OL / Hamar OK / Lillehammer OK 1": {
             "result_position": 155,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Lillehammer OK": {
+            "result_position": 309,
             "status": "OK"
           }
         }
@@ -56788,6 +59950,12 @@
             "result_position": 253,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sala OK": {
+            "result_position": 202,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -56812,6 +59980,12 @@
         "2012": {
           "Sala OK 1": {
             "result_position": 168,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Sala OK": {
+            "result_position": 261,
             "status": "OK"
           }
         }
@@ -57821,6 +60995,12 @@
             "result_position": 90,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Pargas IF": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Herrkavlen": {
@@ -57845,6 +61025,12 @@
         "2025": {
           "Pargas IF 1": {
             "result_position": 138,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Pargas IF": {
+            "result_position": 136,
             "status": "OK"
           }
         }
@@ -57984,6 +61170,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "OK Djerf": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -58100,6 +61292,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2008": {
+          "OK Djerf": {
+            "result_position": 130,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -58160,6 +61358,12 @@
         "2025": {
           "OK Djerf 1": {
             "result_position": 154,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Djerf": {
+            "result_position": 178,
             "status": "OK"
           }
         }
@@ -58364,6 +61568,16 @@
             "result_position": 125,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Hjärnarps GH OL": {
+            "result_position": 50,
+            "status": "OK"
+          },
+          "Hjärnarps GH OL 2": {
+            "result_position": 255,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -58424,6 +61638,12 @@
         "2009": {
           "Hjärnarps GH OL": {
             "result_position": 131,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Hjärnarps GH OL": {
+            "result_position": 157,
             "status": "OK"
           }
         }
@@ -58859,6 +62079,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Umeå OK": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -58913,6 +62139,12 @@
         "2010": {
           "Umeå OK": {
             "result_position": 187,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Umeå OK": {
+            "result_position": 98,
             "status": "OK"
           }
         }
@@ -59126,6 +62358,12 @@
         "2009": {
           "Ähtärin Urheilijat": {
             "result_position": 146,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Ähtärin Urheilijat": {
+            "result_position": 177,
             "status": "OK"
           }
         }
@@ -59372,6 +62610,12 @@
             "result_position": 274,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Skogspojkarnas OK": {
+            "result_position": 283,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -59433,6 +62677,12 @@
           "Skogspojkarnas OK": {
             "result_position": null,
             "status": "MissingPunch"
+          }
+        },
+        "2008": {
+          "Skogspojkarnas OK": {
+            "result_position": 248,
+            "status": "OK"
           }
         }
       },
@@ -59508,6 +62758,12 @@
         "2009": {
           "Skogspojkarnas OK": {
             "result_position": 29,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Skogspojkarnas OK": {
+            "result_position": 176,
             "status": "OK"
           }
         }
@@ -59798,6 +63054,16 @@
             "result_position": 55,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Dalaportens OL": {
+            "result_position": 134,
+            "status": "OK"
+          },
+          "Dalaportens OL 2": {
+            "result_position": 292,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -59856,6 +63122,16 @@
             "result_position": 113,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Dalaportens OL": {
+            "result_position": 104,
+            "status": "OK"
+          },
+          "Dalaportens OL 2": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -59875,6 +63151,12 @@
         "2012": {
           "Kuzmolovo 110% 1": {
             "result_position": 206,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Kuzmolovo 110%": {
+            "result_position": 279,
             "status": "OK"
           }
         }
@@ -59897,6 +63179,14 @@
           },
           "Kuzmolovo 110% 1": {
             "result_position": 146,
+            "status": "OK"
+          }
+        }
+      },
+      "Herrkavlen": {
+        "2008": {
+          "Kuzmolovo 110%": {
+            "result_position": 236,
             "status": "OK"
           }
         }
@@ -59936,6 +63226,12 @@
         "2009": {
           "Skattkärrs IF": {
             "result_position": 233,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Skattkärrs IF": {
+            "result_position": 306,
             "status": "OK"
           }
         }
@@ -60033,6 +63329,12 @@
             "result_position": 205,
             "status": "OK"
           }
+        },
+        "2008": {
+          "FK Friskus-Varberg": {
+            "result_position": 51,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -60091,6 +63393,12 @@
         "2009": {
           "FK Friskus-Varberg": {
             "result_position": 147,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "FK Friskus-Varberg": {
+            "result_position": 96,
             "status": "OK"
           }
         }
@@ -60324,6 +63632,12 @@
             "result_position": 208,
             "status": "OK"
           }
+        },
+        "2008": {
+          "SOL Tranås": {
+            "result_position": 280,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -60392,6 +63706,12 @@
             "result_position": 102,
             "status": "OK"
           }
+        },
+        "2008": {
+          "SOL Tranås": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Herrkavlen": {
@@ -60435,6 +63755,12 @@
           "SOL Tranås": {
             "result_position": null,
             "status": "MissingPunch"
+          }
+        },
+        "2008": {
+          "SOL Tranås": {
+            "result_position": 251,
+            "status": "OK"
           }
         }
       }
@@ -60511,12 +63837,24 @@
             "result_position": 167,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Klyftamo": {
+            "result_position": 181,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
         "2017": {
           "Lidköpings VSK / IK Gandvik / OK Klyftamo / Ryda SK 1": {
             "result_position": 255,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Klyftamo": {
+            "result_position": 144,
             "status": "OK"
           }
         }
@@ -60531,6 +63869,12 @@
         "2009": {
           "OK Klyftamo": {
             "result_position": 157,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Klyftamo": {
+            "result_position": 111,
             "status": "OK"
           }
         }
@@ -60978,6 +64322,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2008": {
+          "Söderhamns OK": {
+            "result_position": 244,
+            "status": "OK"
+          }
         }
       }
     },
@@ -61370,6 +64720,16 @@
             "result_position": 82,
             "status": "OK"
           }
+        },
+        "2008": {
+          "IF Sturla": {
+            "result_position": 222,
+            "status": "OK"
+          },
+          "IF Sturla 2": {
+            "result_position": 226,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -61646,6 +65006,16 @@
             "result_position": 87,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Skogsstjärnan": {
+            "result_position": 249,
+            "status": "OK"
+          },
+          "OK Skogsstjärnan 2": {
+            "result_position": 263,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -61678,6 +65048,12 @@
         "2025": {
           "Mariestads FK / OK Skogsstjärnan 1": {
             "result_position": 256,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Skogsstjärnan": {
+            "result_position": 190,
             "status": "OK"
           }
         }
@@ -61759,6 +65135,12 @@
             "result_position": 256,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Länna IF": {
+            "result_position": 320,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -61813,6 +65195,12 @@
         "2012": {
           "Länna IF 1": {
             "result_position": null,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Länna IF": {
+            "result_position": 148,
             "status": "OK"
           }
         }
@@ -61910,6 +65298,12 @@
             "result_position": 147,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Nybro OK": {
+            "result_position": 159,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -61932,6 +65326,12 @@
           }
         },
         "2009": {
+          "Nybro OK": {
+            "result_position": 65,
+            "status": "OK"
+          }
+        },
+        "2008": {
           "Nybro OK": {
             "result_position": 65,
             "status": "OK"
@@ -62007,6 +65407,12 @@
         "2010": {
           "Sjövalla FK": {
             "result_position": 237,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Sjövalla FK": {
+            "result_position": 119,
             "status": "OK"
           }
         }
@@ -62097,6 +65503,12 @@
           },
           "Sjövalla FK 3": {
             "result_position": 214,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Sjövalla FK": {
+            "result_position": 150,
             "status": "OK"
           }
         }
@@ -63002,6 +66414,12 @@
             "result_position": null,
             "status": "DidNotStart"
           }
+        },
+        "2008": {
+          "Hallstahammars OK": {
+            "result_position": 269,
+            "status": "OK"
+          }
         }
       }
     },
@@ -63079,6 +66497,12 @@
             "result_position": 74,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Arboga OK": {
+            "result_position": 80,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -63116,6 +66540,12 @@
           },
           "Trosabygdens OK 2": {
             "result_position": 227,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Trosabygdens OK": {
+            "result_position": 263,
             "status": "OK"
           }
         }
@@ -63156,6 +66586,12 @@
             "result_position": 238,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Trosabygdens OK": {
+            "result_position": 257,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -63168,6 +66604,12 @@
         "2024": {
           "IFK Kiruna / OK Klemmingen / Trosabygdens OK 2": {
             "result_position": 265,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Trosabygdens OK": {
+            "result_position": 250,
             "status": "OK"
           }
         }
@@ -63199,6 +66641,12 @@
             "result_position": 157,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Eskilstuna OL": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
@@ -63206,6 +66654,12 @@
           "Eskilstuna OL": {
             "result_position": null,
             "status": "DidNotStart"
+          }
+        },
+        "2008": {
+          "Eskilstuna OL": {
+            "result_position": 179,
+            "status": "OK"
           }
         }
       }
@@ -63244,6 +66698,12 @@
         "2010": {
           "OK Grip": {
             "result_position": 277,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Grip": {
+            "result_position": 235,
             "status": "OK"
           }
         }
@@ -63497,6 +66957,12 @@
             "result_position": 210,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Sarpsborg OL": {
+            "result_position": 114,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -63516,6 +66982,20 @@
           "Sarpsborg OL 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2008": {
+          "Sarpsborg OL": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
+        }
+      },
+      "Herrkavlen": {
+        "2008": {
+          "Sarpsborg OL": {
+            "result_position": 274,
+            "status": "OK"
           }
         }
       }
@@ -63552,6 +67032,20 @@
         "2009": {
           "Trøsken IL": {
             "result_position": 175,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Trøsken IL": {
+            "result_position": 103,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2008": {
+          "Trøsken IL": {
+            "result_position": 276,
             "status": "OK"
           }
         }
@@ -63809,12 +67303,36 @@
             "result_position": null,
             "status": "MissingPunch"
           }
+        },
+        "2008": {
+          "Säterbygdens OK": {
+            "result_position": 227,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
         "2015": {
           "Västerbergslagens OL / Frösö IF / Säterbygdens OK 1": {
             "result_position": 139,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Säterbygdens OK": {
+            "result_position": 266,
+            "status": "OK"
+          }
+        }
+      },
+      "Ungdomskavlen": {
+        "2008": {
+          "Säterbygdens OK": {
+            "result_position": 32,
+            "status": "OK"
+          },
+          "Säterbygdens OK 2": {
+            "result_position": 250,
             "status": "OK"
           }
         }
@@ -64340,6 +67858,12 @@
             "result_position": 138,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Dacke": {
+            "result_position": 128,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -64726,6 +68250,12 @@
             "result_position": 147,
             "status": "OK"
           }
+        },
+        "2008": {
+          "SOK Viljan": {
+            "result_position": 66,
+            "status": "OK"
+          }
         }
       }
     },
@@ -64817,6 +68347,12 @@
           "Härnösands OK": {
             "result_position": 273,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Härnösands OK": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -65184,6 +68720,12 @@
             "result_position": 258,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Reftele": {
+            "result_position": 272,
+            "status": "OK"
+          }
         }
       }
     },
@@ -65437,6 +68979,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2008": {
+          "IFK Hedemora OK": {
+            "result_position": 290,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -65646,6 +69194,12 @@
             "result_position": 160,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Uddevalla OK": {
+            "result_position": 177,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -65744,6 +69298,12 @@
         "2009": {
           "Uddevalla OK": {
             "result_position": 44,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Uddevalla OK": {
+            "result_position": 25,
             "status": "OK"
           }
         }
@@ -66036,6 +69596,12 @@
             "result_position": null,
             "status": "DidNotFinish"
           }
+        },
+        "2008": {
+          "Kalmar OK": {
+            "result_position": 110,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -66152,6 +69718,12 @@
             "result_position": 75,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kalmar OK": {
+            "result_position": 57,
+            "status": "OK"
+          }
         }
       }
     },
@@ -66236,6 +69808,12 @@
         "2010": {
           "Örkelljunga FK": {
             "result_position": 183,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Örkelljunga FK": {
+            "result_position": 190,
             "status": "OK"
           }
         }
@@ -66725,6 +70303,12 @@
             "result_position": 313,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Lidköpings VSK": {
+            "result_position": 251,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -66750,6 +70334,12 @@
           "Lidköpings VSK": {
             "result_position": 265,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Lidköpings VSK": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -67126,6 +70716,12 @@
             "result_position": 245,
             "status": "OK"
           }
+        },
+        "2008": {
+          "FK Boken": {
+            "result_position": 220,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -67250,6 +70846,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Vimmerby OK": {
+            "result_position": 33,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -67319,6 +70921,12 @@
             "result_position": 100,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Kolbotn o Skimt OL": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Damkavlen": {
@@ -67341,6 +70949,12 @@
         "2009": {
           "Kolbotn o Skimt OL": {
             "result_position": 162,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Kolbotn o Skimt OL": {
+            "result_position": 131,
             "status": "OK"
           }
         }
@@ -67394,6 +71008,12 @@
           "Måren OK": {
             "result_position": 99,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Måren OK": {
+            "result_position": null,
+            "status": "Disqualified"
           }
         }
       },
@@ -67454,6 +71074,12 @@
         "2010": {
           "Fjärås AIK": {
             "result_position": 265,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Fjärås AIK": {
+            "result_position": 268,
             "status": "OK"
           }
         }
@@ -68511,6 +72137,12 @@
             "result_position": null,
             "status": "Disqualified"
           }
+        },
+        "2008": {
+          "Gotlands Bro OK": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -68606,6 +72238,12 @@
           "Gotlands OF 1": {
             "result_position": null,
             "status": "MisPunch"
+          }
+        },
+        "2008": {
+          "Gotlands Bro OK": {
+            "result_position": 225,
+            "status": "OK"
           }
         }
       }
@@ -69122,6 +72760,12 @@
             "result_position": 274,
             "status": "OK"
           }
+        },
+        "2008": {
+          "LiTHe Vilse": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -69158,12 +72802,26 @@
             "result_position": 200,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Älgen": {
+            "result_position": 243,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
         "2022": {
           "OK Älgen 1": {
             "result_position": 219,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2008": {
+          "OK Älgen": {
+            "result_position": 299,
             "status": "OK"
           }
         }
@@ -69281,6 +72939,12 @@
             "result_position": 109,
             "status": "OK"
           }
+        },
+        "2008": {
+          "FK Herkules": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -69327,6 +72991,12 @@
         "2009": {
           "FK Herkules": {
             "result_position": 153,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "FK Herkules": {
+            "result_position": 197,
             "status": "OK"
           }
         }
@@ -69429,6 +73099,12 @@
         "2009": {
           "Vetelin Urheilijat": {
             "result_position": 224,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Vetelin Urheilijat": {
+            "result_position": 221,
             "status": "OK"
           }
         }
@@ -70265,6 +73941,12 @@
             "result_position": 171,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Ockelbo OK": {
+            "result_position": 115,
+            "status": "OK"
+          }
         }
       }
     },
@@ -70335,6 +74017,12 @@
           },
           "Åmåls OK 2": {
             "result_position": 232,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Åmåls OK": {
+            "result_position": 200,
             "status": "OK"
           }
         }
@@ -70913,6 +74601,16 @@
             "result_position": 266,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Almby IK": {
+            "result_position": 149,
+            "status": "OK"
+          },
+          "Almby IK 2": {
+            "result_position": 303,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -70987,6 +74685,12 @@
         "2009": {
           "Bjursås OK": {
             "result_position": 155,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Bjursås OK": {
+            "result_position": 199,
             "status": "OK"
           }
         }
@@ -72144,6 +75848,12 @@
             "result_position": 149,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Nackhe": {
+            "result_position": 91,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -72632,6 +76342,12 @@
             "result_position": 157,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Främmestads IK": {
+            "result_position": 141,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -72676,6 +76392,12 @@
             "result_position": 278,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Gipen": {
+            "result_position": 212,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -72707,6 +76429,14 @@
           "OK Gipen": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        }
+      },
+      "Ungdomskavlen": {
+        "2008": {
+          "OK Gipen": {
+            "result_position": 129,
+            "status": "OK"
           }
         }
       }
@@ -72808,6 +76538,16 @@
           "Nässjö OK 3": {
             "result_position": null,
             "status": "Disqualified"
+          }
+        },
+        "2008": {
+          "Nässjö OK": {
+            "result_position": 31,
+            "status": "OK"
+          },
+          "Nässjö OK 2": {
+            "result_position": 158,
+            "status": "OK"
           }
         }
       }
@@ -73779,12 +77519,32 @@
             "result_position": 249,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Måsen": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       },
       "Damkavlen": {
         "2010": {
           "OK Måsen": {
             "result_position": 219,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Måsen": {
+            "result_position": 211,
+            "status": "OK"
+          }
+        }
+      },
+      "Ungdomskavlen": {
+        "2008": {
+          "OK Måsen": {
+            "result_position": 167,
             "status": "OK"
           }
         }
@@ -74107,6 +77867,12 @@
             "result_position": 133,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Garphyttans IF": {
+            "result_position": 270,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -74129,6 +77895,12 @@
             "result_position": null,
             "status": "MisPunch"
           }
+        },
+        "2008": {
+          "Garphyttans IF": {
+            "result_position": null,
+            "status": "DidNotStart"
+          }
         }
       }
     },
@@ -74150,6 +77922,12 @@
         "2012": {
           "Sidensjö IK 1": {
             "result_position": 275,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Sidensjö IK": {
+            "result_position": 205,
             "status": "OK"
           }
         }
@@ -74382,6 +78160,12 @@
             "result_position": 122,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Kontinent": {
+            "result_position": 184,
+            "status": "OK"
+          }
         }
       },
       "Ungdomskavlen": {
@@ -74412,6 +78196,16 @@
           },
           "OK Kontinent 2": {
             "result_position": 294,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Kontinent": {
+            "result_position": 312,
+            "status": "OK"
+          },
+          "OK Kontinent 2": {
+            "result_position": 322,
             "status": "OK"
           }
         }
@@ -75005,12 +78799,24 @@
             "result_position": 161,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Valkeakosken Haka": {
+            "result_position": 131,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
         "2010": {
           "Valkeakosken Haka": {
             "result_position": 114,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Valkeakosken Haka": {
+            "result_position": 188,
             "status": "OK"
           }
         }
@@ -75108,6 +78914,12 @@
         "2010": {
           "Mariestads FK": {
             "result_position": 126,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Mariestads FK": {
+            "result_position": 59,
             "status": "OK"
           }
         }
@@ -75346,6 +79158,12 @@
         "2025": {
           "Rasti-Jussit 1": {
             "result_position": 62,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Rasti-Jussit": {
+            "result_position": 247,
             "status": "OK"
           }
         }
@@ -75923,6 +79741,12 @@
             "result_position": 244,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Östersunds OK": {
+            "result_position": 185,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -75935,6 +79759,12 @@
         "2024": {
           "Östersunds OK 1/ Sundsvalls OK": {
             "result_position": 231,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "Östersunds OK": {
+            "result_position": 145,
             "status": "OK"
           }
         }
@@ -75962,6 +79792,20 @@
           "Frösö IF / OK Storsjön / Östersunds OK 1": {
             "result_position": 248,
             "status": "OK"
+          }
+        },
+        "2008": {
+          "Östersunds OK": {
+            "result_position": 282,
+            "status": "OK"
+          },
+          "Östersunds OK 2": {
+            "result_position": 285,
+            "status": "OK"
+          },
+          "Östersunds OK 3": {
+            "result_position": null,
+            "status": "DidNotStart"
           }
         }
       }
@@ -76328,6 +80172,12 @@
             "result_position": 185,
             "status": "OK"
           }
+        },
+        "2008": {
+          "OK Botnia": {
+            "result_position": 180,
+            "status": "OK"
+          }
         }
       },
       "Herrkavlen": {
@@ -76340,6 +80190,12 @@
         "2010": {
           "OK Botnia": {
             "result_position": 173,
+            "status": "OK"
+          }
+        },
+        "2008": {
+          "OK Botnia": {
+            "result_position": 179,
             "status": "OK"
           }
         }
@@ -77016,6 +80872,12 @@
             "result_position": 100,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Wing OK": {
+            "result_position": 53,
+            "status": "OK"
+          }
         }
       },
       "Damkavlen": {
@@ -77030,6 +80892,12 @@
             "result_position": 64,
             "status": "OK"
           }
+        },
+        "2008": {
+          "Wing OK": {
+            "result_position": null,
+            "status": "Disqualified"
+          }
         }
       }
     },
@@ -77043,6 +80911,14 @@
         "2025": {
           "Asikkalan Raikas 1": {
             "result_position": 92,
+            "status": "OK"
+          }
+        }
+      },
+      "Damkavlen": {
+        "2008": {
+          "Asikkalan Raikas": {
+            "result_position": 209,
             "status": "OK"
           }
         }
