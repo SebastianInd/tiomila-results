@@ -247,7 +247,8 @@ input:focus {
   gap: 1.25rem;
 }
 
-.result-year-card {
+.result-year-card,
+.result-year-card:visited {
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid var(--border-color);
   border-radius: 16px;
@@ -256,6 +257,7 @@ input:focus {
   cursor: pointer;
   text-decoration: none;
   display: block;
+  color: var(--text-primary);
 }
 
 .result-year-card:hover {
@@ -272,6 +274,7 @@ input:focus {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  color: var(--text-primary);
 }
 
 .result-year-header::after {
@@ -287,13 +290,6 @@ input:focus {
   transform: translateX(5px);
 }
 
-.result-year-header a {
-  color: var(--text-primary);
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-}
 
 .result-team {
   font-size: 0.9rem;
